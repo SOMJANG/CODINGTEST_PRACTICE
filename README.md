@@ -17,3 +17,7 @@
 #### Blog : https://bit.ly/2SxVI42
 #### [BaeKJoon] 1676번: 팩토리얼 0의 개수 (Python)
 #### Blog : https://bit.ly/37bEj6T
+
+### DAY04 (2020.02.10)
+#### [BaeKJoon] 2004번: 조합 0의 개수 (Python)
+#### Blog : https://bit.ly/38ewFtH
