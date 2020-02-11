@@ -21,3 +21,11 @@
 ### DAY04 (2020.02.10)
 #### [BaeKJoon] 2004번: 조합 0의 개수 (Python)
 #### Blog : https://bit.ly/38ewFtH
+
+### DAY05 (2020.02.20)
+#### [BaeKJoon] 2751번: 수 정렬하기2 (Python)
+#### Blog : https://bit.ly/2uAmnp6
+#### [BaeKJoon] 11650번: 좌표 정렬하기 (Python)
+#### Blog : https://bit.ly/31JcDoB
+#### [BaeKJoon] 11651번: 좌표 정렬하기 2 (Python)
+#### Blog : https://bit.ly/31JQDKv
