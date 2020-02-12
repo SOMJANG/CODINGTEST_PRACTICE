@@ -29,3 +29,7 @@
 #### Blog : https://bit.ly/31JcDoB
 #### [BaeKJoon] 11651번: 좌표 정렬하기 2 (Python)
 #### Blog : https://bit.ly/31JQDKv
+
+### DAY06 (2020.02.21)
+#### [BaeKJoon] 10814번: 나이순 정렬 (Python)
+#### Blog : https://bit.ly/38lYGzB
