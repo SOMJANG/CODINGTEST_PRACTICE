@@ -37,3 +37,7 @@
 ### DAY07 (2020.02.13)
 #### [BaeKJoon] 10825번: 국영수 (Python)
 #### Blog : https://bit.ly/2uxpgHp
+
+### DAY08 (2020.02.14)
+#### [BaeKJoon] 10989번: 수정렬하기 3 (Python)
+#### Blog : https://bit.ly/2vz2O0k
