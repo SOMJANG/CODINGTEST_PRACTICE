@@ -33,3 +33,7 @@
 ### DAY06 (2020.02.12)
 #### [BaeKJoon] 10814번: 나이순 정렬 (Python)
 #### Blog : https://bit.ly/38lYGzB
+
+### DAY07 (2020.02.13)
+#### [BaeKJoon] 10825번: 국영수 (Python)
+#### Blog : https://bit.ly/2uxpgHp
