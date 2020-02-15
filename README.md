@@ -41,3 +41,7 @@
 ### DAY08 (2020.02.14)
 #### [BaeKJoon] 10989번: 수정렬하기 3 (Python)
 #### Blog : https://bit.ly/2vz2O0k
+
+### DAY09 (2020.02.15)
+#### [BaeKJoon] 11652번: 카드 (Python)
+#### Blog : https://bit.ly/2uDRQqF
