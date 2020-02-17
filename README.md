@@ -49,3 +49,7 @@
 ### DAY10 (2020.02.16)
 #### [BaeKJoon] 11004번: K번째 수 (Python)
 #### Blog : https://bit.ly/2Swevhy
+
+### DAY11 (2020.02.17)
+#### [BaeKJoon] 1377번: 버블 소트 (Python)
+#### Blog : https://bit.ly/38zTcBr
