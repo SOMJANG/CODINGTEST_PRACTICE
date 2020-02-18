@@ -53,3 +53,7 @@
 ### DAY11 (2020.02.17)
 #### [BaeKJoon] 1377번: 버블 소트 (Python)
 #### Blog : https://bit.ly/38zTcBr
+
+### DAY12 (2020.02.18)
+#### [BaeKJoon] 10828번: 스택 (Python)
+#### Blog : https://bit.ly/2SYpCyI
