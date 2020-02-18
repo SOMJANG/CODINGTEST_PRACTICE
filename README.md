@@ -57,3 +57,7 @@
 ### DAY12 (2020.02.18)
 #### [BaeKJoon] 10828번: 스택 (Python)
 #### Blog : https://bit.ly/2SYpCyI
+
+### DAY13 (2020.02.19)
+#### [Programmers] 스택/큐 : 탑 (Python)
+#### Blog : https://bit.ly/2T7Z1Q7
