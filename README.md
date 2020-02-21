@@ -61,3 +61,11 @@
 ### DAY13 (2020.02.19)
 #### [Programmers] 스택/큐 : 탑 (Python)
 #### Blog : https://bit.ly/2T7Z1Q7
+
+### DAY14 (2020.02.20)
+####  [leetCode] Reverse Integer (Python)
+#### Blog : https://ideans.tistory.com/54
+
+### DAY15 (2020.02.21)
+#### [leetCode] Add Two Numbers (Python)
+#### Blog : https://ideans.tistory.com/55
