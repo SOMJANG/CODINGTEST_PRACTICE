@@ -63,9 +63,13 @@
 #### Blog : https://bit.ly/2T7Z1Q7
 
 ### DAY14 (2020.02.20)
-####  [leetCode] Reverse Integer (Python)
+#### [leetCode] Reverse Integer (Python)
 #### Blog : https://ideans.tistory.com/54
 
 ### DAY15 (2020.02.21)
 #### [leetCode] Add Two Numbers (Python)
 #### Blog : https://ideans.tistory.com/55
+
+### DAY16 (2020.02.22)
+#### [Programmers] 완전탐색 : 모의고사 (Python)
+#### Blog : https://bit.ly/2SPfjy5
