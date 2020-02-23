@@ -73,3 +73,7 @@
 ### DAY16 (2020.02.22)
 #### [Programmers] 완전탐색 : 모의고사 (Python)
 #### Blog : https://bit.ly/2SPfjy5
+
+### DAY17 (2020.02.23)
+#### [Programmers] 정렬 : H-Index (Python)
+#### Blog : https://bit.ly/2VbwaNj
