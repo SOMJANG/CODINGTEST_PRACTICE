@@ -81,3 +81,7 @@
 ### DAY18 (2020.02.24)
 #### [Programmers] 해시 : 전화번호 목록 (Python)
 #### Blog : https://bit.ly/3c12453
+
+### DAY19 (2020.02.25)
+#### [Programmers] 스택/큐 : 기능개발 (Python)
+#### Blog : https://bit.ly/2T5Hfww
