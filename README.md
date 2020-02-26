@@ -85,3 +85,7 @@
 ### DAY19 (2020.02.25)
 #### [Programmers] 스택/큐 : 기능개발 (Python)
 #### Blog : https://bit.ly/2T5Hfww
+
+### DAY20 (2020.02.26)
+#### [Programmers] 스택/큐 : 주식가격 (Python)
+#### Blog : https://bit.ly/2w5JKaB
