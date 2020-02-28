@@ -93,3 +93,7 @@
 ### DAY21 (2020.02.27)
 #### [Programmers] 해시 : 베스트앨범 (Python)
 #### Blog : https://bit.ly/385kcaC 
+
+### DAY22 (2020.02.28)
+#### [Programmers] 완전탐색 : 소수 찾기 (Python)
+#### Blog : https://bit.ly/2TnzQcb
