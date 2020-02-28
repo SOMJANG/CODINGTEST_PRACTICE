@@ -97,3 +97,8 @@
 ### DAY22 (2020.02.28)
 #### [Programmers] 완전탐색 : 소수 찾기 (Python)
 #### Blog : https://bit.ly/2TnzQcb
+
+### DAY23 (2020.02.29)
+#### [leetCode] Median of Two Sorted Arrays (Python)
+#### Blog : https://bit.ly/2I0WJwZ
+
