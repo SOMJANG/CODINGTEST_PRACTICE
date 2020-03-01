@@ -102,3 +102,6 @@
 #### [leetCode] Median of Two Sorted Arrays (Python)
 #### Blog : https://bit.ly/2I0WJwZ
 
+### DAY24 (2020.03.01)
+#### [Programmers] 스택/큐 : 프린터 (Python)
+#### Blog : https://bit.ly/32DwRRb
