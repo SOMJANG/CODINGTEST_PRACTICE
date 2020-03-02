@@ -105,3 +105,7 @@
 ### DAY24 (2020.03.01)
 #### [Programmers] 스택/큐 : 프린터 (Python)
 #### Blog : https://bit.ly/32DwRRb
+
+### DAY25 (2020.03.02)
+#### [BaekJoon] 접미사 배열 (Python)
+#### Blog : https://bit.ly/2TeBmOV
