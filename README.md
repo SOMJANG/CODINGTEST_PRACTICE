@@ -113,3 +113,7 @@
 ### DAY26 (2020.03.03)
 #### [leetCode] Reverse Words in a String (Python)
 #### Blog : https://bit.ly/38kkR8m
+
+### DAY27 (2020.03.04)
+#### [leetCode] Merge Two Sorted Lists (Python)
+#### Blog : https://bit.ly/2VFErsZ
