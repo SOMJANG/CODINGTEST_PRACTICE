@@ -117,3 +117,7 @@
 ### DAY27 (2020.03.04)
 #### [leetCode] Merge Two Sorted Lists (Python)
 #### Blog : https://bit.ly/2VFErsZ
+
+### DAY28 (2020.03.05)
+#### [leetCode] Third Maximum Number (Python)
+#### Blog : https://bit.ly/39rqEKF
