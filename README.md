@@ -121,3 +121,7 @@
 ### DAY28 (2020.03.05)
 #### [leetCode] Third Maximum Number (Python)
 #### Blog : https://bit.ly/39rqEKF
+
+### DAY29 (2020.03.06)
+#### [HakerRank] Sock Merchant (Python)
+#### Blog : https://bit.ly/32SrYUq
