@@ -124,4 +124,8 @@
 
 ### DAY29 (2020.03.06)
 #### [HakerRank] Sock Merchant (Python)
-#### Blog : https://bit.ly/32SrYUq
+#### Blog : https://bit.ly/32SrYUqi
+
+### DAY30 (2020.03.07)
+#### [HackerRank] Counting Valleys (Python)
+#### Blog : https://bit.ly/3aLpQkj
