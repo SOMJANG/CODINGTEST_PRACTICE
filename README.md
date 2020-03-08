@@ -132,4 +132,8 @@
 
 ### DAY31 (2020.03.08)
 #### [HackerRank] Repeated String (Python)
-#### Blog : https://bit.ly/2VStfJB
+#### Blog : https://bit.ly/2VStfJBi
+
+### DAY32 (2020.03.09)
+#### [HakerRank] Jumping on the Clouds (Python)
+#### Blog : https://bit.ly/2wICiCg
