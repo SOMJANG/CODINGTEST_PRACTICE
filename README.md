@@ -135,5 +135,9 @@
 #### Blog : https://bit.ly/2VStfJBi
 
 ### DAY32 (2020.03.09)
-#### [HakerRank] Jumping on the Clouds (Python)
+#### [HackerRank] Jumping on the Clouds (Python)
 #### Blog : https://bit.ly/2wICiCg
+
+### DAY33 (2020.03.10)
+#### [HackerRank] Sorting : Bubble Sort (Python)
+#### Blog : https://bit.ly/3aDZLDB
