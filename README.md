@@ -141,3 +141,7 @@
 ### DAY33 (2020.03.10)
 #### [HackerRank] Sorting : Bubble Sort (Python)
 #### Blog : https://bit.ly/3aDZLDB
+
+### DAY34 (2020.03.11)
+#### [HackerRank] Arrays : Minimum Swaps 2 (Python)
+#### Blog : https://bit.ly/2vaet63
