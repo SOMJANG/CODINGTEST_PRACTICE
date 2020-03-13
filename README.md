@@ -149,3 +149,7 @@
 ### DAY35 (2020.03.12)
 #### [leetCode] Length of Last Word (Python)
 #### Blog : https://bit.ly/2W2HLP0
+
+### DAY36 (2020.03.13)
+#### [HackerRank] Arrays : Array Manipulation (Python)
+#### Blog : https://bit.ly/33fJTor
