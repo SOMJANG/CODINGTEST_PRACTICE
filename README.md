@@ -153,3 +153,7 @@
 ### DAY36 (2020.03.13)
 #### [HackerRank] Arrays : Array Manipulation (Python)
 #### Blog : https://bit.ly/33fJTor
+
+### DAY37 (2020.03.14)
+#### [HackerRank] Dictionaries and Hashmaps : Two Strings (Python)
+#### Blog : https://bit.ly/3cVvRwl
