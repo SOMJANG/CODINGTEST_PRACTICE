@@ -157,3 +157,7 @@
 ### DAY37 (2020.03.14)
 #### [HackerRank] Dictionaries and Hashmaps : Two Strings (Python)
 #### Blog : https://bit.ly/3cVvRwl
+
+### DAY38 (2020.03.15)
+#### [HackerRank] Diagonal Difference (Python)
+#### Blog : https://bit.ly/2WiyVNh
