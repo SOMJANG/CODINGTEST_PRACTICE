@@ -161,3 +161,7 @@
 ### DAY38 (2020.03.15)
 #### [HackerRank] Diagonal Difference (Python)
 #### Blog : https://bit.ly/2WiyVNh
+
+### DAY39 (2020.03.16)
+#### [HackerRank] Plus Minus (Python)
+#### Blog : https://bit.ly/38XCHOO
