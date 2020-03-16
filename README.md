@@ -165,3 +165,7 @@
 ### DAY39 (2020.03.16)
 #### [HackerRank] Plus Minus (Python)
 #### Blog : https://bit.ly/38XCHOO
+
+### DAY40 (2020.03.17)
+#### [SW_Expert_Academy] 7701번 : 염라대왕의 이름정렬 (Python)
+#### Blog : https://bit.ly/2Ub74Mf
