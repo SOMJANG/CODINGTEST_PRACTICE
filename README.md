@@ -169,3 +169,7 @@
 ### DAY40 (2020.03.17)
 #### [SW_Expert_Academy] 7701번 : 염라대왕의 이름정렬 (Python)
 #### Blog : https://bit.ly/2Ub74Mf
+
+### DAY41 (2020.03.18)
+#### [SW_Expert_Academy] 5688번 : 세제곱근을 찾아라 (Python)
+#### Blog : https://bit.ly/2Qp8AcH
