@@ -175,3 +175,7 @@
 #### Blog : https://bit.ly/2Qp8AcH
 #### Real Coding Test (Python)
 #### Blog : https://bit.ly/33sc2sd
+
+### DAY42 (2020.03.19)
+#### [BaekJoon] 11726번 : 2xn 타일링 (Python)
+#### Blog : https://bit.ly/2WypeKC
