@@ -179,3 +179,7 @@
 ### DAY42 (2020.03.19)
 #### [BaekJoon] 11726번 : 2xn 타일링 (Python)
 #### Blog : https://bit.ly/2WypeKC
+
+### DAY43 (2020.03.20)
+#### [HackerRank] Stack and Queues : Balanced Brackets (Python)
+#### Blog : https://bit.ly/394aWUV
