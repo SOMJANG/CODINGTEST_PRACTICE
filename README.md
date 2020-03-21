@@ -187,3 +187,7 @@
 ### DAY44 (2020.03.21)
 #### [SW_Expert_Academy] 4581번 : 문자열 재구성 프로젝트 (Python)
 #### Blog : https://bit.ly/2vASfKG
+
+### DAY45 (2020.03.22)
+#### [HackerRank] Hash Table : Ransom Note (Python)
+#### Blog : https://bit.ly/2QClt39
