@@ -183,3 +183,7 @@
 ### DAY43 (2020.03.20)
 #### [HackerRank] Stack and Queues : Balanced Brackets (Python)
 #### Blog : https://bit.ly/394aWUV
+
+### DAY44 (2020.03.21)
+#### [SW_Expert_Academy] 4581번 : 문자열 재구성 프로젝트 (Python)
+#### Blog : https://bit.ly/2vASfKG
