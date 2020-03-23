@@ -191,3 +191,7 @@
 ### DAY45 (2020.03.22)
 #### [HackerRank] Hash Table : Ransom Note (Python)
 #### Blog : https://bit.ly/2QClt39
+
+### DAY46 (2020.03.23)
+#### [BaekJoon] 10844번 : 쉬운 계단수 (Python)
+#### Blog : https://bit.ly/2UfrmFX
