@@ -203,3 +203,7 @@
 ### DAY48 (2020.03.25)
 #### [HackerRank] Sorting : Mark and Toys (Python)
 #### Blog : https://bit.ly/3drxOB9
+
+### DAY49 (2020.03.26)
+#### [HackerRank] String Manipulation : Alternating Characters (Python)
+#### Blog : https://bit.ly/3dusFs3
