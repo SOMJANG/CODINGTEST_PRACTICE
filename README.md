@@ -211,3 +211,7 @@
 ### DAY50 (2020.03.27)
 #### [leetCode] 557번 : Reverse Words in a String III (Python)
 #### Blog : https://bit.ly/39oZwv8
+
+### DAY51 (2020.03.28)
+#### [BaekJoon] 2902번 : KMP는 왜 KMP일까? (Python)
+#### Blog : https://bit.ly/2UHDmib
