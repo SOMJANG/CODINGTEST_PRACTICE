@@ -215,3 +215,7 @@
 ### DAY51 (2020.03.28)
 #### [BaekJoon] 2902번 : KMP는 왜 KMP일까? (Python)
 #### Blog : https://bit.ly/2UHDmib
+
+### DAY52 (2020.03.29)
+#### [BaekJoon] 11478번 : 서로 다른 부분 문자열의 개수 (Python)
+#### Blog : https://bit.ly/2wz2iAF
