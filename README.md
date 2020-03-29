@@ -219,3 +219,7 @@
 ### DAY52 (2020.03.29)
 #### [BaekJoon] 11478번 : 서로 다른 부분 문자열의 개수 (Python)
 #### Blog : https://bit.ly/2wz2iAF
+
+### DAY53 (2020.03.30)
+#### [BaekJoon] 11047번 : 동전 0 (Python)
+#### Blog : https://bit.ly/3ath22G
