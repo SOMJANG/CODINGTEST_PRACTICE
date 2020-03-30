@@ -223,3 +223,7 @@
 ### DAY53 (2020.03.30)
 #### [BaekJoon] 11047번 : 동전 0 (Python)
 #### Blog : https://bit.ly/3ath22G
+
+### DAY54 (2020.03.31)
+#### [BaekJoon] 10610번 : 30 (Python)
+#### Blog : https://bit.ly/3ay8WWk
