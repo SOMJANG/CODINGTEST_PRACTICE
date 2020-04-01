@@ -227,3 +227,7 @@
 ### DAY54 (2020.03.31)
 #### [BaekJoon] 10610번 : 30 (Python)
 #### Blog : https://bit.ly/3ay8WWk
+
+### DAY55 (2020.04.01)
+#### [BaekJoon] 2133번 : 타일 채우기 (Python)
+#### Blog : https://bit.ly/2UzgWAX
