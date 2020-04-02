@@ -231,3 +231,7 @@
 ### DAY55 (2020.04.01)
 #### [BaekJoon] 2133번 : 타일 채우기 (Python)
 #### Blog : https://bit.ly/2UzgWAX
+
+### DAY56 (2020.04.02)
+#### [HackerRank] Staircase (Python)
+#### Blog : https://bit.ly/2wKT9VL
