@@ -235,3 +235,7 @@
 ### DAY56 (2020.04.02)
 #### [HackerRank] Staircase (Python)
 #### Blog : https://bit.ly/2wKT9VL
+
+### DAY57 (2020.04.03)
+#### [HackerRank] Min-Max Sum (Python)
+#### Blog : https://bit.ly/2x0b36X
