@@ -239,3 +239,7 @@
 ### DAY57 (2020.04.03)
 #### [HackerRank] Min-Max Sum (Python)
 #### Blog : https://bit.ly/2x0b36X
+
+### DAY58 (2020.04.04)
+#### [HackerRank] Stack and Queues : A Tale of Two Stacks (Python)
+#### Blog : https://bit.ly/2wOVhfb
