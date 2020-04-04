@@ -243,3 +243,9 @@
 ### DAY58 (2020.04.04)
 #### [HackerRank] Stack and Queues : A Tale of Two Stacks (Python)
 #### Blog : https://bit.ly/2wOVhfb
+
+### DAY59 (2020.04.05)
+#### [HackerRank] Birthday Cake Candles (Python)
+#### Blog : https://bit.ly/3dWJxHV
+#### [HackerRank] Time Conversion (Python)
+#### Blog : https://bit.ly/2JFNh2Q
