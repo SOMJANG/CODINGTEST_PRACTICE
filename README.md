@@ -249,3 +249,7 @@
 #### Blog : https://bit.ly/3dWJxHV
 #### [HackerRank] Time Conversion (Python)
 #### Blog : https://bit.ly/2JFNh2Q
+
+### DAY60 (2020.04.06)
+#### [Programmers] 힙 : 더 맵게 (Python)
+#### Blog : https://bit.ly/2UGO4Xs
