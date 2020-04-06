@@ -253,3 +253,7 @@
 ### DAY60 (2020.04.06)
 #### [Programmers] 힙 : 더 맵게 (Python)
 #### Blog : https://bit.ly/2UGO4Xs
+
+### DAY61 (2020.04.07)
+#### [HackerRank] Minimum Absolute Difference in an Array (Python)
+#### Blog : https://bit.ly/3bVjqzl
