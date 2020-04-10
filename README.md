@@ -265,3 +265,7 @@
 ### DAY63 (2020.04.09)
 #### [Programmers] 힙 : 디스크 컨트롤러 (Python)
 #### Blog : https://bit.ly/2xbQLr2
+
+### DAY64 (2020.04.10)
+#### [BaekJoon] 1912 : 연속합 (Python)
+#### Blog : https://bit.ly/2XBX5Dl
