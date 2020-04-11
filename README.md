@@ -267,9 +267,13 @@
 #### Blog : https://bit.ly/2xbQLr2
 
 ### DAY64 (2020.04.10)
-#### [BaekJoon] 1912 : 연속합 (Python)
+#### [BaekJoon] 1912번 : 연속합 (Python)
 #### Blog : https://bit.ly/2XBX5Dl
 
 ### DAY65 (2020.04.11)
 #### [Programmers] 해시 : 위장 (Python)
 #### Blog : https://bit.ly/3edtypi
+
+### DAY66 (2020.04.12)
+#### [BaekJoon] 1264번 : 모음의 개수 (Python)
+#### Blog : https://bit.ly/3ehNEii
