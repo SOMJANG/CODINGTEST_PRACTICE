@@ -277,3 +277,7 @@
 ### DAY66 (2020.04.12)
 #### [BaekJoon] 1264번 : 모음의 개수 (Python)
 #### Blog : https://bit.ly/3ehNEii
+
+### DAY67 (2020.04.13)
+#### [Programmers] 스택/큐 : 다리를 지나는 트럭 (Python)
+#### Blog : https://bit.ly/2VlLOnR
