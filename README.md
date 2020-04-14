@@ -281,3 +281,7 @@
 ### DAY67 (2020.04.13)
 #### [Programmers] 스택/큐 : 다리를 지나는 트럭 (Python)
 #### Blog : https://bit.ly/2VlLOnR
+
+### DAY68 (2020.04.14)
+#### [BaekJoon] 5586번 : JOI와 IOI (Python)
+#### Blog : https://bit.ly/3cjpeDa
