@@ -285,3 +285,7 @@
 ### DAY68 (2020.04.14)
 #### [BaekJoon] 5586번 : JOI와 IOI (Python)
 #### Blog : https://bit.ly/3cjpeDa
+
+### DAY69 (2020.04.15)
+#### [Programmers] 2019 카카오 개발자 겨울 인턴십 : 튜플 (Python)
+#### Blog : https://bit.ly/3ad8PP0
