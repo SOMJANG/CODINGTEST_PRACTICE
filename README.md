@@ -289,3 +289,7 @@
 ### DAY69 (2020.04.15)
 #### [Programmers] 2019 카카오 개발자 겨울 인턴십 : 튜플 (Python)
 #### Blog : https://bit.ly/3ad8PP0
+
+### DAY70 (2020.04.16)
+#### [Programmers] Summer/Winter Coding(~2018) : 소수 만들기 (Python)
+#### Blog : https://bit.ly/2XzjL77
