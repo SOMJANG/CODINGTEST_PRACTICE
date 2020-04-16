@@ -293,3 +293,7 @@
 ### DAY70 (2020.04.16)
 #### [Programmers] Summer/Winter Coding(~2018) : 소수 만들기 (Python)
 #### Blog : https://bit.ly/2XzjL77
+
+### DAY71 (2020.04.17)
+#### [Programmers] Summer/Winter Coding(~2018) : 영어 끝말잇기 (Python)
+#### Blog : https://bit.ly/3coNcwS
