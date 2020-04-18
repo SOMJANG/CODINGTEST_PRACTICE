@@ -297,3 +297,7 @@
 ### DAY71 (2020.04.17)
 #### [Programmers] Summer/Winter Coding(~2018) : 영어 끝말잇기 (Python)
 #### Blog : https://bit.ly/3coNcwS
+
+### DAY72 (2020.04.18)
+#### [BaekJoon] 10773번 : 제로 (Python)
+#### Blog : https://bit.ly/34Jvgu2
