@@ -301,3 +301,7 @@
 ### DAY72 (2020.04.18)
 #### [BaekJoon] 10773번 : 제로 (Python)
 #### Blog : https://bit.ly/34Jvgu2
+
+### DAY73 (2020.04.19)
+#### [Programmers] 2018 KAKAO BLIND RECRUITMENT : [1차] 뉴스 클러스트링 (Python)
+#### Blog : https://bit.ly/3cqlhfK
