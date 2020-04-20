@@ -305,3 +305,7 @@
 ### DAY73 (2020.04.19)
 #### [Programmers] 2018 KAKAO BLIND RECRUITMENT : [1차] 뉴스 클러스트링 (Python)
 #### Blog : https://bit.ly/3cqlhfK
+
+### DAY74 (2020.04.20)
+#### [Programmers] 스택/큐 : 쇠막대기 (Python)
+#### Blog : https://bit.ly/2yq5TSa
