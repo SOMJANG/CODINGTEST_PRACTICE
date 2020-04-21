@@ -309,3 +309,7 @@
 ### DAY74 (2020.04.20)
 #### [Programmers] 스택/큐 : 쇠막대기 (Python)
 #### Blog : https://bit.ly/2yq5TSa
+
+### DAY75 (2020.04.21)
+#### [BaekJoon] 암호코드 (Python)
+#### Blog : https://bit.ly/3eGY1wf
