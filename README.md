@@ -313,3 +313,7 @@
 ### DAY75 (2020.04.21)
 #### [BaekJoon] 암호코드 (Python)
 #### Blog : https://bit.ly/3eGY1wf
+
+### DAY76 (2020.04.22)
+#### [BaekJoon] 이친수 (Python)
+#### Blog : https://bit.ly/3bGckPq
