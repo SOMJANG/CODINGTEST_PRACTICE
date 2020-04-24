@@ -321,3 +321,7 @@
 ### DAY77 (2020.04.23)
 #### [Programmers] 완전탐색 : 카펫 (Python)
 #### Blog : https://bit.ly/2S1A3C3
+
+### DAY78 (2020.04.24)
+#### [BaekJoon] 가장 긴 감소하는 부분 수열 (Python)
+#### Blog : https://bit.ly/3bzySBr
