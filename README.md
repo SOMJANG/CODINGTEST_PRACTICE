@@ -325,3 +325,7 @@
 ### DAY78 (2020.04.24)
 #### [BaekJoon] 가장 긴 감소하는 부분 수열 (Python)
 #### Blog : https://bit.ly/3bzySBr
+
+### DAY79 (2020.04.25)
+#### [BaekJoon] 1로 만들기 (Python)
+#### Blog : https://bit.ly/355STNJ
