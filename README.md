@@ -329,3 +329,7 @@
 ### DAY79 (2020.04.25)
 #### [BaekJoon] 1로 만들기 (Python)
 #### Blog : https://bit.ly/355STNJ
+
+### DAY80 (2020.04.26)
+#### [BaekJoon] 요세푸스 문제 (Python)
+#### Blog : https://bit.ly/2zxq4Oz
