@@ -333,3 +333,7 @@
 ### DAY80 (2020.04.26)
 #### [BaekJoon] 요세푸스 문제 (Python)
 #### Blog : https://bit.ly/2zxq4Oz
+
+### DAY81 (2020.04.27)
+#### [BaekJoon] 덱 (Python)
+#### Blog : https://bit.ly/3cQmkpB
