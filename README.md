@@ -341,3 +341,7 @@
 ### DAY82 (2020.04.28)
 #### [HackerRank] Grading Students (Python)
 #### Blog : https://bit.ly/35a1hvG
+
+### DAY83 (2020.04.29)
+#### [HackerRank] Day of the Programmer (Python)
+#### Blog : https://bit.ly/2zBKrdj
