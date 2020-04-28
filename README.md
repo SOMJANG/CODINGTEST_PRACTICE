@@ -337,3 +337,7 @@
 ### DAY81 (2020.04.27)
 #### [BaekJoon] 덱 (Python)
 #### Blog : https://bit.ly/3cQmkpB
+
+### DAY82 (2020.04.28)
+#### [HackerRank] Grading Students (Python)
+#### Blog : https://bit.ly/35a1hvG
