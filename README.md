@@ -349,3 +349,7 @@
 ### DAY84 (2020.04.30)
 #### [Programmers] 124 나라의 숫자 (Python)
 #### Blog : https://bit.ly/2VMuVEa
+
+### DAY85 (2020.05.01)
+#### [BaekJoon] -2진수 (Python)
+#### Blog : https://bit.ly/3bYhuXm
