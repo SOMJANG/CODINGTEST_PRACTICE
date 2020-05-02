@@ -353,3 +353,7 @@
 ### DAY85 (2020.05.01)
 #### [BaekJoon] -2진수 (Python)
 #### Blog : https://bit.ly/3bYhuXm
+
+### DAY86 (2020.05.02)
+#### [Programmers] 최댓값과 최솟값 (Python)
+#### Blog : https://bit.ly/2yYIqro
