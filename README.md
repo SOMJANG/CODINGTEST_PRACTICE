@@ -357,3 +357,7 @@
 ### DAY86 (2020.05.02)
 #### [Programmers] 최댓값과 최솟값 (Python)
 #### Blog : https://bit.ly/2yYIqro
+
+### DAY87 (2020.05.03)
+#### [BaekJoon] 6603번 : 로또 (Python)
+#### Blog : https://bit.ly/35rf94I
