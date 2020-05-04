@@ -361,3 +361,7 @@
 ### DAY87 (2020.05.03)
 #### [BaekJoon] 6603번 : 로또 (Python)
 #### Blog : https://bit.ly/35rf94I
+
+### DAY88 (2020.05.04)
+#### [BaekJoon] 1629번 : 곱셈 (Python)
+#### Blog : https://bit.ly/2WmPztH
