@@ -365,3 +365,7 @@
 ### DAY88 (2020.05.04)
 #### [BaekJoon] 1629번 : 곱셈 (Python)
 #### Blog : https://bit.ly/2WmPztH
+
+### DAY89 (2020.05.05)
+#### [BaekJoon] 10824번 : 네 수 (Python)
+#### Blog : https://bit.ly/2YzCuQe
