@@ -369,3 +369,7 @@
 ### DAY89 (2020.05.05)
 #### [BaekJoon] 10824번 : 네 수 (Python)
 #### Blog : https://bit.ly/2YzCuQe
+
+###  DAY90 (2020.05.06)
+#### [BaekJoon] 9613번 : GCD 합 (Python)
+#### Blog : https://bit.ly/2WBdB44
