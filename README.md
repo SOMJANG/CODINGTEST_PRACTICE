@@ -370,6 +370,14 @@
 #### [BaekJoon] 10824번 : 네 수 (Python)
 #### Blog : https://bit.ly/2YzCuQe
 
-###  DAY90 (2020.05.06)
+### DAY90 (2020.05.06)
 #### [BaekJoon] 9613번 : GCD 합 (Python)
 #### Blog : https://bit.ly/2WBdB44
+
+### DAY91 (2020.05.07)
+#### [BaekJoon] 9012번 : 괄호 (Python)
+#### Blog : https://bit.ly/2WeHd8H
+
+### DAY92 (2020.05.08)
+#### [BaekJoon] 1406번 : 에디터 (Python)
+#### Blog : https://bit.ly/3ch8ufY
