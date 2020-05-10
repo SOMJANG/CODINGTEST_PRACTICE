@@ -385,3 +385,7 @@
 ### DAY93 (2020.05.09)
 #### [BaekJoon] 11655번 : ROT13 (Python)
 #### Blog : https://bit.ly/2xO83Lf
+
+### DAY94 (2020.05.10)
+#### [BaekJoon] 11053번 : 가장 긴 증가하는 부분수열 (Python)
+#### Blog : https://bit.ly/2YQ01fS
