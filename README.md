@@ -393,3 +393,7 @@
 ### DAY95 (2020.05.11)
 #### [leetCode] Longest Substring Without Repeating Characters (Python)
 #### Blog : https://bit.ly/2WmbcLH
+
+### DAY96 (2020.05.12)
+#### [BaekJoon] 1764번 : 듣보잡 (Python)
+#### Blog : https://bit.ly/3dGImvz
