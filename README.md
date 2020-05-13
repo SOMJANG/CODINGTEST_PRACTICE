@@ -397,3 +397,7 @@
 ### DAY96 (2020.05.12)
 #### [BaekJoon] 1764번 : 듣보잡 (Python)
 #### Blog : https://bit.ly/3dGImvz
+
+### DAY97 (2020.05.13)
+#### [leetCode] ZigZag Conversion (Python)
+#### Blog : https://bit.ly/3buzEPg
