@@ -401,3 +401,7 @@
 ### DAY97 (2020.05.13)
 #### [leetCode] ZigZag Conversion (Python)
 #### Blog : https://bit.ly/3buzEPg
+
+### DAY98 (2020.05.14)
+#### [BaekJoon] 큐 (Python)
+#### Blog : https://bit.ly/2WXuyG6
