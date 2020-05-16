@@ -408,4 +408,8 @@
 
 ### DAY99 (2020.05.15)
 #### [BaekJoon] 문자열 분석 (Python)
-####  Blog : https://bit.ly/2WzQGax
+#### Blog : https://bit.ly/2WzQGax
+
+### DAY100 (2020.05.16)
+#### [BaekJoon] 계단 오르기 (Python)
+#### Blog : https://bit.ly/2X4q7cu
