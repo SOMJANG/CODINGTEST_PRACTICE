@@ -417,3 +417,7 @@
 ### DAY101 (2020.05.17)
 #### [BaekJoon] 2xn 타일링 2 (Python)
 #### Blog : https://bit.ly/2LxmlDp
+
+### DAY102 (2020.05.18)
+#### [leetCode] String to Integer (atoi) (Python)
+#### Blog : https://bit.ly/2ZfNfaS
