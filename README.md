@@ -421,3 +421,7 @@
 ### DAY102 (2020.05.18)
 #### [leetCode] String to Integer (atoi) (Python)
 #### Blog : https://bit.ly/2ZfNfaS
+
+### DAY103 (2020.05.19)
+#### [leetCode] Sqrt(x) (Python)
+#### Blog : https://bit.ly/2WJsm6s
