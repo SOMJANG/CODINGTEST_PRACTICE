@@ -425,3 +425,7 @@
 ### DAY103 (2020.05.19)
 #### [leetCode] Sqrt(x) (Python)
 #### Blog : https://bit.ly/2WJsm6s
+
+### DAY104 (2020.05.20)
+#### [leetCode] Plus One (Python)
+#### Blog : https://bit.ly/2LIPxY7
