@@ -429,3 +429,7 @@
 ### DAY104 (2020.05.20)
 #### [leetCode] Plus One (Python)
 #### Blog : https://bit.ly/2LIPxY7
+
+### DAY105 (2020.05.21)
+#### [SW_Expert_Academy] 5162번 두가지 빵의 딜레마 (Python)
+#### Blog : https://bit.ly/3g7ouDH
