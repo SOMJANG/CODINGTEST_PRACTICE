@@ -433,3 +433,7 @@
 ### DAY105 (2020.05.21)
 #### [SW_Expert_Academy] 5162번 두가지 빵의 딜레마 (Python)
 #### Blog : https://bit.ly/3g7ouDH
+
+### DAY106 (2020.05.22)
+#### [SW_Expert_Academy] 5948번 새샘이의 7-3-5 게임 (Python)
+#### Blog : https://bit.ly/3cULZOd
