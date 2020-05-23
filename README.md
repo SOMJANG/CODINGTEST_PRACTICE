@@ -437,3 +437,7 @@
 ### DAY106 (2020.05.22)
 #### [SW_Expert_Academy] 5948번 새샘이의 7-3-5 게임 (Python)
 #### Blog : https://bit.ly/3cULZOd
+
+### DAY107 (2020.05.23)
+#### [BaekJoon] 오르막 수 (Python)
+#### Blog : https://bit.ly/2LR1Mlr
