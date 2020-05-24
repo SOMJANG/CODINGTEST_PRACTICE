@@ -441,3 +441,7 @@
 ### DAY107 (2020.05.23)
 #### [BaekJoon] 오르막 수 (Python)
 #### Blog : https://bit.ly/2LR1Mlr
+
+### DAY108 (2020.05.24)
+#### [SW Expert Academy] 4522번 세상의 모든 팰린드롬 (Python)
+#### Blog : https://bit.ly/2zq84G4
