@@ -449,3 +449,7 @@
 ### DAY109 (2020.05.25)
 #### [SW Expert Academy] 5549번 홀수일까 짝수일까 (Python)
 #### Blog : https://bit.ly/2Xsczb4
+
+### DAY110 (2020.05.26)
+#### [SW Expert Academy] 2072번 홀수만 더하기 (Python)
+#### Blog : https://bit.ly/2XsMfxD
