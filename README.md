@@ -459,3 +459,13 @@
 #### Blog : https://bit.ly/2ZF7AXp
 
 ### DAY112 (2020.05.28)
+#### [BaekJoon] 2156번 포도주 시식 (Python)
+#### Blog : https://bit.ly/2TQzwnA
+
+### DAY113 (2020.05.29)
+#### [BaekJoon] 2225번 합분해 (Python)
+#### Blog : https://bit.ly/36LlkBw
+
+### DAY114 (2020.05.30)
+#### [BaekJoon] 2745번 : 진법 변환 (Python)
+#### Blog : https://bit.ly/2TOImlw
