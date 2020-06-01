@@ -469,3 +469,11 @@
 ### DAY114 (2020.05.30)
 #### [BaekJoon] 2745번 : 진법 변환 (Python)
 #### Blog : https://bit.ly/2TOImlw
+
+### DAY115 (2020.05.31)
+#### [BaekJoon] 1699번 : 제곱수의 합 (Python)
+#### Blog : https://bit.ly/2Mi1xAf
+
+### DAY116 (2020.06.01)
+#### [BaekJoon] 9461번 : 파도반 수열 (Python)
+#### Blog :  https://bit.ly/3cnr6dE
