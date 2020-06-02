@@ -477,3 +477,7 @@
 ### DAY116 (2020.06.01)
 #### [BaekJoon] 9461번 : 파도반 수열 (Python)
 #### Blog :  https://bit.ly/3cnr6dE
+
+### DAY117 (2020.06.02)
+#### [leetCode] 50. Pow( x, n ) (Python)
+#### Blog : https://bit.ly/3eEliOq
