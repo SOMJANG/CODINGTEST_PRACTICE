@@ -481,3 +481,7 @@
 ### DAY117 (2020.06.02)
 #### [leetCode] 50. Pow( x, n ) (Python)
 #### Blog : https://bit.ly/3eEliOq
+
+### DAY118 (2020.06.03)
+#### [leetCode] 75. Sort Colors (Python)
+#### Blog : https://bit.ly/2Xqfl1L
