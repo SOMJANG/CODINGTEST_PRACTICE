@@ -485,3 +485,7 @@
 ### DAY118 (2020.06.03)
 #### [leetCode] 75. Sort Colors (Python)
 #### Blog : https://bit.ly/2Xqfl1L
+
+### DAY119 (2020.06.04)
+#### [leetCode] 46. Permutations (Python)
+#### Blog : https://bit.ly/2BpOhHk
