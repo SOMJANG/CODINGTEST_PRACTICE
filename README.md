@@ -489,3 +489,7 @@
 ### DAY119 (2020.06.04)
 #### [leetCode] 46. Permutations (Python)
 #### Blog : https://bit.ly/2BpOhHk
+
+### DAY120 (2020.06.05)
+#### [leetCode] 29. Divide Two Integers (Python)
+#### Blog : https://bit.ly/376ZKaz
