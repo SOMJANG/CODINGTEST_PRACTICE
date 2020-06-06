@@ -493,3 +493,7 @@
 ### DAY120 (2020.06.05)
 #### [leetCode] 29. Divide Two Integers (Python)
 #### Blog : https://bit.ly/376ZKaz
+
+### DAY121 (2020.06.06)
+#### [leetCode] 204. Count Primes (Python)
+#### Blog : https://bit.ly/3cDHff2
