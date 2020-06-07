@@ -497,3 +497,7 @@
 ### DAY121 (2020.06.06)
 #### [leetCode] 204. Count Primes (Python)
 #### Blog : https://bit.ly/3cDHff2
+
+### DAY122 (2020.06.07)
+#### [leetCode] 326. Power of Three (Python)
+#### Blog : https://bit.ly/2zZOXDb
