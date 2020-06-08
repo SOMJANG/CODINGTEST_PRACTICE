@@ -501,3 +501,7 @@
 ### DAY122 (2020.06.07)
 #### [leetCode] 326. Power of Three (Python)
 #### Blog : https://bit.ly/2zZOXDb
+
+### DAY123 (2020.06.08)
+#### [leetCode] 344. Reverse String (Python)
+#### Blog : https://bit.ly/3f1iefl
