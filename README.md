@@ -505,3 +505,7 @@
 ### DAY123 (2020.06.08)
 #### [leetCode] 344. Reverse String (Python)
 #### Blog : https://bit.ly/3f1iefl
+
+### DAY124 (2020.06.09)
+#### [leetCode] 268. Missing Number (Python)
+#### Blog : https://bit.ly/2UthMyJ
