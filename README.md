@@ -509,3 +509,7 @@
 ### DAY124 (2020.06.09)
 #### [leetCode] 268. Missing Number (Python)
 #### Blog : https://bit.ly/2UthMyJ
+
+### DAY125 (2020.06.10)
+#### [HackerRank] HackerRank in a String! (Python)
+#### Blog : https://bit.ly/2MPaW28
