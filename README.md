@@ -517,3 +517,11 @@
 ### DAY126 (2020.06.11)
 #### [leetCode] 891. Sum of Subsequence Widths (Python)
 #### Blog : https://bit.ly/37oL3jh
+
+### DAY127 (2020.06.12)
+#### [leetCode] Fizz Buzz (Python)
+#### Blog : https://bit.ly/3fr3IxX
+
+### DAY128 (2020.06.13)
+#### [leetCode] Single Number (Python)
+#### Blog : https://bit.ly/3fkgEp3
