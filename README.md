@@ -525,3 +525,7 @@
 ### DAY128 (2020.06.13)
 #### [leetCode] Single Number (Python)
 #### Blog : https://bit.ly/3fkgEp3
+
+### DAY129 (2020.06.14)
+#### [leetCode] Merge Sorted Array (Python)
+#### Blog : https://bit.ly/2Bbzj7F
