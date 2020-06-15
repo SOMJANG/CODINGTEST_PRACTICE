@@ -529,3 +529,7 @@
 ### DAY129 (2020.06.14)
 #### [leetCode] Merge Sorted Array (Python)
 #### Blog : https://bit.ly/2Bbzj7F
+
+### DAY130 (2020.06.15)
+#### [leetCode] First Unique Character in a String (Python)
+#### Blog : https://bit.ly/30DHkx4
