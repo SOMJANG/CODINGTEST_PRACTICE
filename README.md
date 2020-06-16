@@ -533,3 +533,7 @@
 ### DAY130 (2020.06.15)
 #### [leetCode] First Unique Character in a String (Python)
 #### Blog : https://bit.ly/30DHkx4
+
+### DAY131 (2020.06.16)
+#### [leetCode] Valid Palindrome (Python)
+#### Blog : https://bit.ly/2Y3vbjh
