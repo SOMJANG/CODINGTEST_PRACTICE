@@ -537,3 +537,7 @@
 ### DAY131 (2020.06.16)
 #### [leetCode] Valid Palindrome (Python)
 #### Blog : https://bit.ly/2Y3vbjh
+
+### DAY132 (2020.06.17)
+#### [leetCode] Valid Parentheses (Python)
+#### Blog : https://bit.ly/2zImcuw
