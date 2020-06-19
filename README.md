@@ -541,3 +541,11 @@
 ### DAY132 (2020.06.17)
 #### [leetCode] Valid Parentheses (Python)
 #### Blog : https://bit.ly/2zImcuw
+
+### DAY133 (2020.06.18)
+#### [leetCode] Move Zeros (Python)
+#### Blog : https://bit.ly/2NoTDpj
+
+### DAY134 (2020.06.19)
+#### [leetCode] Sum of Square Numbers (Python)
+#### Blog : https://bit.ly/2CeVScb
