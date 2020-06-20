@@ -549,3 +549,7 @@
 ### DAY134 (2020.06.19)
 #### [leetCode] Sum of Square Numbers (Python)
 #### Blog : https://bit.ly/2CeVScb
+
+### DAY135 (2020.06.20)
+#### [HackerRank] Sorting : Comparator (Python)
+#### Blog : https://bit.ly/2CkkkZK
