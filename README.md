@@ -553,3 +553,11 @@
 ### DAY135 (2020.06.20)
 #### [HackerRank] Sorting : Comparator (Python)
 #### Blog : https://bit.ly/2CkkkZK
+
+### DAY136 (2020.06.21)
+#### [leetCode] Reverse String II (Python)
+#### Blog : https://bit.ly/2CoOsmM
+
+### DAY137 (2020.06.22)
+#### [leetCode] Perfect Number (Python)
+#### Blog : https://bit.ly/37OYPMg
