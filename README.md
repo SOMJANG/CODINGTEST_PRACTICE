@@ -561,3 +561,7 @@
 ### DAY137 (2020.06.22)
 #### [leetCode] Perfect Number (Python)
 #### Blog : https://bit.ly/37OYPMg
+
+### DAY138 (2020.06.23)
+#### [leetCode] Majority Element (Python)
+#### Blog : https://bit.ly/2APxHB1
