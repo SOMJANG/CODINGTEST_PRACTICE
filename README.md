@@ -565,3 +565,23 @@
 ### DAY138 (2020.06.23)
 #### [leetCode] Majority Element (Python)
 #### Blog : https://bit.ly/2APxHB1
+
+### DAY139 (2020.06.24)
+#### [BaekJoon] 카드 구매하기 (Python)
+#### Blog : https://bit.ly/31pd9Kw
+
+### DAY140 (2020.06.25)
+#### [BaekJoon] 가장 긴 바이토닉 부분 수열 (Python)
+#### Blog : https://bit.ly/2BN4g2i
+
+### DAY141 (2020.06.26)
+#### [BaekJoon] 가장 큰 증가 부분 수열 (Python)
+#### Blog : https://bit.ly/2YC4CSC
+
+### DAY142 (2020.06.27)
+#### [BaekJoon] 진법 변환 2 (Python)
+#### Blog : https://bit.ly/2BI6TTl
+
+### DAY143 (2020.06.28)
+#### [leetCode] Find the Duplicate Number (Python)
+#### Blog : https://bit.ly/2ZfREcf
