@@ -585,3 +585,7 @@
 ### DAY143 (2020.06.28)
 #### [leetCode] Find the Duplicate Number (Python)
 #### Blog : https://bit.ly/2ZfREcf
+
+### DAY144 (2020.06.29)
+#### [BaekJoon] Base Conversion (Python)
+#### Blog : https://bit.ly/2YHyv3N
