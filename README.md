@@ -589,3 +589,7 @@
 ### DAY144 (2020.06.29)
 #### [BaekJoon] Base Conversion (Python)
 #### Blog : https://bit.ly/2YHyv3N
+
+### DAY145 (2020.06.300
+#### [leetCode] Can Place Flowers (Python)
+#### Blog : https://bit.ly/3icOTRD
