@@ -590,6 +590,10 @@
 #### [BaekJoon] Base Conversion (Python)
 #### Blog : https://bit.ly/2YHyv3N
 
-### DAY145 (2020.06.300
+### DAY145 (2020.06.30)
 #### [leetCode] Can Place Flowers (Python)
 #### Blog : https://bit.ly/3icOTRD
+
+### DAY146 (2020.07.01)
+#### [BaekJoon] 8진수 2진수 (Python)
+#### Blog : https://bit.ly/3eT56cw
