@@ -597,3 +597,23 @@
 ### DAY146 (2020.07.01)
 #### [BaekJoon] 8진수 2진수 (Python)
 #### Blog : https://bit.ly/3eT56cw
+
+### DAY147 (2020.07.02)
+#### [BaekJoon] 나머지 (Python)
+#### Blog : https://bit.ly/2Dggxxd
+
+### DAY148 (2020.07.03)
+#### [BaekJoon] 최대공약수와 최소공배수 (Python)
+#### Blog : https://bit.ly/38vqSkk
+
+### DAY149 (2020.07.04)
+#### [BaekJoon] 최소공배수 (Python)
+#### Blog :  https://bit.ly/3faNTf6
+
+### DAY150 (2020.07.05)
+#### [BaekJoon] 2진수 8진수 (Python)
+#### Blog : https://bit.ly/2BHW1VL
+
+### DAY151 (2020.07.06)
+#### [BaekJoon] 알파벳 찾기 (Python)
+#### Blog : https://bit.ly/2VQDltA
