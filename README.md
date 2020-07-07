@@ -617,3 +617,7 @@
 ### DAY151 (2020.07.06)
 #### [BaekJoon] 알파벳 찾기 (Python)
 #### Blog : https://bit.ly/2VQDltA
+
+### DAY152 (2020.07.07)
+#### [BaekJoon] 알파벳 개수 (Python)
+#### Blog : https://bit.ly/3f7CZGP
