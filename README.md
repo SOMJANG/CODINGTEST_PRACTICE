@@ -621,3 +621,7 @@
 ### DAY152 (2020.07.07)
 #### [BaekJoon] 알파벳 개수 (Python)
 #### Blog : https://bit.ly/3f7CZGP
+
+### DAY153 (2020.07.08)
+#### [BaekJoon] 1, 2, 3 더하기 (Python)
+#### Blog : https://bit.ly/2Cl13r1
