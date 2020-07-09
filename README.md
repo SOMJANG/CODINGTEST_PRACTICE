@@ -625,3 +625,7 @@
 ### DAY153 (2020.07.08)
 #### [BaekJoon] 1, 2, 3 더하기 (Python)
 #### Blog : https://bit.ly/2Cl13r1
+
+### DAY154 (2020.07.09)
+#### [leetCode] 198. House Robber (Python)
+#### Blog : https://bit.ly/3gEo1IL
