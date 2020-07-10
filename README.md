@@ -629,3 +629,7 @@
 ### DAY154 (2020.07.09)
 #### [leetCode] 198. House Robber (Python)
 #### Blog : https://bit.ly/3gEo1IL
+
+### DAY155 (2020.07.10)
+#### [HackerRank] Day14 : Scope (Python)
+#### Blog : https://bit.ly/323aYfW
