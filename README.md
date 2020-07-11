@@ -633,3 +633,7 @@
 ### DAY155 (2020.07.10)
 #### [HackerRank] Day14 : Scope (Python)
 #### Blog : https://bit.ly/323aYfW
+
+### DAY156 (2020.07.11)
+#### [leetCode] Add to Array-Form of Integer (Python)
+#### Blog : https://bit.ly/3iPJCzH
