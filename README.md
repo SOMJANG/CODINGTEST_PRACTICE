@@ -641,3 +641,7 @@
 ### DAY157 (2020.07.12)
 #### [leetCode] Power of Two (Python)
 #### Blog : https://bit.ly/325qLLa
+
+### DAY158 (2020.07.13)
+#### [leetCode] Two Sum (Python)
+#### Blog : https://bit.ly/2WvOb95
