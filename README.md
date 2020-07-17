@@ -661,3 +661,7 @@
 ### DAY162 (2020.07.17)
 #### [leetCode] Remove Duplicates from Sorted Array (Python)
 #### Blog : https://bit.ly/3jnS7m2
+
+### DAY163 (2020.07.18)
+#### [leetCode] Palindrome Number (Python)
+#### Blog : https://bit.ly/397c0sE
