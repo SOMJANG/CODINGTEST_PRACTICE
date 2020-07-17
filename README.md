@@ -653,3 +653,11 @@
 ### DAY160 (2020.07.15)
 #### [leetCode] Super Pow (Python)
 #### Blog : https://bit.ly/38YlDd6
+
+### DAY161 (2020.07.16)
+#### [leetCode] Most Common Word (Python)
+#### Blog : https://bit.ly/2DJkOcz
+
+### DAY162 (2020.07.17)
+#### [leetCode] Remove Duplicates from Sorted Array (Python)
+#### Blog : https://bit.ly/3jnS7m2
