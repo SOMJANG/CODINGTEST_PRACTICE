@@ -665,3 +665,7 @@
 ### DAY163 (2020.07.18)
 #### [leetCode] Palindrome Number (Python)
 #### Blog : https://bit.ly/397c0sE
+
+### DAY164 (2020.07.19)
+#### [leetCode] Ransom Note (Python)
+#### Blog : https://bit.ly/30o07KY
