@@ -669,3 +669,11 @@
 ### DAY164 (2020.07.19)
 #### [leetCode] Ransom Note (Python)
 #### Blog : https://bit.ly/30o07KY
+
+### DAY165 (2020.07.20)
+#### [leetCode] Single Number II (Python)
+#### Blog : https://bit.ly/39czgpn
+
+###  DAY166 (2020.07.21)
+#### [leetCode] Factorial Trailing Zeros (Python)
+#### Blog : https://bit.ly/3fPfKlk
