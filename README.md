@@ -677,3 +677,7 @@
 ###  DAY166 (2020.07.21)
 #### [leetCode] Factorial Trailing Zeros (Python)
 #### Blog : https://bit.ly/3fPfKlk
+
+### DAY167 (2020.07.22)
+#### [leetCode] Lexicographical Numbers (Python)
+#### Blog : https://bit.ly/3hr5ZtI
