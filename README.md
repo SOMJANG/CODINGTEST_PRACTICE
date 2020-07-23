@@ -685,3 +685,7 @@
 ### DAY168 (2020.07.23)
 #### [leetCode] Top K Frequent Words (Python)
 #### Blog : https://bit.ly/2OZW96d
+
+### DAY169 (2020.07.24)
+#### [leetCode] Power of Four (Python)
+#### Blog : https://bit.ly/3fUW2EJ
