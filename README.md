@@ -689,3 +689,7 @@
 ### DAY169 (2020.07.24)
 #### [leetCode] Power of Four (Python)
 #### Blog : https://bit.ly/3fUW2EJ
+
+### DAY170 (2020.07.25)
+#### [leetCode] Day of the Year (Python)
+#### Blog : https://bit.ly/2OSA7Sz
