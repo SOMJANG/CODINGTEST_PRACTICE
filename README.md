@@ -701,3 +701,11 @@
 ### DAY172 (2020.07.27)
 #### [leetCode] Add Two Numbers II (Python)
 #### Blog : https://bit.ly/3g46Jov
+
+### DAY173 (2020.07.28)
+#### [leetCode] Single Number III (Python)
+#### Blog : https://bit.ly/2X8SgAi
+
+### DAY174 (2020.07.29)
+#### [leetCode] Day of the Week (Python)
+#### Blog : https://bit.ly/2X6oNa3
