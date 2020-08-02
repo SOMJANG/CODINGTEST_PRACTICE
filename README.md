@@ -715,5 +715,13 @@
 #### Blog : https://bit.ly/30YM6Uh
 
 ### DAY176 (2020.07.31)
-#### [leetCode] Uncommon Words from Two Sentences (Python_
+#### [leetCode] Uncommon Words from Two Sentences (Python)
 #### Blog : https://bit.ly/2ECsUnY
+
+### DAY177 (2020.08.01)
+#### [leetCode] Shuffle String (Python)
+#### Blog : https://bit.ly/33j1e1K
+
+### DAY178 (2020.08.02)
+#### [leetCode] Number of Segments in a String (Python)
+#### Blog : https://bit.ly/3fgSMSU
