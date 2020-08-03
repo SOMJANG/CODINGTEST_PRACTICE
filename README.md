@@ -725,3 +725,7 @@
 ### DAY178 (2020.08.02)
 #### [leetCode] Number of Segments in a String (Python)
 #### Blog : https://bit.ly/3fgSMSU
+
+### DAY179 (2020.08.03)
+#### [leetCode] Isomorphic Strings (Python)
+#### Blog : https://bit.ly/3i47wGE
