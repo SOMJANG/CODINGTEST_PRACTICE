@@ -729,3 +729,7 @@
 ### DAY179 (2020.08.03)
 #### [leetCode] Isomorphic Strings (Python)
 #### Blog : https://bit.ly/3i47wGE
+
+### DAY180 (2020.08.04)
+#### [leetCode] Word Pattern (Python)
+#### Blog : https://bit.ly/3i5NUlc
