@@ -733,3 +733,7 @@
 ### DAY180 (2020.08.04)
 #### [leetCode] Word Pattern (Python)
 #### Blog : https://bit.ly/3i5NUlc
+
+### DAY181 (2020.08.05)
+#### [leetCode] Search Insert Position (Python)
+#### Blog : https://bit.ly/2Prgrpg
