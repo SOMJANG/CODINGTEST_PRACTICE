@@ -737,3 +737,7 @@
 ### DAY181 (2020.08.05)
 #### [leetCode] Search Insert Position (Python)
 #### Blog : https://bit.ly/2Prgrpg
+
+### DAY182 (2020.08.06)
+#### [leetCode] Find All Numbers Disappeared in an Array (Python)
+#### Blog : https://bit.ly/3gyOV5h
