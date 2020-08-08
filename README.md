@@ -745,3 +745,7 @@
 ### DAY183 (2020.08.07)
 #### [leetCode] Reverse Vowels of a String (Python)
 #### Blog : https://bit.ly/33OphpF
+
+### DAY184 (2020.08.08)
+#### [leetCode] Student Attendance Record I (Python)
+#### Blog : https://bit.ly/3a4Iswo
