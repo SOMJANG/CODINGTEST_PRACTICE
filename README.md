@@ -753,3 +753,20 @@
 ### DAY185 (2020.08.09)
 #### [leetCode] Word Subsets (Python)
 #### Blog : https://bit.ly/2XJmMB0
+
+### DAY186 (2020.08.10)
+#### [leetCode] Is Subsequence (Python)
+#### Blog : https://bit.ly/30U6xmo
+
+### DAY187 (2020.08.11)
+#### [leetCode] Best Time to Buy and Sell Stock (Python)
+#### Blog : https://bit.ly/33WjhLx
+
+### DAY188 (2020.08.12)
+#### [leetCode] Reverse String (Python)
+#### Blog : https://bit.ly/30TR4TK
+
+### DAY189 (2020.08.13)
+#### [leetCode] Non-decreasing Array (Python)
+#### Blog : https://bit.ly/2XTA8KY
+
