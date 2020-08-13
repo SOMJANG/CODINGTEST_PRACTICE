@@ -770,3 +770,6 @@
 #### [leetCode] Non-decreasing Array (Python)
 #### Blog : https://bit.ly/2XTA8KY
 
+### DAY190 (2020.08.14)
+#### [leetCode] Ugly Number (Python)
+#### Blog : https://bit.ly/2DZma3e
