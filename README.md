@@ -781,3 +781,7 @@
 ### DAY192 (2020.08.29)
 #### [leetCode] Thousand Separator (Python)
 #### Blog : https://bit.ly/2EOMGgc
+
+### DAY193 (2020.08.30)
+####  [leetCode] Subtract the Product and Sum of Digits of an Integer (Python)
+#### Blog : https://bit.ly/3hGPPx4
