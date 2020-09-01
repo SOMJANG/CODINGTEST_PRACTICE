@@ -785,3 +785,11 @@
 ### DAY193 (2020.08.30)
 ####  [leetCode] Subtract the Product and Sum of Digits of an Integer (Python)
 #### Blog : https://bit.ly/3hGPPx4
+
+### DAY194 (2020.08.31)
+#### [leetCode] Squares of a Sorted Array (Python)
+#### Blog : https://bit.ly/3hNicK5
+
+### DAY195 (2020.09.01)
+#### [leetCode] Self Dividing Numbers (Python)
+#### Blog : https://bit.ly/2EQNEZk
