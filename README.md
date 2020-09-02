@@ -793,3 +793,7 @@
 ### DAY195 (2020.09.01)
 #### [leetCode] Self Dividing Numbers (Python)
 #### Blog : https://bit.ly/2EQNEZk
+
+### DAY196 (2020.09.02)
+#### [leetCode] Running Sum of 1d Array (Python)
+#### Blog : https://bit.ly/31LnWOE
