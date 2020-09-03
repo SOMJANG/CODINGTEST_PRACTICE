@@ -797,3 +797,7 @@
 ### DAY196 (2020.09.02)
 #### [leetCode] Running Sum of 1d Array (Python)
 #### Blog : https://bit.ly/31LnWOE
+
+### DAY197 (2020.09.03)
+#### [leetCode] String Compression (Python)
+#### Blog : https://bit.ly/34Vnj78
