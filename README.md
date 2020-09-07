@@ -813,3 +813,7 @@
 ### DAY200 (2020.09.06)
 #### [leetCode] Reformat Date (Python)
 #### Blog : https://bit.ly/322voFy
+
+### DAY201 (2020.09.07)
+#### [leetCode] Relative Ranks (Python)
+#### Blog : https://bit.ly/322Fl5w
