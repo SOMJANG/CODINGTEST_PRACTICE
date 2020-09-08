@@ -817,3 +817,7 @@
 ### DAY201 (2020.09.07)
 #### [leetCode] Relative Ranks (Python)
 #### Blog : https://bit.ly/322Fl5w
+
+### DAY202 (2020.09.08)
+#### [leetCode] Rank Transform of an Array (Python)
+#### Blog : https://bit.ly/2F8CxuO
