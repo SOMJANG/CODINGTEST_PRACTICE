@@ -825,3 +825,7 @@
 ### DAY203 (2020.09.09)
 #### [leetCode] The K Weakest Rows in a Matrix (Python)
 #### Blog : https://bit.ly/2Fk4PCN
+
+### DAY204 (2020.09.10)
+#### [leetCode] Implement strStr() (Python)
+#### Blog : https://bit.ly/3m6PpCv
