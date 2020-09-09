@@ -821,3 +821,7 @@
 ### DAY202 (2020.09.08)
 #### [leetCode] Rank Transform of an Array (Python)
 #### Blog : https://bit.ly/2F8CxuO
+
+### DAY203 (2020.09.09)
+#### [leetCode] The K Weakest Rows in a Matrix (Python)
+#### Blog : https://bit.ly/2Fk4PCN
