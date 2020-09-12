@@ -829,3 +829,11 @@
 ### DAY204 (2020.09.10)
 #### [leetCode] Implement strStr() (Python)
 #### Blog : https://bit.ly/3m6PpCv
+
+### DAY205 (2020.09.11)
+#### [leetCode] Find Common Charactors (Python)
+#### Blog : https://bit.ly/2Zs8CF1
+
+### DAY206 (2020.09.12)
+#### [leetCode] Subdomain Visit Count (Python)
+#### Blog : https://bit.ly/3hnGhWN
