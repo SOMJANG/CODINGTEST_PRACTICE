@@ -841,3 +841,7 @@
 ### DAY207 (2020.09.13)
 #### [leetCode] Keyboard Row (Python)
 #### Blog : https://bit.ly/32m8yZl
+
+### DAY208 (2020.09.14)
+#### [leetCode] How Many Numbers Are Smaller Than the Current Number (Python)
+#### Blog : https://bit.ly/35yqfak
