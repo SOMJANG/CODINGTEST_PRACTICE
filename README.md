@@ -845,3 +845,7 @@
 ### DAY208 (2020.09.14)
 #### [leetCode] How Many Numbers Are Smaller Than the Current Number (Python)
 #### Blog : https://bit.ly/35yqfak
+
+### DAY209 (2020.09.15)
+#### [leetCode] Three Consecutive Odds (Python)
+#### Blog : https://bit.ly/3bWjEYa
