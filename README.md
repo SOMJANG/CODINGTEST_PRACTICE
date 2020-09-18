@@ -857,3 +857,7 @@
 ### DAY211 (2020.09.17)
 #### [leetCode] Design HashSet (Python)
 #### Blog : https://bit.ly/3iINNgu
+
+### DAY212 (2020.09.18)
+#### [leetCode] Number of 1 Bits (Python)
+#### Blog : https://bit.ly/3my8LRr
