@@ -881,3 +881,7 @@
 ### DAY217 (2020.09.23)
 #### [leetCode] Unique Number of Occurrences (Python)
 #### Blog : https://bit.ly/3mBINfM
+
+### DAY218 (2020.09.24)
+#### [leetCode] Repeated String Match (Python)
+#### Blog : https://bit.ly/35WW2lr
