@@ -885,3 +885,7 @@
 ### DAY218 (2020.09.24)
 #### [leetCode] Repeated String Match (Python)
 #### Blog : https://bit.ly/35WW2lr
+
+### DAY219 (2020.09.25)
+#### [leetCode] Long Pressed Name (Python)
+#### Blog : https://bit.ly/32Zw1A6
