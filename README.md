@@ -889,3 +889,7 @@
 ### DAY219 (2020.09.25)
 #### [leetCode] Long Pressed Name (Python)
 #### Blog : https://bit.ly/32Zw1A6
+
+### DAY220 (2020.09.27)
+#### [leetCode] Height Checker (Python)
+#### Blog : https://bit.ly/2GaHOCz
