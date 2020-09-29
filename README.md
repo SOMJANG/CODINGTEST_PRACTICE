@@ -897,3 +897,7 @@
 ### DAY221 (2020.09.28)
 #### [leetCode] Reformat The String (Python)
 #### Blog :  https://bit.ly/344QEKp
+
+### DAY222 (2020.09.29)
+#### [leetCode] Remove Linked List Elements (Python)
+#### Blog : https://bit.ly/33aYLFT
