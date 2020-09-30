@@ -901,3 +901,7 @@
 ### DAY222 (2020.09.29)
 #### [leetCode] Remove Linked List Elements (Python)
 #### Blog : https://bit.ly/33aYLFT
+
+### DAY223 (2020.09.30)
+#### [leetCode] Palindrome Linked List (Python)
+#### Blog : https://bit.ly/3cLqz6U
