@@ -905,3 +905,7 @@
 ### DAY223 (2020.09.30)
 #### [leetCode] Palindrome Linked List (Python)
 #### Blog : https://bit.ly/3cLqz6U
+
+### DAY224 (2020.10.01)
+#### [leetCode] Reverse Bits (Python)
+#### Blog : https://bit.ly/2EQX1Zm
