@@ -909,3 +909,7 @@
 ### DAY224 (2020.10.01)
 #### [leetCode] Reverse Bits (Python)
 #### Blog : https://bit.ly/2EQX1Zm
+
+### DAY225 (2020.10.02)
+#### [leetCode] Guess Number Higher or Lower (Python)
+#### Blog : https://bit.ly/347NNAg
