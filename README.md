@@ -913,3 +913,7 @@
 ### DAY225 (2020.10.02)
 #### [leetCode] Guess Number Higher or Lower (Python)
 #### Blog : https://bit.ly/347NNAg
+
+### DAY226 (2020.10.03)
+#### [leetCode] The Kth Factor of n (Python)
+#### Blog : https://bit.ly/3ioygkG
