@@ -921,3 +921,7 @@
 ### DAY227 (2020.10.04)
 #### [leetCode] My Calender I (Python)
 #### Blog : https://bit.ly/30ve1Mh
+
+### DAY228 (2020.10.05)
+#### [leetCode] Intersection of Two Arrays II (Python)
+#### Blog : https://bit.ly/2F4zmVq
