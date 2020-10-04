@@ -917,3 +917,7 @@
 ### DAY226 (2020.10.03)
 #### [leetCode] The Kth Factor of n (Python)
 #### Blog : https://bit.ly/3ioygkG
+
+### DAY227 (2020.10.04)
+#### [leetCode] My Calender I (Python)
+#### Blog : https://bit.ly/30ve1Mh
