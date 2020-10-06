@@ -1,6 +1,6 @@
 # CODINGTEST_PRACTICE
 
-### Since 2020.02.07
+### Since 2020.02.07 ~
 
 ### DAY01 (2020.02.07)
 #### [BaeKJoon] 6588번: 골드바흐의 추측 문제 풀이 (Python)
