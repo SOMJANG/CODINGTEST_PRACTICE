@@ -929,3 +929,7 @@
 ### DAY229 (2020.10.06)
 #### [leetCode] Letter Combinations of a Phone Number (Python)
 #### Blog : https://bit.ly/3d5I7La
+
+### DAY230 (2020.10.07)
+#### [leetCode] Duplicate Zeros (Python)
+#### Blog : https://bit.ly/36DDG9g
