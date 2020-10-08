@@ -933,3 +933,7 @@
 ### DAY230 (2020.10.07)
 #### [leetCode] Duplicate Zeros (Python)
 #### Blog : https://bit.ly/36DDG9g
+
+### DAY231 (2020.10.08)
+#### [leetCode] Add Digits (Python)
+#### Blog : https://bit.ly/34DMLw7
