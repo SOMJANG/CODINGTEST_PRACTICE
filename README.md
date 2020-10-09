@@ -941,3 +941,7 @@
 ### DAY232 (2020.10.09)
 #### [leetCode] Monotonic Array (Python)
 #### Blog : https://bit.ly/2SGjzze
+
+### DAY233 (2020.10.10)
+#### [leetCode] Shuffle the Array (Python)
+#### Blog : https://bit.ly/2FdDSkj
