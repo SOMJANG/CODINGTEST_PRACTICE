@@ -945,3 +945,7 @@
 ### DAY233 (2020.10.10)
 #### [leetCode] Shuffle the Array (Python)
 #### Blog : https://bit.ly/2FdDSkj
+
+### DAY234 (2020.10.12)
+#### [leetCode] Base 7 (Python)
+#### Blog : https://bit.ly/3iNZdyJ
