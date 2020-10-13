@@ -949,3 +949,7 @@
 ### DAY234 (2020.10.12)
 #### [leetCode] Base 7 (Python)
 #### Blog : https://bit.ly/3iNZdyJ
+
+### DAY235 (2020.10.13)
+#### [leetCode] Find All Duplicates in an Array (Python)
+#### Blog : https://bit.ly/3jTDnLm
