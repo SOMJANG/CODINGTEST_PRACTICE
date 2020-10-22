@@ -969,3 +969,7 @@
 ### DAY239 (2020.10.21)
 #### [leetCode] Occurrences After Bigram (Python)
 #### Blog : https://bit.ly/3obDQv1
+
+### DAY240 (2020.10.22)
+#### [leetCode] Reverse Linked List (Python)
+#### Blog : https://bit.ly/3klFnfJ
