@@ -977,3 +977,7 @@
 ### DAY241 (2020.10.23)
 #### [leetCode] Combination Sum III (Python)
 #### Blog : https://bit.ly/3mirZK2
+
+### DAY242 (2020.10.24)
+#### [leetCode] Remove Element (Python)
+#### Blog : https://bit.ly/31zYZoP
