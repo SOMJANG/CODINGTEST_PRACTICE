@@ -981,3 +981,7 @@
 ### DAY242 (2020.10.24)
 #### [leetCode] Remove Element (Python)
 #### Blog : https://bit.ly/31zYZoP
+
+### DAY243 (2020.10.25)
+#### [leetCode] Largest Number (Python)
+#### Blog : https://bit.ly/2FWq7XN
