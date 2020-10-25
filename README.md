@@ -985,3 +985,7 @@
 ### DAY243 (2020.10.25)
 #### [leetCode] Largest Number (Python)
 #### Blog : https://bit.ly/2FWq7XN
+
+### DAY244 (2020.10.26)
+#### [leetCode] Duplicate Contains (Python)
+#### Blog : https://bit.ly/3ku2R2b
