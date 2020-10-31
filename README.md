@@ -993,3 +993,7 @@
 ### DAY245 (2020.10.28)
 #### [leetCode] Duplicate Contains II (Python)
 #### Blog : https://bit.ly/3oywWjv
+
+### DAY246 (2020.10.31)
+#### [leetCode] License Key Formatting (Python)
+#### Blog : https://bit.ly/2THnH2g
