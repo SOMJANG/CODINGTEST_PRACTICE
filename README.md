@@ -1001,3 +1001,7 @@
 ### DAY247 (2020.11.1)
 #### [leetCode] Fibonacci Number (Python)
 #### Blog : https://bit.ly/2GkkX88
+
+### DAY248 (2020.11.2)
+#### [leetCode] N-th Tribonacci Number (Python)
+#### Blog : https://bit.ly/2TF1fXN
