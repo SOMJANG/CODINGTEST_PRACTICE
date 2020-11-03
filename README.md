@@ -1009,3 +1009,7 @@
 ### DAY249 (2020.11.3)
 #### [leetCode] Count Negative Numbers in a Sorted Matrix (Python)
 #### Blog : https://bit.ly/3mFbHe4
+
+### DAY250 (2020.11.4)
+#### [leetCode] Lucky Numbers in a Matrix (Python)
+#### Blog : https://bit.ly/2Gpgiln
