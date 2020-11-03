@@ -1005,3 +1005,7 @@
 ### DAY248 (2020.11.2)
 #### [leetCode] N-th Tribonacci Number (Python)
 #### Blog : https://bit.ly/2TF1fXN
+
+### DAY249 (2020.11.3)
+#### [leetCode] Count Negative Numbers in a Sorted Matrix (Python)
+#### Blog : https://bit.ly/3mFbHe4
