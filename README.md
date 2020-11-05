@@ -1017,3 +1017,7 @@
 ### DAY251 (2020.11.5)
 #### [leetCode] Element Appearing More Than 25% In Sorted Array (Python)
 #### Blog : https://bit.ly/2U05mO0
+
+### DAY252 (2020.11.6)
+#### [leetCode] Relative Sort Array (Python)
+#### Blog : https://bit.ly/2Gz6iGg
