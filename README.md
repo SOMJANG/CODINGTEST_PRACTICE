@@ -1013,3 +1013,7 @@
 ### DAY250 (2020.11.4)
 #### [leetCode] Lucky Numbers in a Matrix (Python)
 #### Blog : https://bit.ly/2Gpgiln
+
+### DAY251 (2020.11.5)
+#### [leetCode] Element Appearing More Than 25% In Sorted Array (Python)
+#### Blog : https://bit.ly/2U05mO0
