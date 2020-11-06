@@ -1021,3 +1021,7 @@
 ### DAY252 (2020.11.6)
 #### [leetCode] Relative Sort Array (Python)
 #### Blog : https://bit.ly/2Gz6iGg
+
+### DAY253 (2020.11.7)
+#### [leetCode] Replace Elements with Greatest Element on Right Side (Python)
+#### Blog : https://bit.ly/2Gz2vZs
