@@ -1025,3 +1025,7 @@
 ### DAY253 (2020.11.7)
 #### [leetCode] Replace Elements with Greatest Element on Right Side (Python)
 #### Blog : https://bit.ly/2Gz2vZs
+
+### DAY254 (2020.11.8)
+#### [leetCode] Multiply Strings (Python)
+#### Blog : https://bit.ly/32o5ITf
