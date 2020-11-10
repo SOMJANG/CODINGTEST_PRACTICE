@@ -1037,3 +1037,7 @@
 ### DAY256 (2020.11.10)
 #### [leetCode] Search in Rotated Sorted Array II (Python)
 #### Blog : https://bit.ly/3pakp6a
+
+### DAY266 (2020.11.11)
+#### [leetCode] Find Lucky Integer in an Array (Python)
+#### Blog : https://bit.ly/3pehYzC
