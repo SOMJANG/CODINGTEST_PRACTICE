@@ -1045,3 +1045,7 @@
 ### DAY258 (2020.11.12)
 #### [leetCode] Buddy Strings (Python)
 #### Blog : https://bit.ly/3kmfviW
+
+### DAY259 (2020.11.13)
+#### [leetCode] Largest Number At Least Twice of Others (Python)
+#### Blog : https://bit.ly/35q7dlK
