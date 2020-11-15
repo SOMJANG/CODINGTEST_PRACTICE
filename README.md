@@ -1053,3 +1053,7 @@
 ### DAY260 (2020.11.15)
 #### [leetCode] Integer Replacement (Python)
 #### Blog : https://bit.ly/38O2a0H
+
+### DAY261 (2020.11.16)
+#### [leetCode] Remove Nth Node From End of List (Python)
+#### Blog : https://bit.ly/38KYrko
