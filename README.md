@@ -1049,3 +1049,7 @@
 ### DAY259 (2020.11.13)
 #### [leetCode] Largest Number At Least Twice of Others (Python)
 #### Blog : https://bit.ly/35q7dlK
+
+### DAY260 (2020.11.15)
+#### [leetCode] Integer Replacement (Python)
+#### Blog : https://bit.ly/38O2a0H
