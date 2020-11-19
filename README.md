@@ -1069,3 +1069,7 @@
 ### DAY264 (2020.11.19)
 #### [leetCode] Compare Version Number (Python)
 #### Blog : https://bit.ly/2UFFxmZ
+
+### DAY265 (2020.11.20)
+#### [leetCode] Super Ugly Number (Python)
+#### Blog : https://bit.ly/3pNaweW
