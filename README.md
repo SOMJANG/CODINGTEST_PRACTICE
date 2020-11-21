@@ -1073,3 +1073,7 @@
 ### DAY265 (2020.11.20)
 #### [leetCode] Super Ugly Number (Python)
 #### Blog : https://bit.ly/3pNaweW
+
+### DAY266 (2020.11.21)
+#### [leetCode] Counting Bits (Python)
+#### Blog : https://bit.ly/337LqOu
