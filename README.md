@@ -1077,3 +1077,7 @@
 ### DAY266 (2020.11.21)
 #### [leetCode] Counting Bits (Python)
 #### Blog : https://bit.ly/337LqOu
+
+### DAY267 (2020.11.22)
+#### [leetCode] Validate IP Address (Python)
+#### Blog : https://bit.ly/395Id5O
