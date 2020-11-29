@@ -1081,3 +1081,7 @@
 ### DAY267 (2020.11.22)
 #### [leetCode] Validate IP Address (Python)
 #### Blog : https://bit.ly/395Id5O
+
+### DAY268 (2020.11.29)
+#### [leetCode] Sort List (Python)
+#### Blog : https://bit.ly/3fK4tDo
