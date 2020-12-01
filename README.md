@@ -1085,3 +1085,7 @@
 ### DAY268 (2020.11.29)
 #### [leetCode] Sort List (Python)
 #### Blog : https://bit.ly/3fK4tDo
+
+### DAY269 (2020.12.01)
+#### [leetCode] Remove Duplicates from Sorted List (Python)
+#### Blog : https://bit.ly/3mpEvI5
