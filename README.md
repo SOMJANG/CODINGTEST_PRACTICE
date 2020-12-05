@@ -1097,3 +1097,7 @@
 ### DAY271 (2020.12.05)
 #### [leetCode] Find Smallest Letter Greater Than Target (Python)
 #### Blog : https://bit.ly/37AfdR7
+
+### DAY272 (2020.12.06)
+#### [leetCode] Destination City (Python)
+#### Blog : https://bit.ly/2VJnMno
