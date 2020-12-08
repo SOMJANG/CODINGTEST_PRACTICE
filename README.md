@@ -1105,3 +1105,7 @@
 ### DAY273 (2020.12.07)
 #### [leetCode] Sum of All Odd Length Subarrays (Python)
 #### Blog : https://bit.ly/36JS1AG
+
+### DAY274 (2020.12.08)
+#### [leetCode] Goal Parser Interpretation (Python)
+#### Blog : https://bit.ly/3gsT23A
