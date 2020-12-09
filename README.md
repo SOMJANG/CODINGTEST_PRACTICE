@@ -1109,3 +1109,7 @@
 ### DAY274 (2020.12.08)
 #### [leetCode] Goal Parser Interpretation (Python)
 #### Blog : https://bit.ly/3gsT23A
+
+### DAY275 (2020.12.09)
+#### [leetCode] Richest Customer Wealth (Python)
+#### Blog : https://bit.ly/2Iq5J2j
