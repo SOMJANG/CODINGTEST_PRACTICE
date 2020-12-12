@@ -1113,3 +1113,7 @@
 ### DAY275 (2020.12.09)
 #### [leetCode] Richest Customer Wealth (Python)
 #### Blog : https://bit.ly/2Iq5J2j
+
+### DAY276 (2020.12.12)
+#### [leetCode] Check If Two String Arrays are Equivalent (Python)
+#### Blog : https://bit.ly/3qQjl8j
