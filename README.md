@@ -1117,3 +1117,7 @@
 ### DAY276 (2020.12.12)
 #### [leetCode] Check If Two String Arrays are Equivalent (Python)
 #### Blog : https://bit.ly/3qQjl8j
+
+### DAY277 (2020.12.17)
+#### [leetCode] Maximum Product of Two Elements in an Array (Python)
+#### Blog : https://bit.ly/34mbFRU
