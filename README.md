@@ -1121,3 +1121,7 @@
 ### DAY277 (2020.12.17)
 #### [leetCode] Maximum Product of Two Elements in an Array (Python)
 #### Blog : https://bit.ly/34mbFRU
+
+### DAY278 (2020.12.18)
+#### [Programmers] 두 개 뽑아서 더하기 (Python)
+#### Blog : https://bit.ly/2IZFDDE
