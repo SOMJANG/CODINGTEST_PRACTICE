@@ -1125,3 +1125,7 @@
 ### DAY278 (2020.12.18)
 #### [Programmers] 두 개 뽑아서 더하기 (Python)
 #### Blog : https://bit.ly/2IZFDDE
+
+### DAY279 (2020.12.19)
+#### [Programmers] 이상한 문자 만들기 (Python)
+#### Blog : https://bit.ly/38jUa5S
