@@ -1137,3 +1137,7 @@
 ### DAY281 (2020.12.26)
 #### [leetCode] Reverse Linked List II (Python)
 #### Blog : https://bit.ly/2M04NmG
+
+### DAY282 (2020.12.27)
+#### [leetCode] Kth Missing Positive Number (Python)
+#### Blog : https://bit.ly/3ps0RcO
