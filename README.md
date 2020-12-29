@@ -1149,3 +1149,7 @@
 ### DAY284 (2020.12.29)
 #### [leetCode] Average Salary Excluding the Minimum and Maximum Salary (Python)
 #### Blog : https://bit.ly/3pyBPch
+
+### DAY285 (2020.12.30)
+#### [leetCode] Find Numbers with Even Number of Digits (Python)
+#### Blog : https://bit.ly/3pyQeoE
