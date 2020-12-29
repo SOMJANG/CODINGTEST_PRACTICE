@@ -1145,3 +1145,7 @@
 ### DAY283 (2020.12.28)
 #### [leetCode] Count Odd Numbers in an Interval Range (Python)
 #### Blog : https://bit.ly/3nNRzYi
+
+### DAY284 (2020.12.29)
+#### [leetCode] Average Salary Excluding the Minimum and Maximum Salary (Python)
+#### Blog : https://bit.ly/3pyBPch
