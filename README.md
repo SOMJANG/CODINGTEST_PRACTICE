@@ -1153,3 +1153,7 @@
 ### DAY285 (2020.12.30)
 #### [leetCode] Find Numbers with Even Number of Digits (Python)
 #### Blog : https://bit.ly/3pyQeoE
+
+### DAY286 (2020.12.31)
+#### [leetCode] Convert Binary Number in a Linked List to Integer (Python)
+#### Blog : https://bit.ly/3rHhfZ3
