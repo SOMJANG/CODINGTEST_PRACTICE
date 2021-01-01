@@ -1157,3 +1157,7 @@
 ### DAY286 (2020.12.31)
 #### [leetCode] Convert Binary Number in a Linked List to Integer (Python)
 #### Blog : https://bit.ly/3rHhfZ3
+
+### DAY287 (2021.01.01)
+#### [leetCode] Mean of Array After Removing Some Elements (Python)
+#### Blog : https://bit.ly/384CUmd
