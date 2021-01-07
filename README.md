@@ -1161,3 +1161,7 @@
 ### DAY287 (2021.01.01)
 #### [leetCode] Mean of Array After Removing Some Elements (Python)
 #### Blog : https://bit.ly/384CUmd
+
+### DAY288 (2021.01.08)
+#### [leetCode] Shortest Distance to a Character (Python)
+#### Blog : https://bit.ly/38nK5Gb
