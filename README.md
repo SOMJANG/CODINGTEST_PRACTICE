@@ -1165,3 +1165,7 @@
 ### DAY288 (2021.01.08)
 #### [leetCode] Shortest Distance to a Character (Python)
 #### Blog : https://bit.ly/38nK5Gb
+
+### DAY289 (2021.01.11)
+#### [leetCode] Custom Sort String (Python)
+#### Blog : https://bit.ly/3bsw8bT
