@@ -1173,3 +1173,7 @@
 ### DAY290 (2021.01.12)
 #### [leetCode] Hamming Distance (Python)
 #### Blog : https://bit.ly/3qax48S
+
+### DAY291 (2021.01.13)
+#### [leetCode] Construct the Ractangle (Python)
+#### Blog : https://bit.ly/3skfC3S
