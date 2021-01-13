@@ -1177,3 +1177,7 @@
 ### DAY291 (2021.01.13)
 #### [leetCode] Construct the Ractangle (Python)
 #### Blog : https://bit.ly/3skfC3S
+
+### DAY292 (2021.01.14)
+#### [leetCode] Delete Node in a Linked List (Python)
+#### Blog : https://bit.ly/3qi4nXE
