@@ -1181,3 +1181,7 @@
 ### DAY292 (2021.01.14)
 #### [leetCode] Delete Node in a Linked List (Python)
 #### Blog : https://bit.ly/3qi4nXE
+
+### DAY293 (2021.01.15)
+#### [leetCode] Detect Capital (Python)
+#### Blog : https://bit.ly/35FeY75
