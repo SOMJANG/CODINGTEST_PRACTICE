@@ -1185,3 +1185,7 @@
 ### DAY293 (2021.01.15)
 #### [leetCode] Detect Capital (Python)
 #### Blog : https://bit.ly/35FeY75
+
+### DAY294 (2021.01.16)
+#### [leetCode] Smallest Range I (Python)
+#### Blog : https://bit.ly/3nJuOny
