@@ -1193,3 +1193,7 @@
 ### DAY295 (2021.01.17)
 #### [leetCode] 1-bit and 2-bit Characters (Python)
 #### Blog : https://bit.ly/2N2n6bp
+
+### DAY296 (2021.01.18)
+#### [leetCode] Middle of the Linked List (Python)
+#### Blog : https://bit.ly/3oWVDWW
