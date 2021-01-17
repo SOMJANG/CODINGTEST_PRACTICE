@@ -1189,3 +1189,7 @@
 ### DAY294 (2021.01.16)
 #### [leetCode] Smallest Range I (Python)
 #### Blog : https://bit.ly/3nJuOny
+
+### DAY295 (2021.01.17)
+#### [leetCode] 1-bit and 2-bit Characters (Python)
+#### Blog : https://bit.ly/2N2n6bp
