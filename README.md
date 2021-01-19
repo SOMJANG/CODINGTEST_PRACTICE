@@ -1197,3 +1197,7 @@
 ### DAY296 (2021.01.18)
 #### [leetCode] Middle of the Linked List (Python)
 #### Blog : https://bit.ly/3oWVDWW
+
+### DAY297 (2021.01.19)
+#### [leetCode] Rearrange Spaces Between Words (Python)
+#### Blog : https://bit.ly/2NgH9mI
