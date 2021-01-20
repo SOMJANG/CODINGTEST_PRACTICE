@@ -1203,5 +1203,9 @@
 #### Blog : https://bit.ly/2NgH9mI
 
 ### DAY298 (2021.01.20)
-#### [leetCode[ Rearrange Words in a Sentence (Python)
+#### [leetCode] Rearrange Words in a Sentence (Python)
 #### Blog : https://bit.ly/3sDqeuL
+
+### DAY299 (2021.01.21)
+#### [leetCode] Remove Duplicates from Sorted Array II (Python)
+#### Blog : https://bit.ly/3bQa8rK
