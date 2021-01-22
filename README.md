@@ -1209,3 +1209,7 @@
 ### DAY299 (2021.01.21)
 #### [leetCode] Remove Duplicates from Sorted Array II (Python)
 #### Blog : https://bit.ly/3bQa8rK
+
+### DAY300 (2021.01.22)
+#### [leetCode] Replace Words (Python)
+#### Blog : https://bit.ly/3948TDw
