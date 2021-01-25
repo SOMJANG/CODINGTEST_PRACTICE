@@ -1221,3 +1221,7 @@
 ### DAY302 (2021.01.24)
 #### [leetCode] Unique Morse Code Words (Python)
 #### Blog : https://bit.ly/398OBbX
+
+### DAY303 (2021.01.25)
+#### [leetCode] Valid Perfect Square (Python)
+#### Blog : https://bit.ly/2M5w1Zv
