@@ -1225,3 +1225,7 @@
 ### DAY303 (2021.01.25)
 #### [leetCode] Valid Perfect Square (Python)
 #### Blog : https://bit.ly/2M5w1Zv
+
+### DAY304 (2021.01.26)
+#### [leetCode] Letter Case Permutation (Python)
+#### Blog : https://bit.ly/2YcFxwq
