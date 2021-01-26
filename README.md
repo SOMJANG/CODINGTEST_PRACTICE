@@ -1229,3 +1229,7 @@
 ### DAY304 (2021.01.26)
 #### [leetCode] Letter Case Permutation (Python)
 #### Blog : https://bit.ly/2YcFxwq
+
+### DAY305 (2021.01.27)
+#### [leetCode] Number Complement (Python)
+#### Blog : https://bit.ly/3a922rN
