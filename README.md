@@ -1233,3 +1233,7 @@
 ### DAY305 (2021.01.27)
 #### [leetCode] Number Complement (Python)
 #### Blog : https://bit.ly/3a922rN
+
+### DAY306 (2021.01.28)
+#### [leetCode] XOR Operatoin in an Array (Python)
+#### Blog : https://bit.ly/3iPvhnk
