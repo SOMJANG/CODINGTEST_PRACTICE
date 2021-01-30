@@ -1241,3 +1241,7 @@
 ### DAY307 (2021.01.29)
 #### [leetCode] Valid Mountain Array (Python)
 #### Blog : https://bit.ly/3pvCuve
+
+### DAY308 (2021.01.30)
+#### [leetCode] Odd Even Linked List (Python)
+#### Blog : https://bit.ly/39uBWAo
