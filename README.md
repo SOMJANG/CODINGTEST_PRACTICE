@@ -1249,3 +1249,7 @@
 ### DAY309 (2021.01.31)
 #### [leetCode] Complement of Base 10 Integer (Python)
 #### Blog : https://bit.ly/3cnTXSP
+
+### DAY310 (2021.02.01)
+#### [leetCode] Check If it is a Straight Line (Python)
+#### Blog : https://bit.ly/3oEDJqR
