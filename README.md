@@ -1253,3 +1253,7 @@
 ### DAY310 (2021.02.01)
 #### [leetCode] Check If it is a Straight Line (Python)
 #### Blog : https://bit.ly/3oEDJqR
+
+### DAY311 (2021.02.02)
+#### [leetCode] Find Peak Element (Python)
+#### Blog : https://bit.ly/3oFVPsz
