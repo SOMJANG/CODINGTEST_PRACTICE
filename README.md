@@ -1257,3 +1257,7 @@
 ### DAY311 (2021.02.02)
 #### [leetCode] Find Peak Element (Python)
 #### Blog : https://bit.ly/3oFVPsz
+
+### DAY312 (2021.02.03)
+#### [leetCode] Find the Difference (Python)
+#### Blog : https://bit.ly/3oQEIEE
