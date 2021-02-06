@@ -1261,3 +1261,7 @@
 ### DAY312 (2021.02.03)
 #### [leetCode] Find the Difference (Python)
 #### Blog : https://bit.ly/3oQEIEE
+
+### DAY313 (2021.02.05)
+#### [Programmers] 나누어 떨어지는 숫자 배열 (Python)
+#### Blog : https://bit.ly/3jphKTQ
