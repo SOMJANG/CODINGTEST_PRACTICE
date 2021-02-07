@@ -1265,3 +1265,7 @@
 ### DAY313 (2021.02.05)
 #### [Programmers] 나누어 떨어지는 숫자 배열 (Python)
 #### Blog : https://bit.ly/3jphKTQ
+
+### DAY314 (2021.02.06)
+#### [Programmers] 가운데 글자 가져오기 (Python)
+#### Blog : https://bit.ly/2Lrn5gO
