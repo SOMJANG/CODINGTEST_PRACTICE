@@ -1281,3 +1281,7 @@
 ### DAY317 (2021.02.11)
 #### [Programmers] 2021 KAKAO BLIND RECRUITMENT 신규 아이디 추천 (Python)
 #### Blog : https://bit.ly/3qf5HuU
+
+### DAY318 (2021.02.12)
+#### [Programmers] 2019 KAKAO BLIND RECRUITMENT 실패율 (Python)
+#### Blog : https://bit.ly/3acbvQq
