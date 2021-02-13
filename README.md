@@ -1285,3 +1285,7 @@
 ### DAY318 (2021.02.12)
 #### [Programmers] 2019 KAKAO BLIND RECRUITMENT 실패율 (Python)
 #### Blog : https://bit.ly/3acbvQq
+
+### DAY319 (2021.02.13)
+#### [Programmers] 문자열 다루기 기본 (Python)
+#### Blog : https://bit.ly/378lynG
