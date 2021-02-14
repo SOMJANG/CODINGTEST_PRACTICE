@@ -1289,3 +1289,7 @@
 ### DAY319 (2021.02.13)
 #### [Programmers] 문자열 다루기 기본 (Python)
 #### Blog : https://bit.ly/378lynG
+
+### DAY320 (2021.02.14)
+#### [Programmers] 문자열 내 마음대로 정렬하기 (Python)
+#### Blog : https://bit.ly/37cAuBa
