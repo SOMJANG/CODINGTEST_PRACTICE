@@ -1293,3 +1293,7 @@
 ### DAY320 (2021.02.14)
 #### [Programmers] 문자열 내 마음대로 정렬하기 (Python)
 #### Blog : https://bit.ly/37cAuBa
+
+### DAY321 (2021.02.21)
+#### [Programmers] 같은 숫자는 싫어 (Python)
+#### Blog : https://bit.ly/3si08fF
