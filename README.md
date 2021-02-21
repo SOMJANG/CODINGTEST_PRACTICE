@@ -1297,3 +1297,7 @@
 ### DAY321 (2021.02.21)
 #### [Programmers] 같은 숫자는 싫어 (Python)
 #### Blog : https://bit.ly/3si08fF
+
+### DAY322 (2021.02.22)
+#### [Programmers] 콜라츠 추측 (Python)
+#### Blog : https://bit.ly/3qMSFFq
