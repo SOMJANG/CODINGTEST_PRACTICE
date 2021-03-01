@@ -1305,3 +1305,7 @@
 ### DAY323 (2021.02.23)
 #### [Programmers] 이진변환 반복하기 (Python)
 #### Blog : https://bit.ly/2P6nS8j
+
+### DAY324 (2021.03.01)
+#### [Programmers] 3진법 뒤집기 (Python)
+#### Blog : https://bit.ly/3b303H5
