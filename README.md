@@ -1317,3 +1317,7 @@
 ### DAY326 (2021.03.08)
 #### [Programmers] 행렬의 덧셈 (Python)
 #### Blog : https://bit.ly/2PMoccP
+
+### DAY327 (2021.03.16)
+#### [Programmers] 월간 코드 챌린지 시즌1  - 내적 (Python)
+#### Blog : https://bit.ly/3llr5Nm
