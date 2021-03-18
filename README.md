@@ -1321,3 +1321,7 @@
 ### DAY327 (2021.03.16)
 #### [Programmers] 월간 코드 챌린지 시즌1  - 내적 (Python)
 #### Blog : https://bit.ly/3llr5Nm
+
+### DAY328 (2021.03.18)
+#### [Programmers] 2018 KAKAO BLIND RECRUITMENT [3차] 압축 (Python)
+#### Blog : https://bit.ly/3lpSEFs
