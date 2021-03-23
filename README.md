@@ -1325,3 +1325,7 @@
 ### DAY328 (2021.03.18)
 #### [Programmers] 2018 KAKAO BLIND RECRUITMENT [3차] 압축 (Python)
 #### Blog : https://bit.ly/3lpSEFs
+
+### DAY329 (2021.03.23)
+#### [Programmers] 하샤드 수 (Python)
+#### Blog : https://bit.ly/2QAWtwh
