@@ -1329,3 +1329,7 @@
 ### DAY329 (2021.03.23)
 #### [Programmers] 하샤드 수 (Python)
 #### Blog : https://bit.ly/2QAWtwh
+
+### DAY330 (2021.03.26)
+#### [BaekJoon] 영화감독 숌 (Python)
+#### Blog : https://bit.ly/3sp4oKU
