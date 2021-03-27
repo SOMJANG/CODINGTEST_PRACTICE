@@ -1333,3 +1333,7 @@
 ### DAY330 (2021.03.26)
 #### [BaekJoon] 영화감독 숌 (Python)
 #### Blog : https://bit.ly/3sp4oKU
+
+### DAY331 (2021.03.27)
+#### [Programmers] 멀리뛰기 (Python)
+#### Blog : https://bit.ly/3vZIPTD
