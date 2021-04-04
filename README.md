@@ -1337,3 +1337,7 @@
 ### DAY331 (2021.03.27)
 #### [Programmers] 멀리뛰기 (Python)
 #### Blog : https://bit.ly/3vZIPTD
+
+### DAY332 (2021.04.04)
+#### [BaekJoon] 나머지 (Python)
+#### Blog : https://bit.ly/3mjAqpr
