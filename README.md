@@ -1341,3 +1341,7 @@
 ### DAY332 (2021.04.04)
 #### [BaekJoon] 나머지 (Python)
 #### Blog : https://bit.ly/3mjAqpr
+
+### DAY333 (2021.04.05)
+#### [BaekJoon] 숫자의 합 (Python)
+#### Blog : https://bit.ly/3cMUGg0
