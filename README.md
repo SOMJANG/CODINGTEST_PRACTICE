@@ -1345,3 +1345,7 @@
 ### DAY333 (2021.04.05)
 #### [BaekJoon] 숫자의 합 (Python)
 #### Blog : https://bit.ly/3cMUGg0
+
+### DAY334 (2021.04.07)
+#### [BaekJoon] 좌표압축 (Python)
+#### Blog : https://bit.ly/3fQ6sYU
