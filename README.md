@@ -1359,3 +1359,7 @@
 ### DAY336 (2021.04.09)
 #### [Programmers] 약수의 합 (Python)
 #### Blog : https://bit.ly/2PMJDuw
+
+### DAY337 (2021.04.10)
+#### [Programmers] x만큼 간격이 있는 n개의 숫자 (Python)
+#### Blog : https://bit.ly/3s63EJN
