@@ -1363,3 +1363,7 @@
 ### DAY337 (2021.04.10)
 #### [Programmers] x만큼 간격이 있는 n개의 숫자 (Python)
 #### Blog : https://bit.ly/3s63EJN
+
+### DAY338 (2021.04.11)
+#### [Programmers] 제일 작은 수 제거하기 (Python)
+#### Blog : https://bit.ly/2PLJxDL
