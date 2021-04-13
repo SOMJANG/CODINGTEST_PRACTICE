@@ -1371,3 +1371,7 @@
 ### DAY339 (2021.04.12)
 #### [Programmers] 자연수 뒤집어 배열로 만들기 (Python)
 #### Blog : https://bit.ly/3mBchLj
+
+### DAY340 (2021.04.13)
+#### [Programmers] 정수 제곱근 판별 (Python)
+#### Blog : https://bit.ly/3dXiaOR
