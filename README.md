@@ -1375,3 +1375,7 @@
 ### DAY340 (2021.04.13)
 #### [Programmers] 정수 제곱근 판별 (Python)
 #### Blog : https://bit.ly/3dXiaOR
+
+### DAY341 (2021.04.14)
+#### [Programmers] 자릿수 더하기 (Python)
+#### Blog : https://bit.ly/3a7kwtj
