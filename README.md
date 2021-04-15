@@ -1379,3 +1379,7 @@
 ### DAY341 (2021.04.14)
 #### [Programmers] 자릿수 더하기 (Python)
 #### Blog : https://bit.ly/3a7kwtj
+
+### DAY342 (2021.04.15)
+#### [Programmers] 정수 내림차수능로 배치하기 (Python)
+#### Blog : https://bit.ly/3gfMlUt
