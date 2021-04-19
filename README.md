@@ -1381,5 +1381,9 @@
 #### Blog : https://bit.ly/3a7kwtj
 
 ### DAY342 (2021.04.15)
-#### [Programmers] 정수 내림차수능로 배치하기 (Python)
+#### [Programmers] 정수 내림차순으로 배치하기 (Python)
 #### Blog : https://bit.ly/3gfMlUt
+
+### DAY343 (2021.04.19)
+#### [Programmers] 문자열 내림차순으로 배치하기 (Python)
+#### Blog : https://bit.ly/3mYM3T0
