@@ -1391,3 +1391,7 @@
 ### DAY344 (2021.04.20)
 #### [Programmers] 서울에서 김서방 찾기 (Python)
 #### Blog : https://bit.ly/32sTFnx
+
+### DAY345 (2021.04.21)
+#### [Programmers] 2016년 (Python)
+#### Blog : https://bit.ly/3n4N9wP
