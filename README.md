@@ -1387,3 +1387,7 @@
 ### DAY343 (2021.04.19)
 #### [Programmers] 문자열 내림차순으로 배치하기 (Python)
 #### Blog : https://bit.ly/3mYM3T0
+
+### DAY344 (2021.04.20)
+#### [Programmers] 서울에서 김서방 찾기 (Python)
+#### Blog : https://bit.ly/32sTFnx
