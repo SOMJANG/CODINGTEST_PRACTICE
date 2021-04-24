@@ -183,3 +183,7 @@
 ### DAY346 (2021.04.24)
 #### [Programmers] 음양 더하기 (Python)
 #### Blog : https://bit.ly/3tQ1m31
+
+### DAY347 (2021.04.25)
+#### [BaekJoon] X보다 작은 수 (Python)
+#### Blog : https://bit.ly/3vfK8MP
