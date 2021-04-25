@@ -187,3 +187,7 @@
 ### DAY347 (2021.04.25)
 #### [BaekJoon] X보다 작은 수 (Python)
 #### Blog : https://bit.ly/3vfK8MP
+
+### DAY348 (2021.04.26)
+#### [BaekJoon] 단어 공부 (Python)
+#### Blog : https://bit.ly/3nfdbNS
