@@ -191,3 +191,7 @@
 ### DAY348 (2021.04.26)
 #### [BaekJoon] 단어 공부 (Python)
 #### Blog : https://bit.ly/3nfdbNS
+
+### DAY349 (2021.04.27)
+#### [BaekJoon] 소수 (Python)
+#### Blog : https://bit.ly/3vm0HGP
