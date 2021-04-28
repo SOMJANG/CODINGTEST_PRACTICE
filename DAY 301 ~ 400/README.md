@@ -195,3 +195,7 @@
 ### DAY349 (2021.04.27)
 #### [BaekJoon] 소수 (Python)
 #### Blog : https://bit.ly/3vm0HGP
+
+### DAY350 (2021.04.28)
+#### [BaekJoon] 빠른 A+B (Python)
+#### Blog : https://bit.ly/2R0aHH1
