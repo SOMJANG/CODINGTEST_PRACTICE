@@ -203,3 +203,7 @@
 ### DAY351 (2021.04.30)
 #### [Programmers] 문자열을 정수로 바꾸기 (Python)
 #### Blog : https://bit.ly/3t4xL4D
+
+### DAY352 (2021.05.01)
+#### [BaekJoon] 두 수의 합 (Python)
+#### Blog : https://bit.ly/3ucFXBm
