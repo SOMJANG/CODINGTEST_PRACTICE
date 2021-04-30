@@ -199,3 +199,7 @@
 ### DAY350 (2021.04.28)
 #### [BaekJoon] 빠른 A+B (Python)
 #### Blog : https://bit.ly/2R0aHH1
+
+### DAY351 (2021.04.30)
+#### [Programmers] 문자열을 정수로 바꾸기 (Python)
+#### Blog : https://bit.ly/3t4xL4D
