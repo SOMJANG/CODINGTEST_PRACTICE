@@ -207,3 +207,7 @@
 ### DAY352 (2021.05.01)
 #### [BaekJoon] 두 수의 합 (Python)
 #### Blog : https://bit.ly/3ucFXBm
+
+### DAY353 (2021.05.02)
+#### [BaekJoon] 소트인사이드 (Python)
+#### Blog : https://bit.ly/3nzL7VC
