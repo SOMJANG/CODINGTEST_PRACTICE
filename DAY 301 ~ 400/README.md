@@ -211,3 +211,7 @@
 ### DAY353 (2021.05.02)
 #### [BaekJoon] 소트인사이드 (Python)
 #### Blog : https://bit.ly/3nzL7VC
+
+### DAY354 (2021.05.03)
+#### [Programmers] 예산 (Python)
+#### Blog : https://bit.ly/3ufCzWe
