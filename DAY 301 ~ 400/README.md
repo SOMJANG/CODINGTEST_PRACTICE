@@ -239,3 +239,7 @@
 ### DAY360 (2021.05.09)
 #### [BaekJoon] 단어정렬 (Python)
 #### Blog : https://bit.ly/3erzoWb
+
+### DAY361 (2021.05.10)
+#### [BaekJoon] 상수 (Python)
+#### Blog : https://bit.ly/3tuSe32
