@@ -247,3 +247,7 @@
 ### DAY362 (2021.05.11)
 #### [BaekJoon] 더하기 사이클 (Python)
 #### Blog : https://bit.ly/3f9gNNO
+
+### DAY363 (2021.05.12)
+#### [BaekJoon] 수 찾기 (Python)
+#### Blog : https://bit.ly/2RNZ8mU
