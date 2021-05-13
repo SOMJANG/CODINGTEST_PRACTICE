@@ -255,3 +255,7 @@
 ### DAY364 (2021.05.13)
 #### [BaekJoon] OX퀴즈 (Python)
 #### Blog : https://bit.ly/3uKZ6dV
+
+### DAY365 (2021.05.14)
+#### [BaekJoon] 숫자 카드 2 (Python)
+#### Blog : https://bit.ly/33FmEVD
