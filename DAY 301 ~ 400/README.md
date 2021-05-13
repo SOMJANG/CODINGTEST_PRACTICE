@@ -251,3 +251,7 @@
 ### DAY363 (2021.05.12)
 #### [BaekJoon] 수 찾기 (Python)
 #### Blog : https://bit.ly/2RNZ8mU
+
+### DAY364 (2021.05.13)
+#### [BaekJoon] OX퀴즈 (Python)
+#### Blog : https://bit.ly/3uKZ6dV
