@@ -259,3 +259,7 @@
 ### DAY365 (2021.05.14)
 #### [BaekJoon] 숫자 카드 2 (Python)
 #### Blog : https://bit.ly/33FmEVD
+
+### DAY366 (2021.05.15)
+#### [BaekJoon] 팰린드롬수 (Python)
+#### Blog : https://bit.ly/3tOmnu2
