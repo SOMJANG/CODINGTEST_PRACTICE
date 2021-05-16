@@ -9,4 +9,4 @@
 [![Samsung_SW_Academy](/images/Samsung_SW_Academy.png)](https://swexpertacademy.com/main/main.do)
 [![LeetCode](/images/LeetCode.png)](https://leetcode.com/)
 [![HackerRank](/images/HackerRank.png)](https://www.hackerrank.com/)
-<p align="center"><img src="image_src"></p>
+<p align="center"><img src="/images/JUNGOL.png"></p>
