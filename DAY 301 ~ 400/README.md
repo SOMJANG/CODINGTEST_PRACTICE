@@ -263,3 +263,7 @@
 ### DAY366 (2021.05.15)
 #### [BaekJoon] 팰린드롬수 (Python)
 #### Blog : https://bit.ly/3tOmnu2
+
+### DAY367 (2021.05.16)
+#### [BaekJoon] 네 번째 점 (Python)
+#### Blog : https://bit.ly/3tIMfrq
