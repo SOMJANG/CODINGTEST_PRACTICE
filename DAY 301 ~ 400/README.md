@@ -267,3 +267,7 @@
 ### DAY367 (2021.05.16)
 #### [BaekJoon] 네 번째 점 (Python)
 #### Blog : https://bit.ly/3tIMfrq
+
+### DAY368 (2021.05.17)
+#### [JUNGOL] 단어 세기 (Python)
+#### Blog : https://bit.ly/33KqyN0
