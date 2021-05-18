@@ -271,3 +271,7 @@
 ### DAY368 (2021.05.17)
 #### [JUNGOL] 단어 세기 (Python)
 #### Blog : https://bit.ly/33KqyN0
+
+### DAY369 (2021.05.18)
+#### [JUNGOL] 세로읽기 (Python)
+#### Blog : https://bit.ly/3hzaZje
