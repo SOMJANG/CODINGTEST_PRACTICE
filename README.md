@@ -10,4 +10,4 @@
 [![LeetCode](/images/LeetCode.png)](https://leetcode.com/)
 [![HackerRank](/images/HackerRank.png)](https://www.hackerrank.com/)
 <p align="center"><a href="http://www.jungol.co.kr/"><img src="/images/JUNGOL.png"></a></p>
-<p align="center"><img src="/images/CodeUp.png"></p>
+<p align="center"><a href="https://codeup.kr/"><img src="/images/CodeUp.png"></a></p>
