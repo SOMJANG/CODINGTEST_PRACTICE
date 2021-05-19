@@ -9,5 +9,5 @@
 [![Samsung_SW_Academy](/images/Samsung_SW_Academy.png)](https://swexpertacademy.com/main/main.do)
 [![LeetCode](/images/LeetCode.png)](https://leetcode.com/)
 [![HackerRank](/images/HackerRank.png)](https://www.hackerrank.com/)
-<p align="center"><img src="/images/JUNGOL.png"></p>
+<p align="center"><a href="http://www.jungol.co.kr/"><img src="/images/JUNGOL.png"></a></p>
 <p align="center"><img src="/images/CodeUp.png"></p>
