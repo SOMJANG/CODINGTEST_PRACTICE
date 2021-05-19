@@ -279,3 +279,7 @@
 ### DAY370 (2021.05.19)
 #### [CodeUp] 대표 문자열 (Python)
 #### Blog : https://bit.ly/2QBd7MA
+
+### DAY371 (2021.05.20)
+#### [CodeUp] 제품 생산량 순위 구하기 (Python)
+#### Blog : https://bit.ly/2RsSdPW
