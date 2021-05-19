@@ -10,3 +10,4 @@
 [![LeetCode](/images/LeetCode.png)](https://leetcode.com/)
 [![HackerRank](/images/HackerRank.png)](https://www.hackerrank.com/)
 <p align="center"><img src="/images/JUNGOL.png"></p>
+<p align="center"><img src="/images/CodeUp.png"></p>

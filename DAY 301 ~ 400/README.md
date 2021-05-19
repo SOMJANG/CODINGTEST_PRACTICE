@@ -275,3 +275,7 @@
 ### DAY369 (2021.05.18)
 #### [JUNGOL] 세로읽기 (Python)
 #### Blog : https://bit.ly/3hzaZje
+
+### DAY370 (2021.05.19)
+#### [CodeUp] 대표 문자열 (Python)
+#### Blog : https://bit.ly/2QBd7MA
