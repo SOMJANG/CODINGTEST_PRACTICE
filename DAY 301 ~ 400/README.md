@@ -283,3 +283,7 @@
 ### DAY371 (2021.05.20)
 #### [CodeUp] 제품 생산량 순위 구하기 (Python)
 #### Blog : https://bit.ly/2RsSdPW
+
+### DAY372 (2021.05.21)
+#### [BaekJoon] 단어의 개수 (Python)
+#### Blog : https://bit.ly/3u6saeG
