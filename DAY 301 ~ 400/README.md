@@ -287,3 +287,7 @@
 ### DAY372 (2021.05.21)
 #### [BaekJoon] 단어의 개수 (Python)
 #### Blog : https://bit.ly/3u6saeG
+
+### DAY373 (2021.05.22)
+#### [BaekJoon] 통계학 (Python)
+#### Blog : https://bit.ly/3bGI0GE
