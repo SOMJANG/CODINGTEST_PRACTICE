@@ -291,3 +291,7 @@
 ### DAY373 (2021.05.22)
 #### [BaekJoon] 통계학 (Python)
 #### Blog : https://bit.ly/3bGI0GE
+
+### DAY374 (2021.05.23)
+#### [BaekJoon] 숫자의 개수 (Python)
+#### Blog : https://bit.ly/3uf0CUy
