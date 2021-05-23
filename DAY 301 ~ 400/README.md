@@ -295,3 +295,9 @@
 ### DAY374 (2021.05.23)
 #### [BaekJoon] 숫자의 개수 (Python)
 #### Blog : https://bit.ly/3uf0CUy
+
+### DAY375 (2021.05.24)
+#### [BaekJoon] 평균 (Python)
+#### Blog : https://bit.ly/3ulU6vv
+#### [BaekJoon] 고양이 (Python)
+#### Blog : https://bit.ly/3bNdxXm
