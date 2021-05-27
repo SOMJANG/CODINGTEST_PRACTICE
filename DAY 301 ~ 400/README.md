@@ -309,3 +309,7 @@
 ### DAY377 (2021.05.26)
 #### [Programmers] 핸드폰 번호 가리기 (Python)
 #### Blog : https://bit.ly/34hlVKw
+
+### DAY378 (2021.05.27)
+#### [Programmers] 소수 찾기 (Python)
+#### Blog : https://bit.ly/3yFazOv
