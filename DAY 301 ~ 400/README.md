@@ -313,3 +313,7 @@
 ### DAY378 (2021.05.27)
 #### [Programmers] 소수 찾기 (Python)
 #### Blog : https://bit.ly/3yFazOv
+
+### DAY379 (2021.05.28)
+#### [Programmers] 약수의 개수와 덧셈 (Python)
+#### Blog : https://bit.ly/3fXtQ5s
