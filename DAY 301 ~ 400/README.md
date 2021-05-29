@@ -317,3 +317,7 @@
 ### DAY379 (2021.05.28)
 #### [Programmers] 약수의 개수와 덧셈 (Python)
 #### Blog : https://bit.ly/3fXtQ5s
+
+### DAY380 (2021.05.29)
+#### [BaekJoon] 사분면 고르기 (Python)
+#### Blog : https://bit.ly/3c5muf0
