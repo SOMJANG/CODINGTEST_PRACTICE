@@ -321,3 +321,7 @@
 ### DAY380 (2021.05.29)
 #### [BaekJoon] 사분면 고르기 (Python)
 #### Blog : https://bit.ly/3c5muf0
+
+### DAY381 (2021.05.31)
+#### [BaekJoon] 설탕 배달 (Python)
+#### Blog : https://bit.ly/3p6QQmH
