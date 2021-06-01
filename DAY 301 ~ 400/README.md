@@ -325,3 +325,7 @@
 ### DAY381 (2021.05.31)
 #### [BaekJoon] 설탕 배달 (Python)
 #### Blog : https://bit.ly/3p6QQmH
+
+### DAY382 (2021.06.01)
+#### [BaekJoon] 최댓값 (Python)
+#### Blog : https://bit.ly/3p72HBb
