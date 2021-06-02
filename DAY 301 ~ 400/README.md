@@ -333,3 +333,7 @@
 ### DAY383 (2021.06.02)
 #### [BaekJoon] 평균은 넘겠지 (Python)
 #### Blog : https://bit.ly/3c4BRUQ
+
+### DAY384 (2021.06.03)
+#### [BaekJoon] 직각삼각형 (Python)
+#### Blog : https://bit.ly/2RbZsvy
