@@ -329,3 +329,7 @@
 ### DAY382 (2021.06.01)
 #### [BaekJoon] 최댓값 (Python)
 #### Blog : https://bit.ly/3p72HBb
+
+### DAY383 (2021.06.02)
+#### [BaekJoon] 평균은 넘겠지 (Python)
+#### Blog : https://bit.ly/3c4BRUQ
