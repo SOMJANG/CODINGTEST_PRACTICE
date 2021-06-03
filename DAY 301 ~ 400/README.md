@@ -337,3 +337,7 @@
 ### DAY384 (2021.06.03)
 #### [BaekJoon] 직각삼각형 (Python)
 #### Blog : https://bit.ly/2RbZsvy
+
+### DAY385 (2021.06.04)
+#### [BaekJoon] 곱셈 (Python)
+#### Blog : https://bit.ly/2TGyJs3
