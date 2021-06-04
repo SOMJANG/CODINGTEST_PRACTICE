@@ -341,3 +341,7 @@
 ### DAY385 (2021.06.04)
 #### [BaekJoon] 곱셈 (Python)
 #### Blog : https://bit.ly/2TGyJs3
+
+### DAY386 (2021.06.05)
+#### [BaekJoon] 베르트랑 공준 (Python)
+#### Blog : https://bit.ly/3vQeqXn
