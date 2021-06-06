@@ -345,3 +345,7 @@
 ### DAY386 (2021.06.05)
 #### [BaekJoon] 베르트랑 공준 (Python)
 #### Blog : https://bit.ly/3vQeqXn
+
+### DAY387 (2021.06.06)
+#### [BaekJoon] 직사각형에서 탈출 (Python)
+#### Blog : https://bit.ly/2SeRXof
