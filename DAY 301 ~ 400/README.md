@@ -349,3 +349,7 @@
 ### DAY387 (2021.06.06)
 #### [BaekJoon] 직사각형에서 탈출 (Python)
 #### Blog : https://bit.ly/2SeRXof
+
+### DAY388 (2021.06.07)
+#### [Programmers] 2개 이하로 다른 비트 (Python)
+#### Blog : https://bit.ly/3pr8Yb1
