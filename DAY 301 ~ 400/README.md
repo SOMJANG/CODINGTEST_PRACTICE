@@ -353,3 +353,7 @@
 ### DAY388 (2021.06.07)
 #### [Programmers] 2개 이하로 다른 비트 (Python)
 #### Blog : https://bit.ly/3pr8Yb1
+
+### DAY389 (2021.06.08)
+#### [Programmers] 구명보트 (Python)
+#### Blog : https://bit.ly/3pEMVhf
