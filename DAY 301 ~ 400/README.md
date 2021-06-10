@@ -361,3 +361,7 @@
 ### DAY390 (2021.06.09)
 #### [Programmers] 다음 큰 숫자 (Python)
 #### Blog : https://bit.ly/3uYeumv
+
+### DAY391 (2021.06.10)
+#### [Programmers] 최대공약수와 최소공배수 (Python)
+#### Blog : https://bit.ly/354R44z
