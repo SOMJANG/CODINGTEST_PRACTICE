@@ -377,3 +377,7 @@
 ### DAY394 (2021.06.13)
 #### [BaekJoon] 열 개씩 끊어 출력하기 (Python)
 #### Blog : https://bit.ly/3xhozMT
+
+### DAY395 (2021.06.14)
+#### [BaekJoon] 지영 공주님의 마법 거울 (Python)
+#### Blog : https://bit.ly/3gtcBcg
