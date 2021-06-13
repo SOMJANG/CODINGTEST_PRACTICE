@@ -373,3 +373,7 @@
 ### DAY393 (2021.06.12)
 #### [BaekJoon] 뒤집힌 덧셈 (Python)
 #### Blog : https://bit.ly/2TpsLvy
+
+### DAY394 (2021.06.13)
+#### [BaekJoon] 열 개씩 끊어 출력하기 (Python)
+#### Blog : https://bit.ly/3xhozMT
