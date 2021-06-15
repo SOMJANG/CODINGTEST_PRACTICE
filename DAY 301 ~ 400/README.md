@@ -381,3 +381,7 @@
 ### DAY395 (2021.06.14)
 #### [BaekJoon] 지영 공주님의 마법 거울 (Python)
 #### Blog : https://bit.ly/3gtcBcg
+
+### DAY396 (2021.06.15)
+#### [BaekJoon] 이름궁합 테스트 (Python)
+#### Blog : https://bit.ly/3gmdAfv
