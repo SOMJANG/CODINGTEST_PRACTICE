@@ -389,3 +389,7 @@
 ### DAY397 (2021.06.16)
 #### [BaekJoon] 등장하지 않는 문자의 합 (Python)
 #### Blog : https://bit.ly/3cLie4q
+
+### DAY398 (2021.06.17)
+#### [BaekJoon] 크로아티아 알파벳 (Python)
+#### Blog : https://bit.ly/3gHx1P4
