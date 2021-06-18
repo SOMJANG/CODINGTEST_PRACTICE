@@ -393,3 +393,7 @@
 ### DAY398 (2021.06.17)
 #### [BaekJoon] 크로아티아 알파벳 (Python)
 #### Blog : https://bit.ly/3gHx1P4
+
+### DAY399 (2021.06.18)
+#### [BaekJoon] 저항 (Python)
+#### Blog : https://bit.ly/35toIky
