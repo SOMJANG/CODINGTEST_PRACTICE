@@ -397,3 +397,7 @@
 ### DAY399 (2021.06.18)
 #### [BaekJoon] 저항 (Python)
 #### Blog : https://bit.ly/35toIky
+
+### DAY400 (2021.06.19)
+#### [BaekJoon] 문자열 (Python)
+#### Blog : https://bit.ly/2SOnddT
