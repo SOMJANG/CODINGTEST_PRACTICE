@@ -13,3 +13,7 @@
 ### DAY404 (2021.06.23)
 #### [BaekJoon] 닉네임에 갓 붙이기 (Python)
 #### Blog : https://bit.ly/35Juej2
+
+### DAY405 (2021.06.24)
+#### [BaekJoon] IBM 빼기 1 (Python)
+#### Blog : https://bit.ly/3gP7HIb
