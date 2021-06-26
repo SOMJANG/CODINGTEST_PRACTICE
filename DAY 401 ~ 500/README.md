@@ -17,3 +17,7 @@
 ### DAY405 (2021.06.24)
 #### [BaekJoon] IBM 빼기 1 (Python)
 #### Blog : https://bit.ly/3gP7HIb
+
+### DAY406 (2021.06.26)
+#### [BaekJoon] 모음의 개수 (Python)
+#### Blog : https://bit.ly/3x4Fm6o
