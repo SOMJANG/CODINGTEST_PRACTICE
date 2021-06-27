@@ -21,3 +21,7 @@
 ### DAY406 (2021.06.26)
 #### [BaekJoon] 모음의 개수 (Python)
 #### Blog : https://bit.ly/3x4Fm6o
+
+### DAY407 (2021.06.27)
+#### [BaekJoon] 알파벳 거리 (Python)
+#### Blog : https://bit.ly/2U6Fvri
