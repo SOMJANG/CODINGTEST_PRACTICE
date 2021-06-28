@@ -25,3 +25,7 @@
 ### DAY407 (2021.06.27)
 #### [BaekJoon] 알파벳 거리 (Python)
 #### Blog : https://bit.ly/2U6Fvri
+
+### DAY408 (2021.06.28)
+#### [BaekJoon] 대소문자 바꾸기 (Python)
+#### Blog : https://bit.ly/35UErt7
