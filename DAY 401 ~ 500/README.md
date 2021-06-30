@@ -33,3 +33,7 @@
 ### DAY409 (2021.06.29)
 #### [BaekJoon] 연속구간 (Python)
 #### Blog : https://bit.ly/3A8YnGC
+
+### DAY410 (2021.06.30)
+#### [BaekJoon] 아! (Python)
+#### Blog : https://bit.ly/3x2todj
