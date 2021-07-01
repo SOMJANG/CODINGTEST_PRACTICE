@@ -41,3 +41,7 @@
 ### DAY411 (2021.07.01)
 #### [BaekJoon] 회사에 있는 사람 (Python)
 #### Blog : https://bit.ly/3jwpJkb
+
+### DAY412 (2021.07.02)
+#### [BaekJoon] 세로읽기 (Python)
+#### Blog : https://bit.ly/3w8UwWI
