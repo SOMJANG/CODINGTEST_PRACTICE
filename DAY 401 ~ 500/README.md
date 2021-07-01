@@ -37,3 +37,7 @@
 ### DAY410 (2021.06.30)
 #### [BaekJoon] 아! (Python)
 #### Blog : https://bit.ly/3x2todj
+
+### DAY411 (2021.07.01)
+#### [BaekJoon] 회사에 있는 사람 (Python)
+#### Blog : https://bit.ly/3jwpJkb
