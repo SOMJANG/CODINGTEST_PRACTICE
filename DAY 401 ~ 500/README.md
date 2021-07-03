@@ -45,3 +45,7 @@
 ### DAY412 (2021.07.02)
 #### [BaekJoon] 세로읽기 (Python)
 #### Blog : https://bit.ly/3w8UwWI
+
+### DAY413 (2021.07.03)
+#### [BaekJoon] 소수 단어 (Python)
+#### Blog : https://bit.ly/2UZIZMF
