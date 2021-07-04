@@ -49,3 +49,7 @@
 ### DAY413 (2021.07.03)
 #### [BaekJoon] 소수 단어 (Python)
 #### Blog : https://bit.ly/2UZIZMF
+
+### DAY414 (2021.07.04)
+#### [BaekJoon] 이상한 곱셈 (Python)
+#### Blog : https://bit.ly/3hzmmGr
