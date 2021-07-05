@@ -53,3 +53,7 @@
 ### DAY414 (2021.07.04)
 #### [BaekJoon] 이상한 곱셈 (Python)
 #### Blog : https://bit.ly/3hzmmGr
+
+### DAY415 (2021.07.05)
+#### [BaekJoon] 신용카드 판별 (Python)
+#### Blog : https://bit.ly/3qKR8At
