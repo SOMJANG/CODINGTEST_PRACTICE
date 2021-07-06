@@ -57,3 +57,7 @@
 ### DAY415 (2021.07.05)
 #### [BaekJoon] 신용카드 판별 (Python)
 #### Blog : https://bit.ly/3qKR8At
+
+### DAY416 (2021.07.06)
+#### [BaekJoon] 럭키 스트레이트 (Python)
+#### Blog : https://bit.ly/3hkvlfS
