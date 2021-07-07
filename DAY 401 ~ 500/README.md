@@ -61,3 +61,7 @@
 ### DAY416 (2021.07.06)
 #### [BaekJoon] 럭키 스트레이트 (Python)
 #### Blog : https://bit.ly/3hkvlfS
+
+### DAY417 (2021.07.07)
+#### [BaekJoon] 히든 넘버 (Python)
+#### Blog : https://bit.ly/3qP51NQ
