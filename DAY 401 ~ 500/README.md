@@ -73,3 +73,7 @@
 ### DAY419 (2021.07.09)
 #### [BaekJoon] 수학숙제 (Python)
 #### Blog : https://bit.ly/3dSVsII
+
+### DAY420 (2021.07.10)
+#### [BaekJoon] 행복한지 슬픈지 (Python)
+#### Blog : https://bit.ly/3wtRblk
