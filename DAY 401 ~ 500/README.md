@@ -85,3 +85,7 @@
 ### DAY422 (2021.07.12)
 #### [BaekJoon] 문자가 몇갤까 (Python)
 #### Blog : https://bit.ly/3wAMwhk
+
+### DAY423 (2021.07.13)
+#### [BaekJoon] 파일 정리 (Python)
+#### Blog : https://bit.ly/2U08bT4
