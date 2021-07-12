@@ -81,3 +81,7 @@
 ### DAY421 (2021.07.11)
 #### [BaekJoon] 알파벳 전부 쓰기 (Python)
 #### Blog : https://bit.ly/3xyEbMC
+
+### DAY422 (2021.07.12)
+#### [BaekJoon] 문자가 몇갤까 (Python)
+#### Blog : https://bit.ly/3wAMwhk
