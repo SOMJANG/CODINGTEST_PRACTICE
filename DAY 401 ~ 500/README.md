@@ -89,3 +89,7 @@
 ### DAY423 (2021.07.13)
 #### [BaekJoon] 파일 정리 (Python)
 #### Blog : https://bit.ly/2U08bT4
+
+### DAY424 (2021.07.14)
+#### [BaekJoon] 무한 문자열 (Python)
+#### Blog : https://bit.ly/3eeLQYN
