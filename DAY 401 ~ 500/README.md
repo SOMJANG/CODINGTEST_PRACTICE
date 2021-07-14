@@ -93,3 +93,7 @@
 ### DAY424 (2021.07.14)
 #### [BaekJoon] 무한 문자열 (Python)
 #### Blog : https://bit.ly/3eeLQYN
+
+### DAY425 (2021.07.15)
+#### [BaekJoon] 좋은 자동차 번호판 (Python)
+#### Blog : https://bit.ly/3r8gyYJ
