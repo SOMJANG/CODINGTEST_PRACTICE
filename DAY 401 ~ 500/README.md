@@ -97,3 +97,7 @@
 ### DAY425 (2021.07.15)
 #### [BaekJoon] 좋은 자동차 번호판 (Python)
 #### Blog : https://bit.ly/3r8gyYJ
+
+### DAY426 (2021.07.16)
+#### [BaekJoon] 균형잡힌 세상 (Python)
+#### Blog : https://bit.ly/3hFSSI5
