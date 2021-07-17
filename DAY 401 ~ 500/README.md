@@ -101,3 +101,7 @@
 ### DAY426 (2021.07.16)
 #### [BaekJoon] 균형잡힌 세상 (Python)
 #### Blog : https://bit.ly/3hFSSI5
+
+### DAY427 (2021.07.17)
+#### [BaekJoon] 유학 금지 (Python)
+#### Blog : https://bit.ly/3B8PTj6
