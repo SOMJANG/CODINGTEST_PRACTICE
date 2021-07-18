@@ -105,3 +105,7 @@
 ### DAY427 (2021.07.17)
 #### [BaekJoon] 유학 금지 (Python)
 #### Blog : https://bit.ly/3B8PTj6
+
+### DAY428 (2021.07.18)
+#### [BaekJoon] 끝말잇기 (Python)
+#### Blog : https://bit.ly/3eOeUXB
