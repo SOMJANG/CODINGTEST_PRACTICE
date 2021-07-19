@@ -109,3 +109,7 @@
 ### DAY428 (2021.07.18)
 #### [BaekJoon] 끝말잇기 (Python)
 #### Blog : https://bit.ly/3eOeUXB
+
+### DAY429 (2021.07.19)
+#### [BaekJoon] 베스트셀러 (Python)
+#### Blog : https://bit.ly/3xQrIEa
