@@ -121,3 +121,7 @@
 ### DAY431 (2021.07.21)
 #### [BaekJoon] 정수의 개수 (Python)
 #### Blog : https://bit.ly/2TpFe2y
+
+### DAY432 (2021.07.23)
+#### [BaekJoon] 니모를 찾아서 (Python)
+#### Blog : https://bit.ly/3iDqyFN
