@@ -125,3 +125,7 @@
 ### DAY432 (2021.07.23)
 #### [BaekJoon] 니모를 찾아서 (Python)
 #### Blog : https://bit.ly/3iDqyFN
+
+### DAY433 (2021.07.24)
+#### [BaekJoon] 첼시를 도와줘! (Python)
+#### Blog : https://bit.ly/2UDaQSQ
