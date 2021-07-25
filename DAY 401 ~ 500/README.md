@@ -129,3 +129,7 @@
 ### DAY433 (2021.07.24)
 #### [BaekJoon] 첼시를 도와줘! (Python)
 #### Blog : https://bit.ly/2UDaQSQ
+
+### DAY434 (2021.07.25)
+#### [BaekJoon] 너의 이름은 몇 점이니? (Python)
+#### Blog : https://bit.ly/3eVDaHg
