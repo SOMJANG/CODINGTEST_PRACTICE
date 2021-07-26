@@ -133,3 +133,7 @@
 ### DAY434 (2021.07.25)
 #### [BaekJoon] 너의 이름은 몇 점이니? (Python)
 #### Blog : https://bit.ly/3eVDaHg
+
+### DAY435 (2021.07.26)
+#### [BaekJoon] !밀비 급일 (Python)
+#### Blog : https://bit.ly/3rymGtI
