@@ -137,3 +137,7 @@
 ### DAY435 (2021.07.26)
 #### [BaekJoon] !밀비 급일 (Python)
 #### Blog : https://bit.ly/3rymGtI
+
+### DAY436 (2021.07.27)
+#### [BaekJoon] 학점계산 (Python)
+#### Blog : https://bit.ly/2UT7NGq
