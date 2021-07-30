@@ -145,3 +145,7 @@
 ### DAY437 (2021.07.28)
 #### [Programmers] 숫자 문자열과 영단어 (Python)
 #### Blog : https://bit.ly/3f5JjAG
+
+### DAY438 (2021.07.30)
+#### [BaekJoon] 최소, 최대 (Python)
+#### Blog : https://bit.ly/3j1BahP
