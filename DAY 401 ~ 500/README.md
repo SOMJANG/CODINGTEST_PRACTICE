@@ -157,3 +157,7 @@
 ### DAY440 (2021.08.01)
 #### [BaekJoon] 대충 더해 (Python)
 #### Blog : https://bit.ly/3ifrOQc
+
+### DAY441 (2021.08.02)
+#### [BaekJoon] 잃어버린 괄호 (Python)
+#### Blog : https://bit.ly/3fjlV2P
