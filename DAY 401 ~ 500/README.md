@@ -149,3 +149,11 @@
 ### DAY438 (2021.07.30)
 #### [BaekJoon] 최소, 최대 (Python)
 #### Blog : https://bit.ly/3j1BahP
+
+### DAY439 (2021.07.31)
+#### [BaekJoon] 과제 안 내신 분..? (Python)
+#### Blog : https://bit.ly/3xb7nYV
+
+### DAY440 (2021.08.01)
+#### [BaekJoon] 대충 더해 (Python)
+#### Blog : https://bit.ly/3ifrOQc
