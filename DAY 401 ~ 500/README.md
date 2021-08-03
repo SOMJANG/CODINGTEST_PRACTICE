@@ -161,3 +161,7 @@
 ### DAY441 (2021.08.02)
 #### [BaekJoon] 잃어버린 괄호 (Python)
 #### Blog : https://bit.ly/3fjlV2P
+
+### DAY442 (2021.08.03)
+#### [BaekJoon] 단어 뒤집기 2 (Python)
+#### Blog : https://bit.ly/3frWTyq
