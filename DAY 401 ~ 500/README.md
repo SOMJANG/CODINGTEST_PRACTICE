@@ -165,3 +165,7 @@
 ### DAY442 (2021.08.03)
 #### [BaekJoon] 단어 뒤집기 2 (Python)
 #### Blog : https://bit.ly/3frWTyq
+
+### DAY443 (2021.08.04)
+#### [BaekJoon] NN (Python)
+#### Blog : https://bit.ly/3ynKO4R
