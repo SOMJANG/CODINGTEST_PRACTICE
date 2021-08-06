@@ -173,3 +173,7 @@
 ### DAY444 (2021.08.05)
 #### [BaekJoon] 줄번호 (Python)
 #### Blog : https://bit.ly/3Aj5fR7
+
+### DAY445 (2021.08.06)
+#### [BaekJoon] A+B - 6 (Python)
+#### Blog : https://bit.ly/3Cu4mXM
