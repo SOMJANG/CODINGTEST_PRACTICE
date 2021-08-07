@@ -177,3 +177,7 @@
 ### DAY445 (2021.08.06)
 #### [BaekJoon] A+B - 6 (Python)
 #### Blog : https://bit.ly/3Cu4mXM
+
+### DAY446 (2021.08.07)
+#### [Programmers] 부족한 금액 계산하기 (Python)
+#### Blog : https://bit.ly/37u5jB3
