@@ -181,3 +181,7 @@
 ### DAY446 (2021.08.07)
 #### [Programmers] 부족한 금액 계산하기 (Python)
 #### Blog : https://bit.ly/37u5jB3
+
+### DAY447 (2021.08.08)
+#### [BaekJoon] 그대로 출력하기 2 (Python)
+#### Blog : https://bit.ly/3jBmxCc
