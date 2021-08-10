@@ -189,3 +189,7 @@
 ### DAY448 (2021.08.09)
 #### [BaekJoon] FBI (Python)
 #### Blog : https://bit.ly/3iuvayW
+
+### DAY449 (2021.08.10)
+#### [BaekJoon] 좋은 단어 (PYTHON)
+#### BLOG : https://bit.ly/37B5WZm
