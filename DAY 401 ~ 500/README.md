@@ -191,5 +191,9 @@
 #### Blog : https://bit.ly/3iuvayW
 
 ### DAY449 (2021.08.10)
-#### [BaekJoon] 좋은 단어 (PYTHON)
-#### BLOG : https://bit.ly/37B5WZm
+#### [BaekJoon] 좋은 단어 (Python)
+#### Blog : https://bit.ly/37B5WZm
+
+### DAY450 (2021.08.11)
+#### [Programmers] 상호 평가 (Python)
+#### Blog : https://bit.ly/3sabbbW
