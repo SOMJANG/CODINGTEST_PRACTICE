@@ -213,3 +213,7 @@
 ### DAY454 (2021.08.15)
 #### [BaekJoon] 치킨 배달 (Python)
 #### Blog : https://bit.ly/3jYY4qq
+
+### DAY455 (2021.08.16)
+#### [BaekJoon] 별 찍기 - 2 (Python)
+#### Blog : https://bit.ly/3AGTEve
