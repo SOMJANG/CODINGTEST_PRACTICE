@@ -209,3 +209,7 @@
 ### DAY453 (2021.08.14)
 #### [BaekJoon] 큰 수 A+B (Python)
 #### Blog : https://bit.ly/3AH8cLd
+
+### DAY454 (2021.08.15)
+#### [BaekJoon] 치킨 배달 (Python)
+#### Blog : https://bit.ly/3jYY4qq
