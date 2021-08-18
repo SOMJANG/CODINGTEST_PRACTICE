@@ -221,3 +221,7 @@
 ### DAY456 (2021.08.17)
 #### [BaekJoon] 가장 많은 글자 (Python)
 #### Blog : https://bit.ly/3m6XDwY
+
+### DAY457 (2021.08.18)
+#### [BaekJoon] 로또 (Python)
+#### Blog : https://bit.ly/3spf5y1
