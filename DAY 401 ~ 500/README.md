@@ -225,3 +225,7 @@
 ### DAY457 (2021.08.18)
 #### [BaekJoon] 로또 (Python)
 #### Blog : https://bit.ly/3spf5y1
+
+### DAY458 (2021.08.19)
+#### [BaekJoon] 이진수 연산 (Python)
+#### Blog : https://bit.ly/3D1qvwQ
