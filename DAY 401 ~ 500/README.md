@@ -237,3 +237,7 @@
 ### DAY460 (2021.08.21)
 #### [BaekJoon] 진수 변환기 (Python)
 #### Blog : https://bit.ly/3k6RHSa
+
+### DAY461 (2021.08.22)
+#### [BaekJoon] 이번학기 평점은 몇점? (Python)
+#### Blog : https://bit.ly/3gmv8YE
