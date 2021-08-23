@@ -241,3 +241,7 @@
 ### DAY461 (2021.08.22)
 #### [BaekJoon] 이번학기 평점은 몇점? (Python)
 #### Blog : https://bit.ly/3gmv8YE
+
+### DAY462 (2021.08.23)
+#### [BaekJoon] 직업군 추천하기 (Python)
+#### Blog : https://bit.ly/3mmcsMt
