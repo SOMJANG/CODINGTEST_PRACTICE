@@ -245,3 +245,7 @@
 ### DAY462 (2021.08.23)
 #### [BaekJoon] 직업군 추천하기 (Python)
 #### Blog : https://bit.ly/3mmcsMt
+
+### DAY463 (2021.08.25)
+#### [BaekJoon] CCW (Python)
+#### Blog : https://bit.ly/3ygfQe5
