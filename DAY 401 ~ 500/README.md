@@ -257,3 +257,7 @@
 ### DAY465 (2021.08.27)
 #### [BaekJoon] 회의실 배정 (Python)
 #### Blog : https://bit.ly/2WnwVp7
+
+### DAY466 (2021.08.28)
+#### [BaekJoon] 창영이의 일기장 (Python)
+#### Blog : https://bit.ly/3jm7U6X
