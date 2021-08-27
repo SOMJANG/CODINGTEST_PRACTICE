@@ -253,3 +253,7 @@
 ### DAY464 (2021.08.26)
 #### [BaekJoon] 더하기 2 (Python)
 #### Blog : https://bit.ly/3yespX7
+
+### DAY465 (2021.08.27)
+#### [BaekJoon] 회의실 배정 (Python)
+#### Blog : https://bit.ly/2WnwVp7
