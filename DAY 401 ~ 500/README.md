@@ -261,3 +261,7 @@
 ### DAY466 (2021.08.28)
 #### [BaekJoon] 창영이의 일기장 (Python)
 #### Blog : https://bit.ly/3jm7U6X
+
+### DAY467 (2021.08.29)
+#### [BaekJoon] 백대열 (Python)
+#### Blog : https://bit.ly/38BEImh
