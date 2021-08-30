@@ -269,3 +269,7 @@
 ### DAY468 (2021.08.30)
 #### [BaekJoon] 화성 수학 (Python)
 #### Blog : https://bit.ly/3jpV9YO
+
+### DAY469 (2021.08.31)
+#### [BaekJoon] 8진수, 10진수, 16진수 (Python)
+#### Blog : https://bit.ly/3BjNPUE
