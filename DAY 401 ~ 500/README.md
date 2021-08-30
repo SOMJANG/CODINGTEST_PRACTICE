@@ -265,3 +265,7 @@
 ### DAY467 (2021.08.29)
 #### [BaekJoon] 백대열 (Python)
 #### Blog : https://bit.ly/38BEImh
+
+### DAY468 (2021.08.30)
+#### [BaekJoon] 화성 수학 (Python)
+#### Blog : https://bit.ly/3jpV9YO
