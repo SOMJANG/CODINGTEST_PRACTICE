@@ -273,3 +273,7 @@
 ### DAY469 (2021.08.31)
 #### [BaekJoon] 8진수, 10진수, 16진수 (Python)
 #### Blog : https://bit.ly/3BjNPUE
+
+### DAY470 (2021.09.01)
+#### [BaekJoon] 비교 연산자 (Python)
+#### Blog : https://bit.ly/3BtoojO
