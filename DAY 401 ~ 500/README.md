@@ -277,3 +277,7 @@
 ### DAY470 (2021.09.01)
 #### [BaekJoon] 비교 연산자 (Python)
 #### Blog : https://bit.ly/3BtoojO
+
+### DAY471 (2021.09.02)
+#### [BaekJoon] 내 학점을 구해줘 (Python)
+#### Blog : https://bit.ly/3zDOtfm
