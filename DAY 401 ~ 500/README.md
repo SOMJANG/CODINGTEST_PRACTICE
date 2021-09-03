@@ -281,3 +281,7 @@
 ### DAY471 (2021.09.02)
 #### [BaekJoon] 내 학점을 구해줘 (Python)
 #### Blog : https://bit.ly/3zDOtfm
+
+### DAY472 (2021.09.03)
+#### [SW Expert Academy] 24시간 (Python)
+#### Blog : https://bit.ly/3BDh4lz
