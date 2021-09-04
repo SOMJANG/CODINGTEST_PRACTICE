@@ -285,3 +285,7 @@
 ### DAY472 (2021.09.03)
 #### [SW Expert Academy] 24시간 (Python)
 #### Blog : https://bit.ly/3BDh4lz
+
+### DAY473 (2021.09.04)
+#### [BaekJoon] 암기왕 (Python)
+#### Blog : https://bit.ly/3jK8MCA
