@@ -289,3 +289,6 @@
 ### DAY473 (2021.09.04)
 #### [BaekJoon] 암기왕 (Python)
 #### Blog : https://bit.ly/3jK8MCA
+
+### DAY474 (2021.09.05)
+#### Blog : https://bit.ly/3n9NaBH
