@@ -305,3 +305,7 @@
 ### DAY477 (2021.09.08)
 #### [BaekJoon] 숫자놀이 (Python)
 #### Blog : https://bit.ly/3trfoJg
+
+### DAY478 (2021.09.09)
+#### [BaekJoon] 첫 글자를 대문자로 (Python)
+#### Blog : https://bit.ly/3jUIa1t
