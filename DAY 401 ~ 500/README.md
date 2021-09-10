@@ -309,3 +309,7 @@
 ### DAY478 (2021.09.09)
 #### [BaekJoon] 첫 글자를 대문자로 (Python)
 #### Blog : https://bit.ly/3jUIa1t
+
+### DAY479 (2021.09.10)
+#### [BaekJoon] 크로스워드 만들기 (Python)
+#### Blog : https://bit.ly/3jXlC04
