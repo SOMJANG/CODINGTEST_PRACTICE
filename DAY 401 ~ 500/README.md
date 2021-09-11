@@ -317,3 +317,7 @@
 ### DAY480 (2021.09.11)
 #### [BaekJoon] 제 2회 IUPC는 잘 개최될 수 있을까? (Python)
 #### Blog : https://bit.ly/395mb1z
+
+### DAY481 (2021.09.12)
+#### [BaekJoon] 나는 너가 살아온 날을 알고 있다 (Python)
+#### Blog : https://bit.ly/3npasmY
