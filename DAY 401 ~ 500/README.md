@@ -313,3 +313,7 @@
 ### DAY479 (2021.09.10)
 #### [BaekJoon] 크로스워드 만들기 (Python)
 #### Blog : https://bit.ly/3jXlC04
+
+### DAY480 (2021.09.11)
+#### [BaekJoon] 제 2회 IUPC는 잘 개최될 수 있을까? (Python)
+#### Blog : https://bit.ly/395mb1z
