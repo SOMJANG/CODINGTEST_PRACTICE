@@ -321,3 +321,7 @@
 ### DAY481 (2021.09.12)
 #### [BaekJoon] 나는 너가 살아온 날을 알고 있다 (Python)
 #### Blog : https://bit.ly/3npasmY
+
+### DAY482 (2021.09.13)
+#### [BaekJoon] 님 무기가 좀 나쁘시네여 (Python)
+#### Blog : https://bit.ly/3noQaKi
