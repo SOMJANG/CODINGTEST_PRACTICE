@@ -325,3 +325,7 @@
 ### DAY482 (2021.09.13)
 #### [BaekJoon] 님 무기가 좀 나쁘시네여 (Python)
 #### Blog : https://bit.ly/3noQaKi
+
+### DAY482 (2021.09.14)
+#### [BaekJoon] 힘 겨루기 (Python)
+#### Blog : https://bit.ly/3AeZKTW
