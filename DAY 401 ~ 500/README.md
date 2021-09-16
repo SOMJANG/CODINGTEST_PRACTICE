@@ -333,3 +333,7 @@
 ### DAY484 (2021.09.15)
 #### [BaekJoon] 내일 할거야 (Python)
 #### Blog : https://bit.ly/3Ee9os5
+
+### DAY485 (2021.09.16)
+#### [BaekJoon] 세제곱근 (Python)
+#### Blog : https://bit.ly/3nAxRlH
