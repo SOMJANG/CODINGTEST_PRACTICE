@@ -337,3 +337,7 @@
 ### DAY485 (2021.09.16)
 #### [BaekJoon] 세제곱근 (Python)
 #### Blog : https://bit.ly/3nAxRlH
+
+### DAY486 (2021.09.17)
+#### [BaekJoon] 요다 (Python)
+#### Blog : https://bit.ly/3lC52T0
