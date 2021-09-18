@@ -341,3 +341,7 @@
 ### DAY486 (2021.09.17)
 #### [BaekJoon] 요다 (Python)
 #### Blog : https://bit.ly/3lC52T0
+
+### DAY487 (2021.09.18)
+#### [BaekJoon] 2007년 (Python)
+#### Blog : https://bit.ly/3CszQwi
