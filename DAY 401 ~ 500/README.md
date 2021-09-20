@@ -345,3 +345,7 @@
 ### DAY487 (2021.09.18)
 #### [BaekJoon] 2007년 (Python)
 #### Blog : https://bit.ly/3CszQwi
+
+### DAY488 (2021.09.19)
+#### [BaekJoon] 배수와 약수 (Python)
+#### Blog : https://bit.ly/3u1Pfkn
