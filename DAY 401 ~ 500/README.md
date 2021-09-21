@@ -346,6 +346,10 @@
 #### [BaekJoon] 2007년 (Python)
 #### Blog : https://bit.ly/3CszQwi
 
-### DAY488 (2021.09.19)
+### DAY488 (2021.09.20)
 #### [BaekJoon] 배수와 약수 (Python)
 #### Blog : https://bit.ly/3u1Pfkn
+
+### DAY489 (2021.09.21)
+#### [SW Expert Academy] 제곱 팰린드롬 수 (Python)
+#### Blog : https://bit.ly/3u15Ip8
