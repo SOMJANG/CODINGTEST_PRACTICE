@@ -353,3 +353,7 @@
 ### DAY489 (2021.09.21)
 #### [SW Expert Academy] 제곱 팰린드롬 수 (Python)
 #### Blog : https://bit.ly/3u15Ip8
+
+### DAY490 (2021.09.22)
+#### [BaekJoon] 중복 빼고 정렬하기 (Python)
+#### Blog : https://bit.ly/3zvnhi0
