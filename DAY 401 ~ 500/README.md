@@ -357,3 +357,7 @@
 ### DAY490 (2021.09.22)
 #### [BaekJoon] 중복 빼고 정렬하기 (Python)
 #### Blog : https://bit.ly/3zvnhi0
+
+### DAY491 (2021.09.23)
+#### [BaekJoon] 5와 6의 차이 (Python)
+#### Blog : https://bit.ly/3zA3xty
