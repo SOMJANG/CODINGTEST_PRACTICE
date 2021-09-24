@@ -365,3 +365,7 @@
 ### DAY492 (2021.09.24)
 #### [BaekJoon] 알람 시계 (Python)
 #### Blog : https://bit.ly/3ACL4y5
+
+### DAY493 (2021.09.25)
+#### [Programmers] 없는 숫자 더하기 (Python)
+#### Blog : https://bit.ly/3hZAGsT
