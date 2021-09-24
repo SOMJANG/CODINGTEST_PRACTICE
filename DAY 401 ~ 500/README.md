@@ -361,3 +361,7 @@
 ### DAY491 (2021.09.23)
 #### [BaekJoon] 5와 6의 차이 (Python)
 #### Blog : https://bit.ly/3zA3xty
+
+### DAY492 (2021.09.24)
+#### [BaekJoon] 알람 시계 (Python)
+#### Blog : https://bit.ly/3ACL4y5
