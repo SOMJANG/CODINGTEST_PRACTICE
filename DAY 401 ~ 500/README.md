@@ -373,3 +373,7 @@
 ### DAY494 (2021.09.26)
 #### [BaekJoon] 덩치 (Python)
 #### Blog : https://bit.ly/3CJ3ZI4
+
+### DAY495 (2021.09.27)
+#### [BaekJoon] 단어  나누기 (Python)
+#### Blog : https://bit.ly/3CLXTqn
