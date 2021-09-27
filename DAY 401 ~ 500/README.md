@@ -377,3 +377,7 @@
 ### DAY495 (2021.09.27)
 #### [BaekJoon] 단어  나누기 (Python)
 #### Blog : https://bit.ly/3CLXTqn
+
+### DAY496 (2021.09.28)
+#### [BaekJoon] 소수&팰린드롬 (Python)
+#### Blog : https://bit.ly/3zKP527
