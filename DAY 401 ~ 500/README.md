@@ -381,3 +381,11 @@
 ### DAY496 (2021.09.28)
 #### [BaekJoon] 소수&팰린드롬 (Python)
 #### Blog : https://bit.ly/3zKP527
+
+### DAY497 (2021.09.29)
+#### [BaekJoon] 부분수열의 합 (Python)
+#### Blog : https://bit.ly/3uqZFdx
+
+### DAY498 (2021.09.30)
+#### [BaekJoon] 1 (Python)
+#### Blog : https://bit.ly/3maaQU2
