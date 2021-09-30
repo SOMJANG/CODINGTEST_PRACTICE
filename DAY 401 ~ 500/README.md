@@ -389,3 +389,7 @@
 ### DAY498 (2021.09.30)
 #### [BaekJoon] 1 (Python)
 #### Blog : https://bit.ly/3maaQU2
+
+### DAY499 (2021.10.01)
+#### [Programmers] 최소직사각형 (Python)
+#### Blog : https://bit.ly/3upop5X
