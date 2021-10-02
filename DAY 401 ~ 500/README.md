@@ -393,3 +393,7 @@
 ### DAY499 (2021.10.01)
 #### [Programmers] 최소직사각형 (Python)
 #### Blog : https://bit.ly/3upop5X
+
+### DAY500 (2021.10.02)
+#### [BaekJoon] 단어 뒤집기 (Python)
+#### Blog : https://bit.ly/3ab0ldX
