@@ -5,3 +5,7 @@
 ### DAY502 (2021.10.04)
 #### [Programmers] 모음사전 (Python)
 #### Blog : https://bit.ly/3uAHW3h
+
+### DAY503 (2021.10.05)
+#### [BaekJoon] 두 수 비교하기 (Python)
+#### Blog : https://bit.ly/3ms4uzU
