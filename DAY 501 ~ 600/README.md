@@ -13,3 +13,7 @@
 ### DAY504 (2021.10.06)
 #### [BaekJoon] 홀수 (Python)
 #### Blog : https://bit.ly/3a7U6Y2
+
+### DAY505 (2021.10.07)
+#### [BaekJoon] UCPC는 무엇의 약자일까? (Python)
+#### Blog : https://bit.ly/3BhL1Ie
