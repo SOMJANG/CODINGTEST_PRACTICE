@@ -9,3 +9,7 @@
 ### DAY503 (2021.10.05)
 #### [BaekJoon] 두 수 비교하기 (Python)
 #### Blog : https://bit.ly/3ms4uzU
+
+### DAY504 (2021.10.06)
+#### [BaekJoon] 홀수 (Python)
+#### Blog : https://bit.ly/3a7U6Y2
