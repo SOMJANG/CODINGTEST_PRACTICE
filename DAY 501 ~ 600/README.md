@@ -17,3 +17,7 @@
 ### DAY505 (2021.10.07)
 #### [BaekJoon] UCPC는 무엇의 약자일까? (Python)
 #### Blog : https://bit.ly/3BhL1Ie
+
+### DAY506 (2021.10.08)
+#### [Programmers] 올바른 괄호 (Python)
+#### Blog : https://bit.ly/3mwBmHv
