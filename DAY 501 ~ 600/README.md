@@ -25,3 +25,7 @@
 ### DAY507 (2021.10.09)
 #### [BaekJoon] 세 수 (Python)
 #### Blog : https://bit.ly/3oJQ4xQ
+
+### DAY508 (2021.10.10)
+#### [BaekJoon] 시험 성적 (Python)
+#### Blog : https://bit.ly/3iLSeJc
