@@ -29,3 +29,7 @@
 ### DAY508 (2021.10.10)
 #### [BaekJoon] 시험 성적 (Python)
 #### Blog : https://bit.ly/3iLSeJc
+
+### DAY509 (2021.10.11)
+#### [BaekJoon] 해밍 거리 (Python)
+#### Blog : https://bit.ly/2YF779u
