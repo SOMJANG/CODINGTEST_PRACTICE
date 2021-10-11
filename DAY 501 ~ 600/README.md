@@ -33,3 +33,7 @@
 ### DAY509 (2021.10.11)
 #### [BaekJoon] 해밍 거리 (Python)
 #### Blog : https://bit.ly/2YF779u
+
+### DAY510 (2021.10.12)
+#### [BaekJoon] 단어 뒤집기 (Python)
+#### Blog : https://bit.ly/3ar9bUR
