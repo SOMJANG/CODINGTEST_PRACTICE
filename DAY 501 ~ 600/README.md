@@ -37,3 +37,7 @@
 ### DAY510 (2021.10.12)
 #### [BaekJoon] 단어 뒤집기 (Python)
 #### Blog : https://bit.ly/3ar9bUR
+
+### DAY511 (2021.10.13)
+#### [BaekJoon] 2진수 뒤집기 (Python)
+#### Blog : https://bit.ly/3oYghsf
