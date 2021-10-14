@@ -41,3 +41,7 @@
 ### DAY511 (2021.10.13)
 #### [BaekJoon] 2진수 뒤집기 (Python)
 #### Blog : https://bit.ly/3oYghsf
+
+### DAY512 (2021.10.14)
+#### [BaekJoon] 블랙잭 (Python)
+#### Blog : https://bit.ly/3lKYcfD
