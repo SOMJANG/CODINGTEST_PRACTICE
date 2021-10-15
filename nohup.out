@@ -1,0 +1,40 @@
+[I 17:22:43.495 NotebookApp] JupyterLab extension loaded from /Users/donghyunjang/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 17:22:43.495 NotebookApp] JupyterLab application directory is /Users/donghyunjang/anaconda3/share/jupyter/lab
+[I 17:22:43.497 NotebookApp] Serving notebooks from local directory: /Users/donghyunjang/PythonHome/codingtest/CODINGTEST_PRACTICE
+[I 17:22:43.497 NotebookApp] The Jupyter Notebook is running at:
+[I 17:22:43.497 NotebookApp] http://localhost:8888/?token=d8d90e0501d8c9d7d785c3ba09e94894d4544d88363c18f8
+[I 17:22:43.497 NotebookApp]  or http://127.0.0.1:8888/?token=d8d90e0501d8c9d7d785c3ba09e94894d4544d88363c18f8
+[I 17:22:43.497 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:22:43.511 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/donghyunjang/Library/Jupyter/runtime/nbserver-5839-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=d8d90e0501d8c9d7d785c3ba09e94894d4544d88363c18f8
+     or http://127.0.0.1:8888/?token=d8d90e0501d8c9d7d785c3ba09e94894d4544d88363c18f8
+[E 17:22:45.182 NotebookApp] Could not open static file ''
+[W 17:22:45.348 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 31.59ms referer=http://localhost:8888/tree?token=d8d90e0501d8c9d7d785c3ba09e94894d4544d88363c18f8
+[W 17:22:45.375 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 3.73ms referer=http://localhost:8888/tree?token=d8d90e0501d8c9d7d785c3ba09e94894d4544d88363c18f8
+[I 17:22:52.449 NotebookApp] Copying DAY 501 ~ 600/DAY513_[BaekJoon] 배열 합치기 (Python).ipynb to /DAY 501 ~ 600
+[W 17:22:55.213 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.07ms referer=http://localhost:8888/notebooks/DAY%20501%20~%20600/DAY513_%5BBaekJoon%5D%20%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0%20(Python)-Copy1.ipynb
+[W 17:22:55.277 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 1.82ms referer=http://localhost:8888/notebooks/DAY%20501%20~%20600/DAY513_%5BBaekJoon%5D%20%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0%20(Python)-Copy1.ipynb
+[I 17:22:56.047 NotebookApp] Kernel started: 93484542-7783-4f01-9ed5-2cd9718dfca6
+[I 17:22:57.169 NotebookApp] Adapting from protocol version 5.1 (kernel 93484542-7783-4f01-9ed5-2cd9718dfca6) to 5.3 (client).
+[I 17:24:55.871 NotebookApp] Saving file at /DAY 501 ~ 600/DAY514_[BaekJoon] 팬그램 (Python).ipynb
+[I 17:26:55.886 NotebookApp] Saving file at /DAY 501 ~ 600/DAY514_[BaekJoon] 팬그램 (Python).ipynb
+[I 17:32:55.894 NotebookApp] Saving file at /DAY 501 ~ 600/DAY514_[BaekJoon] 팬그램 (Python).ipynb
+[I 17:33:22.281 NotebookApp] Saving file at /DAY 501 ~ 600/DAY514_[BaekJoon] 팬그램 (Python).ipynb
+[I 17:33:27.596 NotebookApp] Starting buffering for 93484542-7783-4f01-9ed5-2cd9718dfca6:0031633a64634d55950ba9ba02ee7a74
+[I 17:33:27.919 NotebookApp] Kernel shutdown: 93484542-7783-4f01-9ed5-2cd9718dfca6
+[W 17:33:29.985 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 1.87ms referer=http://localhost:8888/notebooks/DAY%20501%20~%20600/DAY514_%5BBaekJoon%5D%20%ED%8C%AC%EA%B7%B8%EB%9E%A8%20(Python).ipynb
+[W 17:33:30.026 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 1.36ms referer=http://localhost:8888/notebooks/DAY%20501%20~%20600/DAY514_%5BBaekJoon%5D%20%ED%8C%AC%EA%B7%B8%EB%9E%A8%20(Python).ipynb
+[I 17:33:30.581 NotebookApp] Kernel started: 8dcde18f-901e-492d-a5e1-e38232606984
+[I 17:33:31.734 NotebookApp] Adapting from protocol version 5.1 (kernel 8dcde18f-901e-492d-a5e1-e38232606984) to 5.3 (client).
+[I 17:33:31.907 NotebookApp] Saving file at /DAY 501 ~ 600/DAY514_[BaekJoon] 팬그램 (Python).ipynb
+[I 17:33:34.718 NotebookApp] Starting buffering for 8dcde18f-901e-492d-a5e1-e38232606984:1c648979466149e88a377b073d1cfcfb
+[I 17:33:34.932 NotebookApp] Kernel shutdown: 8dcde18f-901e-492d-a5e1-e38232606984
+[W 17:33:36.707 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 6.27ms referer=http://localhost:8888/edit/DAY%20501%20~%20600/README.md
+[W 17:33:36.738 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 1.98ms referer=http://localhost:8888/edit/DAY%20501%20~%20600/README.md
+[I 17:34:16.868 NotebookApp] Saving file at /DAY 501 ~ 600/README.md
+[I 17:34:21.778 NotebookApp] Shutting down on /api/shutdown request.
+[I 17:34:21.779 NotebookApp] Shutting down 0 kernels

@@ -49,3 +49,7 @@
 ### DAY513 (2021.10.15)
 #### [BaekJoon] 배열 합치기 (Python)
 #### Blog : https://bit.ly/2Xf9HSY
+
+### DAY514 (2021.10.16)
+#### [BaekJoon] 팬그램 (Python)
+#### Blog : https://bit.ly/3BLUmbp
