@@ -45,3 +45,7 @@
 ### DAY512 (2021.10.14)
 #### [BaekJoon] 블랙잭 (Python)
 #### Blog : https://bit.ly/3lKYcfD
+
+### DAY513 (2021.10.15)
+#### [BaekJoon] 배열 합치기 (Python)
+#### Blog : https://bit.ly/2Xf9HSY
