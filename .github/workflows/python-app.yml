@@ -28,7 +28,6 @@ jobs:
         python utils/count_problem_source.py
     - name: Run Update README.md File
       run: |
-        git pull
         git add .
         git diff
         git config --local user.email "jjdh11117@gmail.com"
