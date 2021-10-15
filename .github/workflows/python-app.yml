@@ -23,6 +23,16 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-    - name: Run Update README.md file
+    - name: Run Update Python Script 
       run: |
         python utils/count_problem_source.py
+    - name: Run Update README.md File
+      run: |
+        git pull
+        git add .
+        git diff
+        git config --local user.email "jjdh11117@gmail.com"
+        git config --local user.name "SOMJANG"
+        git commit -m ":smiley: Update README.md file"
+        git push
+
