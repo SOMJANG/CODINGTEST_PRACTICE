@@ -53,3 +53,7 @@
 ### DAY514 (2021.10.16)
 #### [BaekJoon] 팬그램 (Python)
 #### Blog : https://bit.ly/3BLUmbp
+
+### DAY515 (2021.10.17)
+#### [BaekJoon] 중복된 숫자 (Python)
+#### Blog : https://bit.ly/2YSysF5
