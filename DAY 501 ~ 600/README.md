@@ -57,3 +57,7 @@
 ### DAY515 (2021.10.17)
 #### [BaekJoon] 중복된 숫자 (Python)
 #### Blog : https://bit.ly/2YSysF5
+
+### DAY516 (2021.10.18)
+#### [BaekJoon] 평균 점수 (Python)
+#### Blog : https://bit.ly/2XiudSA
