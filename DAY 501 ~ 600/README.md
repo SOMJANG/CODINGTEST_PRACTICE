@@ -61,3 +61,7 @@
 ### DAY516 (2021.10.18)
 #### [BaekJoon] 평균 점수 (Python)
 #### Blog : https://bit.ly/2XiudSA
+
+### DAY517 (2021.10.19)
+#### [BaekJoon] 10부제 (Python)
+#### Blog : https://bit.ly/3Eamh5V
