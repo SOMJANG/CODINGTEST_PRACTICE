@@ -65,3 +65,7 @@
 ### DAY517 (2021.10.19)
 #### [BaekJoon] 10부제 (Python)
 #### Blog : https://bit.ly/3Eamh5V
+
+### DAY518 (2021.10.21)
+#### [SW Expert Academy] 큰 놈, 작은 놈, 같은 놈 (Python)
+#### Blog : https://bit.ly/3nlLgfM
