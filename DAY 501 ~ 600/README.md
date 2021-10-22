@@ -69,3 +69,7 @@
 ### DAY518 (2021.10.21)
 #### [SW Expert Academy] 큰 놈, 작은 놈, 같은 놈 (Python)
 #### Blog : https://bit.ly/3nlLgfM
+
+### DAY519 (2021.10.22)
+#### [SW Expert Academy] 알파벳 숫자로 변환 (Python)
+#### Blog : https://bit.ly/3C5Ba8B
