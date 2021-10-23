@@ -73,3 +73,7 @@
 ### DAY519 (2021.10.22)
 #### [SW Expert Academy] 알파벳 숫자로 변환 (Python)
 #### Blog : https://bit.ly/3C5Ba8B
+
+### DAY520 (2021.10.23)
+#### [BaekJoon] 숫자 카드 (Python)
+#### Blog : https://bit.ly/3G6XjG6
