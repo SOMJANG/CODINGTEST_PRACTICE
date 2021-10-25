@@ -85,3 +85,7 @@
 ### DAY522 (2021.10.25)
 #### [BaekJoon] 과자 (Python)
 #### Blog : https://bit.ly/3jz7f1y
+
+### DAY523 (2021.10.26)
+#### [BaekJoon] 17배 (Python)
+#### Blog : https://bit.ly/3vPDHBO
