@@ -89,3 +89,7 @@
 ### DAY523 (2021.10.26)
 #### [BaekJoon] 17배 (Python)
 #### Blog : https://bit.ly/3vPDHBO
+
+### DAY524 (2021.10.29)
+#### [BaekJoon] A+B - 3 (Python)
+#### Blog : https://bit.ly/3bqjwAZ
