@@ -93,3 +93,7 @@
 ### DAY524 (2021.10.29)
 #### [BaekJoon] A+B - 3 (Python)
 #### Blog : https://bit.ly/3bqjwAZ
+
+### DAY525 (2021.11.01)
+#### [BaekJoon] 0 = not cute / 1 = cute (Python)
+#### Blog : https://bit.ly/3EqCTX4
