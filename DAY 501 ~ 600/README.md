@@ -97,3 +97,7 @@
 ### DAY525 (2021.11.01)
 #### [BaekJoon] 0 = not cute / 1 = cute (Python)
 #### Blog : https://bit.ly/3EqCTX4
+
+### DAY526 (2021.11.02)
+#### [BaekJoon] BASE64 인코딩 (Python)
+#### Blog : https://bit.ly/3pWTzBC
