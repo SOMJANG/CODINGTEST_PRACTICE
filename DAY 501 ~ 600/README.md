@@ -101,3 +101,7 @@
 ### DAY526 (2021.11.02)
 #### [BaekJoon] BASE64 인코딩 (Python)
 #### Blog : https://bit.ly/3pWTzBC
+
+### DAY527 (2021.11.05)
+#### [BaekJoon] BASE64 디코딩 (Python)
+#### Blog : https://bit.ly/3qhOO5s
