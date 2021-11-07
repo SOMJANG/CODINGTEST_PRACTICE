@@ -109,3 +109,11 @@
 ### DAY528 (2021.11.06)
 #### [BaekJoon] 16진수 (Python)
 #### Blog : https://bit.ly/3BT1uC9
+
+### DAY 529 (2021.11.07)
+#### [Programmers] 나머지가 1이 되는 수 찾기 (Python)
+#### Blog : https://bit.ly/3GYTsvi
+
+### DAY530 (2021.11.08)
+#### [Programmers] 비밀지도 (Python)
+#### Blog : https://bit.ly/3o4lCwc
