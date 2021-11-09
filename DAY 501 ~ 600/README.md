@@ -117,3 +117,7 @@
 ### DAY530 (2021.11.08)
 #### [Programmers] 비밀지도 (Python)
 #### Blog : https://bit.ly/3o4lCwc
+
+### DAY531 (2021.11.09)
+#### [BaekJoon] 일곱 난쟁이 (Python)
+#### Blog : 
