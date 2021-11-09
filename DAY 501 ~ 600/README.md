@@ -121,3 +121,6 @@
 ### DAY531 (2021.11.09)
 #### [BaekJoon] 일곱 난쟁이 (Python)
 #### Blog : https://bit.ly/3qn1uYP
+
+### DAY532 (2021.11.10)
+#### Blog : https://bit.ly/3bWPs08
