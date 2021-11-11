@@ -123,4 +123,9 @@
 #### Blog : https://bit.ly/3qn1uYP
 
 ### DAY532 (2021.11.10)
+#### [SW Expert Adademy] 간단한 369게임 (Python)
 #### Blog : https://bit.ly/3bWPs08
+
+### DAY533 (2021.11.11)
+#### [SW Expert Adademy] 패턴 마디의 길이 (Python)
+#### Blog : https://bit.ly/3C2azZt
