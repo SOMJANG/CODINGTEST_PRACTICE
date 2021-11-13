@@ -133,3 +133,7 @@
 ### DAY534 (2021.11.12)
 #### [SW Expert Academy] 조교의 성적 매기기 (Python)
 #### Blog : https://bit.ly/3bZC8I7
+
+### DAY535 (2021.11.13)
+#### [SW Expert Academy] 중간 평균값 구하기 (Python)
+#### Blog : https://bit.ly/3kwTAbP
