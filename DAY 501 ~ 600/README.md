@@ -145,3 +145,7 @@
 ### DAY537 (2021.11.15)
 #### [SW Expert Academy] 초심자의 회문 검사 (Python)
 #### Blog : https://bit.ly/3cf4Jta
+
+### DAY538 (2021.11.16)
+#### [SW Expert Academy] 자릿수 더하기 (Python)
+#### Blog : https://bit.ly/3DiDN7X
