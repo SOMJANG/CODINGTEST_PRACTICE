@@ -137,3 +137,7 @@
 ### DAY535 (2021.11.13)
 #### [SW Expert Academy] 중간 평균값 구하기 (Python)
 #### Blog : https://bit.ly/3kwTAbP
+
+### DAY536 (2021.11.14)
+#### [SW Expert Academy] 수도 요금 경쟁 (Python)
+#### Blog : https://bit.ly/3F9DpJm
