@@ -141,3 +141,7 @@
 ### DAY536 (2021.11.14)
 #### [SW Expert Academy] 수도 요금 경쟁 (Python)
 #### Blog : https://bit.ly/3F9DpJm
+
+### DAY537 (2021.11.15)
+#### [SW Expert Academy] 초심자의 회문 검사 (Python)
+#### Blog : https://bit.ly/3cf4Jta
