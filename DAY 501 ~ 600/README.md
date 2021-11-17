@@ -149,3 +149,7 @@
 ### DAY538 (2021.11.16)
 #### [SW Expert Academy] 자릿수 더하기 (Python)
 #### Blog : https://bit.ly/3DiDN7X
+
+### DAY539 (2021.11.17)
+#### [BaekJoon] 생일 (Python)
+#### Blog : https://bit.ly/3CmAYS3
