@@ -161,3 +161,7 @@
 ### DAY541 (2021.11.20)
 #### [BaekJoon] 음계 (Python)
 #### Blog : https://bit.ly/3cri7KT
+
+### DAY542 (2021.11.21)
+#### [BaekJoon] 소음 (Python)
+#### Blog : https://bit.ly/3kV51u5
