@@ -157,3 +157,7 @@
 ### DAY540 (2021.11.19)
 #### [BaekJoon] 손익분기점 (Python)
 #### Blog : https://bit.ly/3qP8H4b
+
+### DAY541 (2021.11.20)
+#### [BaekJoon] 음계 (Python)
+#### Blog : https://bit.ly/3cri7KT
