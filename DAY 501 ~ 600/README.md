@@ -165,3 +165,7 @@
 ### DAY542 (2021.11.21)
 #### [BaekJoon] 소음 (Python)
 #### Blog : https://bit.ly/3kV51u5
+
+### DAY543 (2021.11.22)
+#### [BaekJoon] 한다 안한다 (Python)
+#### Blog : https://bit.ly/3oSgBaq
