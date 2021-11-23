@@ -173,3 +173,7 @@
 ### DAY544 (2021.11.23)
 #### [BaekJoon] 영수증 (Python)
 #### Blog : https://bit.ly/30U2gBS
+
+### DAY545 (2021.11.24)
+#### [BaekJoon] 나는 요리사다 (Python)
+#### Blog : https://bit.ly/3nFnw7v
