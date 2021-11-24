@@ -177,3 +177,7 @@
 ### DAY545 (2021.11.24)
 #### [BaekJoon] 나는 요리사다 (Python)
 #### Blog : https://bit.ly/3nFnw7v
+
+### DAY546 (2021.11.25)
+#### [BaekJoon] 보물 (Python)
+#### Blog : https://bit.ly/3l7W2pr
