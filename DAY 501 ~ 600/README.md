@@ -181,3 +181,7 @@
 ### DAY546 (2021.11.25)
 #### [BaekJoon] 보물 (Python)
 #### Blog : https://bit.ly/3l7W2pr
+
+### DAY547 (2021.11.26)
+#### [SW Expert Academy] 중간값 찾기 (Python)
+#### Blog : https://bit.ly/3rb8lFf
