@@ -185,3 +185,7 @@
 ### DAY547 (2021.11.26)
 #### [SW Expert Academy] 중간값 찾기 (Python)
 #### Blog : https://bit.ly/3rb8lFf
+
+### DAY548 (2021.11.27)
+#### [SW Expert Academy] 날짜 계산기 (Python)
+#### Blog : https://bit.ly/3nUSMQ2
