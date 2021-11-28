@@ -189,3 +189,7 @@
 ### DAY548 (2021.11.27)
 #### [SW Expert Academy] 날짜 계산기 (Python)
 #### Blog : https://bit.ly/3nUSMQ2
+
+### DAY549 (2021.11.28)
+#### [SW Expert Academy] 모음이 보이지 않는 사람 (Python)
+#### Blog : https://bit.ly/3rfrN3W
