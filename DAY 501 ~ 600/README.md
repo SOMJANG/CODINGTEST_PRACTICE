@@ -193,3 +193,7 @@
 ### DAY549 (2021.11.28)
 #### [SW Expert Academy] 모음이 보이지 않는 사람 (Python)
 #### Blog : https://bit.ly/3rfrN3W
+
+### DAY550 (2021.11.29)
+#### [SW Expert Academy] 숫자를 정렬하자 (Python)
+#### Blog : https://bit.ly/3rdkeuj
