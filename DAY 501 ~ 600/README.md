@@ -197,3 +197,7 @@
 ### DAY550 (2021.11.29)
 #### [SW Expert Academy] 숫자를 정렬하자 (Python)
 #### Blog : https://bit.ly/3rdkeuj
+
+### DAY551 (2021.11.30)
+#### [SW Expert Academy] 시각 덧셈 (Python)
+#### Blog : https://bit.ly/3E554uU
