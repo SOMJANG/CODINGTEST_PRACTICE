@@ -201,3 +201,7 @@
 ### DAY551 (2021.11.30)
 #### [SW Expert Academy] 시각 덧셈 (Python)
 #### Blog : https://bit.ly/3E554uU
+
+### DAY552 (2021.12.01)
+#### [SW Expert Academy] 몫과 나머지 출력하기 (Python)
+#### Blog : https://bit.ly/3d3RYlF
