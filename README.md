@@ -3,12 +3,12 @@
 ## 하루에 한 문제 씩이라도 코딩문제를 풀어보자! 
 ### Since 2020.02.07 ~
 #### 모든 문제는 Python3 로 해결하였습니다.
-#### 현재까지 풀어본 총 문제 수 : 558개
+#### 현재까지 풀어본 총 문제 수 : 559개
 - BaekJoon - 234개
 - leetCode - 191개
 - Programmers - 77개
 - HackerRank - 28개
-- SW Expert Academy - 24개
+- SW Expert Academy - 25개
 - CodeUp - 2개
 - JUNGOL - 2개
 
