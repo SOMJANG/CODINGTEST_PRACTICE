@@ -213,3 +213,7 @@
 ### DAY554 (2021.12.03)
 #### [BaekJoon] 구간 합 구하기 4 (Python)
 #### Blog : https://bit.ly/3okzhR8
+
+### DAY555 (2021.12.04)
+#### [BaekJoon] 빈도 정렬 (Python)
+#### Blog : https://bit.ly/3dphnGt
