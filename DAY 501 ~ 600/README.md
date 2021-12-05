@@ -217,3 +217,7 @@
 ### DAY555 (2021.12.04)
 #### [BaekJoon] 빈도 정렬 (Python)
 #### Blog : https://bit.ly/3dphnGt
+
+### DAY556 (2021.12.05)
+#### [BaekJoon] 세수정렬 (Python)
+#### Blog : https://bit.ly/3IeT7Fv
