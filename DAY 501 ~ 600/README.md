@@ -221,3 +221,7 @@
 ### DAY556 (2021.12.05)
 #### [BaekJoon] 세수정렬 (Python)
 #### Blog : https://bit.ly/3IeT7Fv
+
+### DAY557 (2021.12.06)
+#### [BaekJoon] 분수 합 (Python)
+#### Blog : https://bit.ly/3rTJer9
