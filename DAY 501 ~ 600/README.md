@@ -225,3 +225,7 @@
 ### DAY557 (2021.12.06)
 #### [BaekJoon] 분수 합 (Python)
 #### Blog : https://bit.ly/3rTJer9
+
+### DAY558 (2021.12.07)
+#### [BaekJoon] 점수 집계 (Python)
+#### Blog : https://bit.ly/3dpolLQ
