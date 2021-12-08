@@ -229,3 +229,7 @@
 ### DAY558 (2021.12.07)
 #### [BaekJoon] 점수 집계 (Python)
 #### Blog : https://bit.ly/3dpolLQ
+
+### DAY559 (2021.12.08)
+#### [BaekJoon] A+B - 7 (Python)
+#### Blog : https://bit.ly/3IwvAjq
