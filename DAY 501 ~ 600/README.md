@@ -241,3 +241,7 @@
 ### DAY561 (2021.12.10)
 #### [BaekJoon] 별 찍기 - 5 (Python)
 #### Blog : https://bit.ly/3Gx87g3
+
+### DAY562 (2021.12.11)
+#### [BaekJoon] 검증수 (Python)
+#### Blog : https://bit.ly/3DNkMtD
