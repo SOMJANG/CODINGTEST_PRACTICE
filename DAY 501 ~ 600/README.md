@@ -245,3 +245,7 @@
 ### DAY562 (2021.12.11)
 #### [BaekJoon] 검증수 (Python)
 #### Blog : https://bit.ly/3DNkMtD
+
+### DAY563 (2021.12.12)
+#### [BaekJoon] 엔드게임 스포일러 (Python)
+#### Blog : https://bit.ly/3yi3Lqn
