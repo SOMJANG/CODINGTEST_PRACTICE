@@ -249,3 +249,7 @@
 ### DAY563 (2021.12.12)
 #### [BaekJoon] 엔드게임 스포일러 (Python)
 #### Blog : https://bit.ly/3yi3Lqn
+
+### DAY564 (2021.12.13)
+#### [BaekJoon] 합 (Python)
+#### Blog : https://bit.ly/3IFmsJf
