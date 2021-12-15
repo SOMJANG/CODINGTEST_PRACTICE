@@ -257,3 +257,7 @@
 ### DAY565 (2021.12.14)
 #### [BaekJoon] A+B - 8 (Python)
 #### Blog : https://bit.ly/3m2w2vY
+
+### DAY566 (2021.12.15)
+#### [BaekJoon] A+B - 9 (Python)
+#### Blog : https://bit.ly/3DVZREW
