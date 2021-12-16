@@ -261,3 +261,7 @@
 ### DAY566 (2021.12.15)
 #### [BaekJoon] A+B - 9 (Python)
 #### Blog : https://bit.ly/3DVZREW
+
+### DAY567 (2021.12.16)
+#### [BaekJoon] 별 찍기 - 6 (Python)
+#### Blog : https://bit.ly/3dWkFRV
