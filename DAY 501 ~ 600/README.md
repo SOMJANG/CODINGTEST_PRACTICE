@@ -280,4 +280,4 @@
 
 ### DAY571 (2021.12.22)
 #### [BaekJoon] 크냐? (Python)
-#### Blog :
+#### Blog : https://bit.ly/3moCBcM
