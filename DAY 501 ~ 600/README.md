@@ -281,3 +281,7 @@
 ### DAY571 (2021.12.22)
 #### [BaekJoon] 크냐? (Python)
 #### Blog : https://bit.ly/3moCBcM
+
+### DAY572 (2021.12.24)
+#### [BaekJoon] 같이 눈사람 만들래? (Python)
+#### Blog : https://bit.ly/33WH4Np
