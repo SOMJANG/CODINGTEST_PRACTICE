@@ -285,3 +285,7 @@
 ### DAY572 (2021.12.24)
 #### [BaekJoon] 같이 눈사람 만들래? (Python)
 #### Blog : https://bit.ly/33WH4Np
+
+### DAY573 (2021.12.25)
+#### [BaekJoon] XMAS (Python)
+#### Blog : https://bit.ly/3mv3A6s
