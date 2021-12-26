@@ -289,3 +289,7 @@
 ### DAY573 (2021.12.25)
 #### [BaekJoon] XMAS (Python)
 #### Blog : https://bit.ly/3mv3A6s
+
+### DAY574 (2021.12.26)
+#### [BaekJoon] 별 찍기 - 16 (Python)
+#### Blog : https://bit.ly/3JjYT9p
