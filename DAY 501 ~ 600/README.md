@@ -297,3 +297,7 @@
 ### DAY575 (2021.12.27)
 #### [BaekJoon] 조합 (Python)
 #### Blog : https://bit.ly/3JnjzwW
+
+### DAY576 (2021.12.28)
+#### [BaekJoon] 별 찍기 - 12 (Python)
+#### Blog : https://bit.ly/3eu4uLV
