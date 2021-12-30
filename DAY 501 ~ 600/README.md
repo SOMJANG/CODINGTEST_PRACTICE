@@ -305,3 +305,7 @@
 ### DAY577 (2021.12.29)
 #### [BaekJoon] 별 찍기 - 13 (Python)
 #### Blog : https://bit.ly/3z5QPnZ
+
+### DAY578 (2021.12.30)
+#### [BaekJoon] 별 찍기 - 20 (Python)
+#### Blog : https://bit.ly/3pCqpqO
