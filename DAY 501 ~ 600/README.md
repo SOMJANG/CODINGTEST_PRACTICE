@@ -313,3 +313,7 @@
 ### DAY579 (2021.12.31)
 #### [BaekJoon] 별 찍기 - 17 (Python)
 #### Blog : https://bit.ly/3FC25L8
+
+### DAY580 (2022.01.01)
+#### [BaekJoon] 지능형 기차 (Python)
+#### Blog : https://bit.ly/33ZQ4RI
