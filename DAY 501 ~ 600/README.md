@@ -321,3 +321,7 @@
 ### DAY581 (2022.01.02)
 #### [BaekJoon] 수열 (Python)
 #### Blog : https://bit.ly/3pKhPpO
+
+### DAY582 (2022.01.03)
+#### [BaekJoon] 최댓값 (Python)
+#### Blog : https://bit.ly/32zWhnj
