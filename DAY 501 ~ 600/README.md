@@ -317,3 +317,7 @@
 ### DAY580 (2022.01.01)
 #### [BaekJoon] 지능형 기차 (Python)
 #### Blog : https://bit.ly/33ZQ4RI
+
+### DAY581 (2022.01.02)
+#### [BaekJoon] 수열 (Python)
+#### Blog : https://bit.ly/3pKhPpO
