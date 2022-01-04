@@ -325,3 +325,7 @@
 ### DAY582 (2022.01.03)
 #### [BaekJoon] 최댓값 (Python)
 #### Blog : https://bit.ly/32zWhnj
+
+### DAY583 (2022.01.04)
+#### [BaekJoon] 요세푸스 문제 0 (Python)
+#### Blog : https://bit.ly/3FOmJrG
