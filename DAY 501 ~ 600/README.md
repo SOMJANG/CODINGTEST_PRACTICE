@@ -329,3 +329,7 @@
 ### DAY583 (2022.01.04)
 #### [BaekJoon] 요세푸스 문제 0 (Python)
 #### Blog : https://bit.ly/3FOmJrG
+
+### DAY584 (2022.01.05)
+#### [BaekJoon] 상근날드 (Python)
+#### Blog : https://bit.ly/3ERZkEu
