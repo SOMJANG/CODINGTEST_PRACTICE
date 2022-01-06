@@ -333,3 +333,7 @@
 ### DAY584 (2022.01.05)
 #### [BaekJoon] 상근날드 (Python)
 #### Blog : https://bit.ly/3ERZkEu
+
+### DAY585 (2022.01.06)
+#### [BaekJoon] 팰린드롬인지 확인하기 (Python)
+#### https://bit.ly/3eZspDn
