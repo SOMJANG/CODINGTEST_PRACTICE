@@ -336,4 +336,8 @@
 
 ### DAY585 (2022.01.06)
 #### [BaekJoon] 팰린드롬인지 확인하기 (Python)
-#### https://bit.ly/3eZspDn
+#### Blog : https://bit.ly/3eZspDn
+
+### DAY586 (2022.01.07)
+#### [BaekJoon] 공백 없는 A+B (Python)
+#### Blog : https://bit.ly/3EXL793
