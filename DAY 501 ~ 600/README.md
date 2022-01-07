@@ -341,3 +341,7 @@
 ### DAY586 (2022.01.07)
 #### [BaekJoon] 공백 없는 A+B (Python)
 #### Blog : https://bit.ly/3EXL793
+
+### DAY587 (2022.01.08)
+#### [BaekJoon] R2 (Python)
+#### Blog : https://bit.ly/3qSn2vc
