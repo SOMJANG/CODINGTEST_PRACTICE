@@ -349,3 +349,7 @@
 ### DAY588 (2022.01.09)
 #### [BaekJoon] 더하기 4 (Python)
 #### Blog : https://bit.ly/33jZ97P
+
+### DAY589 (2022.01.10)
+#### [BaekJoon] 더하기 3 (Python)
+#### Blog : https://bit.ly/31Mlhaw
