@@ -357,3 +357,7 @@
 ### DAY590 (2022.01.11)
 #### [BaekJoon] 시험 점수 (Python)
 #### Blog : https://bit.ly/32X0u4F
+
+### DAY591 (2022.01.12)
+#### [BaekJoon] 주사위 세개 (Python)
+#### Blog : https://bit.ly/3nfdzNC
