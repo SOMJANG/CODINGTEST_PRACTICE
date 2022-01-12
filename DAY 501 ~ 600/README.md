@@ -361,3 +361,7 @@
 ### DAY591 (2022.01.12)
 #### [BaekJoon] 주사위 세개 (Python)
 #### Blog : https://bit.ly/3nfdzNC
+
+### DAY592 (2022.01.13)
+#### [BaekJoon] 더하기 (Python)
+#### Blog : https://bit.ly/3K55JA0
