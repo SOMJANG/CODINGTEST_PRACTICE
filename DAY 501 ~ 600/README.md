@@ -365,3 +365,7 @@
 ### DAY592 (2022.01.13)
 #### [BaekJoon] 더하기 (Python)
 #### Blog : https://bit.ly/3K55JA0
+
+### DAY593 (2022.01.14)
+#### [BaekJoon] 이진수 (Python)
+#### Blog : https://bit.ly/34QefCK
