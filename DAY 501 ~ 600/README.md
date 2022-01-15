@@ -373,3 +373,7 @@
 ### DAY594 (2022.01.15)
 #### [BaekJoon] 달팽이는 올라가고 싶다 (Python)
 #### Blog : https://bit.ly/3IbQN1b
+
+### DAY595 (2022.01.16)
+#### [BaekJoon] 1998년생인 내가 태국에서는 2541년생?! (Python)
+#### Blog : https://bit.ly/3zZZ6u1
