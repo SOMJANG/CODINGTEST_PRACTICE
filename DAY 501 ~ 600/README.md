@@ -369,3 +369,7 @@
 ### DAY593 (2022.01.14)
 #### [BaekJoon] 이진수 (Python)
 #### Blog : https://bit.ly/34QefCK
+
+### DAY594 (2022.01.15)
+#### [BaekJoon] 달팽이는 올라가고 싶다 (Python)
+#### Blog : https://bit.ly/3IbQN1b
