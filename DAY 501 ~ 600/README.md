@@ -377,3 +377,7 @@
 ### DAY595 (2022.01.16)
 #### [BaekJoon] 1998년생인 내가 태국에서는 2541년생?! (Python)
 #### Blog : https://bit.ly/3zZZ6u1
+
+### DAY596 (2022.01.17)
+#### [BaekJoon] 피시방 알바 (Python)
+#### Blog : https://bit.ly/33lVXZC
