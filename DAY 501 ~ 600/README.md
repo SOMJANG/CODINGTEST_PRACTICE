@@ -381,3 +381,7 @@
 ### DAY596 (2022.01.17)
 #### [BaekJoon] 피시방 알바 (Python)
 #### Blog : https://bit.ly/33lVXZC
+
+### DAY597 (2022.01.18)
+#### [Programmers] 2022 KAKAO BLIND RECRUITMENT 신고 결과 받기 (Python)
+#### Blog : https://bit.ly/3rqEAyR
