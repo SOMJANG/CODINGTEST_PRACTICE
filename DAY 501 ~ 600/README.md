@@ -385,3 +385,7 @@
 ### DAY597 (2022.01.18)
 #### [Programmers] 2022 KAKAO BLIND RECRUITMENT 신고 결과 받기 (Python)
 #### Blog : https://bit.ly/3rqEAyR
+
+### DAY598 (2022.01.19)
+#### [Programmers] 2022 KAKAO BLIND RECRUITMENT 주차 요금 계산 (Python)
+#### Blog : https://bit.ly/3qHKg8D
