@@ -389,3 +389,7 @@
 ### DAY598 (2022.01.19)
 #### [Programmers] 2022 KAKAO BLIND RECRUITMENT 주차 요금 계산 (Python)
 #### Blog : https://bit.ly/3qHKg8D
+
+### DAY599 (2022.01.20)
+#### [BaekJoon] 세 수 (Python)
+#### Blog : https://bit.ly/3FHxFq0
