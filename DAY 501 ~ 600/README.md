@@ -393,3 +393,7 @@
 ### DAY599 (2022.01.20)
 #### [BaekJoon] 세 수 (Python)
 #### Blog : https://bit.ly/3FHxFq0
+
+### DAY600 (2022.01.21)
+#### [BaekJoon] 약수 (Python)
+#### Blog : https://bit.ly/33BduNy
