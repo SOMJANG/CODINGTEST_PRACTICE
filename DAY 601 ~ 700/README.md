@@ -17,3 +17,7 @@
 ### DAY605 (2022.01.26)
 #### [leetCode] Find First Palindromic String in the Array (Python)
 #### Blog : https://bit.ly/3G1kqAN
+
+### DAY606 (2022.01.27)
+#### [leetCode] Sum of Digits of String After Convert (Python)
+#### Blog : https://bit.ly/3nZgLgO
