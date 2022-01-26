@@ -13,3 +13,7 @@
 ### DAY604 (2022.01.25)
 #### [leetCode] Sequential Digits (Python)
 #### Blog : https://bit.ly/3tRUHID
+
+### DAY605 (2022.01.26)
+#### [leetCode] Find First Palindromic String in the Array (Python)
+#### Blog : https://bit.ly/3G1kqAN
