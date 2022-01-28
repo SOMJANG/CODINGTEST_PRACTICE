@@ -25,3 +25,7 @@
 ### DAY607 (2022.01.28)
 #### [leetCode] Reverse Prefix of Word (Python)
 #### Blog : https://bit.ly/3u44Sdd
+
+### DAY608 (2022.01.29)
+#### [BaekJoon] 초콜릿 자르기 (Python)
+#### Blog : https://bit.ly/3ADqHkU
