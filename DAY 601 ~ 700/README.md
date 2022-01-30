@@ -29,3 +29,7 @@
 ### DAY608 (2022.01.29)
 #### [BaekJoon] 초콜릿 자르기 (Python)
 #### Blog : https://bit.ly/3ADqHkU
+
+### DAY609 (2022.01.30)
+#### [BaekJoon] 제곱근 (Python)
+#### Blog : https://bit.ly/3HrVUKN
