@@ -33,3 +33,7 @@
 ### DAY609 (2022.01.30)
 #### [BaekJoon] 제곱근 (Python)
 #### Blog : https://bit.ly/3HrVUKN
+
+### DAY610 (2022.01.31)
+#### [leetCode] Check If String Is a Prefix of Array (Python)
+#### Blog : https://bit.ly/343PJhp
