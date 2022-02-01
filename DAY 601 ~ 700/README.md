@@ -37,3 +37,7 @@
 ### DAY610 (2022.01.31)
 #### [leetCode] Check If String Is a Prefix of Array (Python)
 #### Blog : https://bit.ly/343PJhp
+
+### DAY611 (2022.02.01)
+#### [leetCode] Smallest Index With Equal Value (Python)
+#### Blog : https://bit.ly/3IPoS7p
