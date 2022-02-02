@@ -41,3 +41,7 @@
 ### DAY611 (2022.02.01)
 #### [leetCode] Smallest Index With Equal Value (Python)
 #### Blog : https://bit.ly/3IPoS7p
+
+### DAY612 (2022.02.02)
+#### [leetCode] A Number After a Double Reversal (Python)
+#### Blog : https://bit.ly/3IUpfxr
