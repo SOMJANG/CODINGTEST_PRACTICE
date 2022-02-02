@@ -45,3 +45,7 @@
 ### DAY612 (2022.02.02)
 #### [leetCode] A Number After a Double Reversal (Python)
 #### Blog : https://bit.ly/3IUpfxr
+
+### DAY613 (2022.02.03)
+#### [leetCode] Sorting the Sentence (Python)
+#### Blog : https://bit.ly/32TOFw0
