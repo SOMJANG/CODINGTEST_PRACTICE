@@ -49,3 +49,7 @@
 ### DAY613 (2022.02.03)
 #### [leetCode] Sorting the Sentence (Python)
 #### Blog : https://bit.ly/32TOFw0
+
+### DAY614 (2022.02.04)
+#### [leetCode] Check if Word Equals Summation of Two Words (Python)
+#### Blog : https://bit.ly/3AUrcqU
