@@ -53,3 +53,7 @@
 ### DAY614 (2022.02.04)
 #### [leetCode] Check if Word Equals Summation of Two Words (Python)
 #### Blog : https://bit.ly/3AUrcqU
+
+### DAY615 (2022.02.05)
+#### [leetCode] Sum of Unique Elements (Python)
+#### Blog : https://bit.ly/3Grsef9
