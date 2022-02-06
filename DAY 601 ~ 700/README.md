@@ -57,3 +57,7 @@
 ### DAY615 (2022.02.05)
 #### [leetCode] Sum of Unique Elements (Python)
 #### Blog : https://bit.ly/3Grsef9
+
+### DAY616 (2022.02.06)
+#### [leetCode] Replace All Digits with Characters (Python)
+#### Blog : https://bit.ly/3ruiahf
