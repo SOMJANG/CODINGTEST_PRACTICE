@@ -69,3 +69,7 @@
 ### DAY618 (2022.02.08)
 #### [BaekJoon] ??! (Python)
 #### Blog : https://bit.ly/3HElpZo
+
+### DAY619 (2022.02.09)
+#### [BaekJoon] 마이크로소프트 로고 (Python)
+#### Blog : https://bit.ly/3JcTEHK
