@@ -73,3 +73,7 @@
 ### DAY619 (2022.02.09)
 #### [BaekJoon] 마이크로소프트 로고 (Python)
 #### Blog : https://bit.ly/3JcTEHK
+
+### DAY620 (2022.02.10)
+#### [BaekJoon] 윷놀이 (Python)
+#### Blog : https://bit.ly/3svlOXu
