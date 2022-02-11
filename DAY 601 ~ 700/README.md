@@ -77,3 +77,7 @@
 ### DAY620 (2022.02.10)
 #### [BaekJoon] 윷놀이 (Python)
 #### Blog : https://bit.ly/3svlOXu
+
+### DAY621 (2022.02.11)
+#### [BaekJoon] 나머지와 몫이 같은 수 (Python)
+#### Blog : https://bit.ly/34tWUzM
