@@ -81,3 +81,7 @@
 ### DAY621 (2022.02.11)
 #### [BaekJoon] 나머지와 몫이 같은 수 (Python)
 #### Blog : https://bit.ly/34tWUzM
+
+### DAY622 (2022.02.12)
+#### [BaekJoon] 피보나치 수 (Python)
+#### Blog : https://bit.ly/3oDdyDW
