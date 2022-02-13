@@ -85,3 +85,7 @@
 ### DAY622 (2022.02.12)
 #### [BaekJoon] 피보나치 수 (Python)
 #### Blog : https://bit.ly/3oDdyDW
+
+### DAY623 (2022.02.13)
+#### [Programmers] 짝지어 제거하기 (Python)
+#### Blog : https://bit.ly/3szMTZL
