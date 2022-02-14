@@ -89,3 +89,7 @@
 ### DAY623 (2022.02.13)
 #### [Programmers] 짝지어 제거하기 (Python)
 #### Blog : https://bit.ly/3szMTZL
+
+### DAY624 (2022.02.14)
+#### [Programmers] 크레인 인형뽑기 게임 (Python)
+#### Blog : https://bit.ly/3uHJgnf
