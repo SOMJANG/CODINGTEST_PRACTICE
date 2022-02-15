@@ -93,3 +93,7 @@
 ### DAY624 (2022.02.14)
 #### [Programmers] 크레인 인형뽑기 게임 (Python)
 #### Blog : https://bit.ly/3uHJgnf
+
+### DAY625 (2022.02.15)
+#### [Programmers] 체육복 (Python)
+#### Blog : https://bit.ly/3GS1c0O
