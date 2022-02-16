@@ -97,3 +97,7 @@
 ### DAY625 (2022.02.15)
 #### [Programmers] 체육복 (Python)
 #### Blog : https://bit.ly/3GS1c0O
+
+### DAY626 (2022.02.16)
+#### [Programmers] 찾아라 프로그래밍 마에스터 - 폰켓몬 (Python)
+#### Blog : https://bit.ly/3BlxuQJ
