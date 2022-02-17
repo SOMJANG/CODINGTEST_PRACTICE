@@ -101,3 +101,7 @@
 ### DAY626 (2022.02.16)
 #### [Programmers] 찾아라 프로그래밍 마에스터 - 폰켓몬 (Python)
 #### Blog : https://bit.ly/3BlxuQJ
+
+### DAY627 (2022.02.17)
+#### [Programmers] 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임 (Python)
+#### Blog : https://bit.ly/3Jtutkc
