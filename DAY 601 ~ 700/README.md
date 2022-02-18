@@ -109,3 +109,7 @@
 ### DAY628 (2022.02.18)
 #### [Programmers] n^2 배열 자르기 (Python)
 #### Blog : https://bit.ly/3gVQewP
+
+### DAY629 (2022.02.19)
+#### [Programmers] 피보나치 수 (Python)
+#### Blog : https://bit.ly/3H2zcre
