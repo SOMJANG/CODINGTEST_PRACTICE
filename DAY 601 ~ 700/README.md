@@ -105,3 +105,7 @@
 ### DAY627 (2022.02.17)
 #### [Programmers] 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임 (Python)
 #### Blog : https://bit.ly/3Jtutkc
+
+### DAY628 (2022.02.18)
+#### [Programmers] n^2 배열 자르기 (Python)
+#### Blog : https://bit.ly/3gVQewP
