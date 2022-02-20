@@ -113,3 +113,7 @@
 ### DAY629 (2022.02.19)
 #### [Programmers] 피보나치 수 (Python)
 #### Blog : https://bit.ly/3H2zcre
+
+### DAY630 (2022.02.20)
+#### [BaekJoon] 점수 계산 (Python)
+#### Blog : https://bit.ly/3BC91qh
