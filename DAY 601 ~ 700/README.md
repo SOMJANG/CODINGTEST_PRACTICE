@@ -117,3 +117,7 @@
 ### DAY630 (2022.02.20)
 #### [BaekJoon] 점수 계산 (Python)
 #### Blog : https://bit.ly/3BC91qh
+
+### DAY631 (2022.02.21)
+#### [Programmers] 2019 KAKAO BLIND RECRUITMENT - 오픈채팅방 (Python)
+#### Blog : https://bit.ly/35djo88
