@@ -125,3 +125,7 @@
 ### DAY632 (2022.02.22)
 #### [Programmers] 큰 수 만들기 (Python)
 #### Blog : https://bit.ly/3sYFH9H
+
+### DAY633 (2022.02.23)
+#### [Programmers] 최솟값 만들기 (Python)
+#### Blog : https://bit.ly/3H9ZeJo
