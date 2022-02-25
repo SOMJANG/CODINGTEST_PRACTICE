@@ -129,3 +129,7 @@
 ### DAY633 (2022.02.23)
 #### [Programmers] 최솟값 만들기 (Python)
 #### Blog : https://bit.ly/3H9ZeJo
+
+### DAY634 (2022.02.24)
+#### [BaekJoon] 수 정렬하기 4 (Python)
+#### Blog : https://bit.ly/35tUot6
