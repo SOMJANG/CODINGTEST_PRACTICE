@@ -137,3 +137,7 @@
 ### DAY635 (2022.02.25)
 #### [BaekJoon] 그대로 출력하기 (Python)
 #### Blog : https://bit.ly/3M0MlVO
+
+### DAY636 (2022.02.26)
+#### [BaekJoon] 오늘 날짜 (Python)
+#### Blog : https://bit.ly/3hh3Jan
