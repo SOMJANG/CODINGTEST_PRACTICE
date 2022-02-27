@@ -141,3 +141,7 @@
 ### DAY636 (2022.02.26)
 #### [BaekJoon] 오늘 날짜 (Python)
 #### Blog : https://bit.ly/3hh3Jan
+
+### DAY637 (2022.02.27)
+#### [BaekJoon] 셀프 넘버 (Python)
+#### Blog : https://bit.ly/3peh5sz
