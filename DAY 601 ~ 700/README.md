@@ -145,3 +145,7 @@
 ### DAY637 (2022.02.27)
 #### [BaekJoon] 셀프 넘버 (Python)
 #### Blog : https://bit.ly/3peh5sz
+
+### DAY638 (2022.02.28)
+#### [BaekJoon] 오븐 시계 (Python)
+#### Blog : https://bit.ly/35wo5Kg
