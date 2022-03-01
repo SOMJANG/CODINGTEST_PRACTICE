@@ -153,3 +153,7 @@
 ### DAY639 (2022.03.01)
 #### [Programmers] 단속카메라 (Python)
 #### Blog : https://bit.ly/340BB8w
+
+### DAY640 (2022.03.02)
+#### [BaekJoon] 시리얼 번호 (Python)
+#### Blog : https://bit.ly/3MeKUTK
