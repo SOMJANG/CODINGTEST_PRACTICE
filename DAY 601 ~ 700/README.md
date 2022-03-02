@@ -157,3 +157,7 @@
 ### DAY640 (2022.03.02)
 #### [BaekJoon] 시리얼 번호 (Python)
 #### Blog : https://bit.ly/3MeKUTK
+
+### DAY641 (2022.03.03)
+#### [BaekJoon] 분해합 (Python)
+#### Blog : https://bit.ly/3K88Fee
