@@ -161,3 +161,7 @@
 ### DAY641 (2022.03.03)
 #### [BaekJoon] 분해합 (Python)
 #### Blog : https://bit.ly/3K88Fee
+
+### DAY642 (2022.03.04)
+#### [BaekJoon] 긴자리 계산 (Python)
+#### Blog : https://bit.ly/3Ke6Xbh
