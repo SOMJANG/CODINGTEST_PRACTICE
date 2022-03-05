@@ -165,3 +165,7 @@
 ### DAY642 (2022.03.04)
 #### [BaekJoon] 긴자리 계산 (Python)
 #### Blog : https://bit.ly/3Ke6Xbh
+
+### DAY643 (2022.03.05)
+#### [BaekJoon] 비밀번호 찾기 (Python)
+#### Blog : https://bit.ly/3HJ3uje
