@@ -177,3 +177,7 @@
 ### DAY645 (2022.03.07)
 #### [BaekJoon] 스타워즈 로고 (Python)
 #### Blog : https://bit.ly/3ISaagf
+
+### DAY646 (2022.03.08)
+#### [BaekJoon] 소수 (Python)
+#### Blog : https://bit.ly/3HNajjJ
