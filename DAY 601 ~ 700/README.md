@@ -173,3 +173,7 @@
 ### DAY644 (2022.03.06)
 #### [BaekJoon] 비밀번호 찾기 (Python)
 #### Blog : https://bit.ly/3pF5G5f
+
+### DAY645 (2022.03.07)
+#### [BaekJoon] 스타워즈 로고 (Python)
+#### Blog : https://bit.ly/3ISaagf
