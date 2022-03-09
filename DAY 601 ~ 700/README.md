@@ -181,3 +181,7 @@
 ### DAY646 (2022.03.08)
 #### [BaekJoon] 소수 (Python)
 #### Blog : https://bit.ly/3HNajjJ
+
+### DAY647 (2022.03.09)
+#### [BaekJoon] 나는야 포켓몬 마스터 이다솜 (Python)
+#### Blog : https://bit.ly/3CoYe3r
