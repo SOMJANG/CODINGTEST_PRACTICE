@@ -189,3 +189,7 @@
 ### DAY648 (2022.03.10)
 #### [BaekJoon] 골드바흐의 추측 (Python)
 #### Blog : https://bit.ly/3Corjfj
+
+### DAY649 (2022.03.12)
+#### [BaekJoon] 생일 출력하기 (Python)
+#### Blog : https://bit.ly/3i1AWXT
