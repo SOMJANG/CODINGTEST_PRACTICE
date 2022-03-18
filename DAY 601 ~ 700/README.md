@@ -201,3 +201,7 @@
 ### DAY651 (2022.03.16)
 #### [BaekJoon] 큰 수 (BIG) (Python)
 #### Blog : https://bit.ly/3JhtZy1
+
+### DAY652 (2022.03.18)
+#### [BaekJoon] 고려대는 사랑입니다 (Python)
+#### Blog : https://bit.ly/3qfXokE
