@@ -205,3 +205,7 @@
 ### DAY652 (2022.03.18)
 #### [BaekJoon] 고려대는 사랑입니다 (Python)
 #### Blog : https://bit.ly/3qfXokE
+
+### DAY653 (2022.03.19)
+#### [BaekJoon] 방학 숙제 (Python)
+#### Blog : https://bit.ly/3Isxmki
