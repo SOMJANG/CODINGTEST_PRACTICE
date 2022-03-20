@@ -209,3 +209,7 @@
 ### DAY653 (2022.03.19)
 #### [BaekJoon] 방학 숙제 (Python)
 #### Blog : https://bit.ly/3Isxmki
+
+### DAY654 (2022.03.20)
+#### [BaekJoon] 나부 함대 데이터 (Python)
+#### Blog : https://bit.ly/3L2uD2V
