@@ -213,3 +213,7 @@
 ### DAY654 (2022.03.20)
 #### [BaekJoon] 나부 함대 데이터 (Python)
 #### Blog : https://bit.ly/3L2uD2V
+
+### DAY655 (2022.03.21)
+#### [BaekJoon] A/B - 3 (Python)
+#### Blog : https://bit.ly/3invChz
