@@ -217,3 +217,7 @@
 ### DAY655 (2022.03.21)
 #### [BaekJoon] A/B - 3 (Python)
 #### Blog : https://bit.ly/3invChz
+
+### DAY656 (2022.03.22)
+#### [BaekJoon] 꼬마 정민 (Python)
+#### Blog : https://bit.ly/3wIOQa7
