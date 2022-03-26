@@ -233,3 +233,7 @@
 ### DAY659 (2022.03.25)
 #### [BaekJoon] 콜센터 (Python)
 #### Blog : https://bit.ly/3qBdaGU
+
+### DAY660 (2022.03.26)
+#### [BaekJoon] 엄청난 부자2 (Python)
+#### Blog : https://bit.ly/3iz9vFf
