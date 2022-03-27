@@ -237,3 +237,7 @@
 ### DAY660 (2022.03.26)
 #### [BaekJoon] 엄청난 부자2 (Python)
 #### Blog : https://bit.ly/3iz9vFf
+
+### DAY661 (2022.03.27)
+#### [BaekJoon] 오늘의 날짜는? (Python)
+#### Blog : https://bit.ly/36qld2x
