@@ -241,3 +241,7 @@
 ### DAY661 (2022.03.27)
 #### [BaekJoon] 오늘의 날짜는? (Python)
 #### Blog : https://bit.ly/36qld2x
+
+### DAY662 (2022.03.28)
+#### [BaekJoon] 심부름 가는 길 (Python)
+#### Blog :  https://bit.ly/3wJJw6b
