@@ -249,3 +249,7 @@
 ### DAY663 (2022.03.29)
 #### [BaekJoon] 웰컴 (Python)
 #### Blog :  https://bit.ly/3DiCWoo
+
+### DAY664 (2022.03.30)
+#### [BaekJoon] 타임카드 (Python)
+#### Blog :  https://bit.ly/3K6PXUV
