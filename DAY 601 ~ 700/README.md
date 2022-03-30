@@ -253,3 +253,7 @@
 ### DAY664 (2022.03.30)
 #### [BaekJoon] 타임카드 (Python)
 #### Blog :  https://bit.ly/3K6PXUV
+
+### DAY665 (2022.03.31)
+#### [BaekJoon] 이상한 기호 (Python)
+#### Blog :  https://bit.ly/3JS4xPR
