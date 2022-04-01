@@ -257,3 +257,7 @@
 ### DAY665 (2022.03.31)
 #### [BaekJoon] 이상한 기호 (Python)
 #### Blog :  https://bit.ly/3JS4xPR
+
+### DAY666 (2022.04.01)
+#### [BaekJoon] 사파리월드 (Python)
+#### Blog :  https://bit.ly/3tYXb7D
