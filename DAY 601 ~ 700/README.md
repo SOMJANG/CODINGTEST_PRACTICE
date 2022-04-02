@@ -261,3 +261,7 @@
 ### DAY666 (2022.04.01)
 #### [BaekJoon] 사파리월드 (Python)
 #### Blog :  https://bit.ly/3tYXb7D
+
+### DAY667 (2022.04.02)
+#### [BaekJoon] 인공지능 시계 (Python)
+#### Blog :  https://bit.ly/3qStqDl
