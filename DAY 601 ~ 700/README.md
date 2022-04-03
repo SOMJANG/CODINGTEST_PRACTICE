@@ -269,3 +269,7 @@
 ### DAY668 (2022.04.03)
 #### [BaekJoon] 한별 찍기 (Python)
 #### Blog :  https://bit.ly/379WiA0
+
+### DAY669 (2022.04.04)
+#### [BaekJoon] 새로운 시작 (Python)
+#### Blog :  https://bit.ly/3NVDRAe
