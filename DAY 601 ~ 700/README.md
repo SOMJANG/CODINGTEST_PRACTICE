@@ -265,3 +265,7 @@
 ### DAY667 (2022.04.02)
 #### [BaekJoon] 인공지능 시계 (Python)
 #### Blog :  https://bit.ly/3qStqDl
+
+### DAY668 (2022.04.03)
+#### [BaekJoon] 한별 찍기 (Python)
+#### Blog :  https://bit.ly/379WiA0
