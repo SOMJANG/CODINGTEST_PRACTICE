@@ -273,3 +273,7 @@
 ### DAY669 (2022.04.04)
 #### [BaekJoon] 새로운 시작 (Python)
 #### Blog :  https://bit.ly/3NVDRAe
+
+### DAY670 (2022.04.05)
+#### [BaekJoon] 달달함이 넘쳐흘러 (Python)
+#### Blog :  https://bit.ly/3DCzTrc
