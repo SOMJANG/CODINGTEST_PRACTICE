@@ -277,3 +277,7 @@
 ### DAY670 (2022.04.05)
 #### [BaekJoon] 달달함이 넘쳐흘러 (Python)
 #### Blog :  https://bit.ly/3DCzTrc
+
+### DAY671 (2022.04.06)
+#### [BaekJoon] 스타후르츠 (Python)
+#### Blog :  https://bit.ly/36ZIeJR
