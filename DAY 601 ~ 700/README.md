@@ -281,3 +281,7 @@
 ### DAY671 (2022.04.06)
 #### [BaekJoon] 스타후르츠 (Python)
 #### Blog :  https://bit.ly/36ZIeJR
+
+### DAY672 (2022.04.07)
+#### [BaekJoon] 제리와 톰 (Python)
+#### Blog :  https://bit.ly/3v1dRdU
