@@ -289,3 +289,7 @@
 ### DAY673 (2022.04.08)
 #### [BaekJoon] 세금 (Python)
 #### Blog :  https://bit.ly/3jiO8Z7
+
+### DAY674 (2022.04.09)
+#### [BaekJoon] 수도요금 (Python)
+#### Blog :  https://bit.ly/3LIu1zI
