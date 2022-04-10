@@ -293,3 +293,7 @@
 ### DAY674 (2022.04.09)
 #### [BaekJoon] 수도요금 (Python)
 #### Blog :  https://bit.ly/3LIu1zI
+
+### DAY675 (2022.04.10)
+#### [BaekJoon] 삼각형 외우기 (Python)
+#### Blog :  https://bit.ly/3xbrFW5
