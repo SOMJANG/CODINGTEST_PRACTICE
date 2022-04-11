@@ -297,3 +297,7 @@
 ### DAY675 (2022.04.10)
 #### [BaekJoon] 삼각형 외우기 (Python)
 #### Blog :  https://bit.ly/3xbrFW5
+
+### DAY676 (2022.04.11)
+#### [BaekJoon] 카드 게임 (Python)
+#### Blog :  https://bit.ly/3v3Bh2w
