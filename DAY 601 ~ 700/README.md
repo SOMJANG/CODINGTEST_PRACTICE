@@ -305,3 +305,7 @@
 ### DAY677 (2022.04.14)
 #### [BaekJoon] 초6 수학 (Python)
 #### Blog :  https://bit.ly/3uEm8Wk
+
+### DAY678 (2022.04.15)
+#### [BaekJoon] AFC 윔블던 (Python)
+#### Blog :  https://bit.ly/3jAixSS
