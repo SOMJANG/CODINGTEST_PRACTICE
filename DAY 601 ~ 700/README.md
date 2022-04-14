@@ -301,3 +301,7 @@
 ### DAY676 (2022.04.11)
 #### [BaekJoon] 카드 게임 (Python)
 #### Blog :  https://bit.ly/3v3Bh2w
+
+### DAY677 (2022.04.14)
+#### [BaekJoon] 초6 수학 (Python)
+#### Blog :  https://bit.ly/3uEm8Wk
