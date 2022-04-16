@@ -309,3 +309,7 @@
 ### DAY678 (2022.04.15)
 #### [BaekJoon] AFC 윔블던 (Python)
 #### Blog :  https://bit.ly/3jAixSS
+
+### DAY679 (2022.04.16)
+#### [BaekJoon] 24 (Python)
+#### Blog :  https://bit.ly/3EyohGx
