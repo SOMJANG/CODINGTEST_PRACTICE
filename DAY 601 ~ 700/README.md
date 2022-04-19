@@ -321,3 +321,7 @@
 ### DAY681 (2022.04.18)
 #### [BaekJoon] 피보나치 수 2 (Python)
 #### Blog :  https://bit.ly/3EpJPEX
+
+### DAY682 (2022.04.19)
+#### [BaekJoon] 과목선택 (Python)
+#### Blog :  https://bit.ly/3rzTvaR
