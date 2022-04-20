@@ -325,3 +325,7 @@
 ### DAY682 (2022.04.19)
 #### [BaekJoon] 과목선택 (Python)
 #### Blog :  https://bit.ly/3rzTvaR
+
+### DAY683 (2022.04.20)
+#### [BaekJoon] 지능형 기차 2 (Python)
+#### Blog :  https://bit.ly/3OjXZMp
