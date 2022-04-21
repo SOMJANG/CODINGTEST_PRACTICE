@@ -329,3 +329,7 @@
 ### DAY683 (2022.04.20)
 #### [BaekJoon] 지능형 기차 2 (Python)
 #### Blog :  https://bit.ly/3OjXZMp
+
+### DAY684 (2022.04.21)
+#### [BaekJoon] 파티가 끝나고 난 뒤 (Python)
+#### Blog :  https://bit.ly/3Et0UxZ
