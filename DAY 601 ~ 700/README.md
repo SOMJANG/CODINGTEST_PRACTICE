@@ -333,3 +333,7 @@
 ### DAY684 (2022.04.21)
 #### [BaekJoon] 파티가 끝나고 난 뒤 (Python)
 #### Blog :  https://bit.ly/3Et0UxZ
+
+### DAY685 (2022.04.22)
+#### [BaekJoon] 기상청 인턴 신현수 (Python)
+#### Blog :  https://bit.ly/3k0q0uK
