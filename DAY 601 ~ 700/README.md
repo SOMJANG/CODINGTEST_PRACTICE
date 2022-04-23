@@ -337,3 +337,7 @@
 ### DAY685 (2022.04.22)
 #### [BaekJoon] 기상청 인턴 신현수 (Python)
 #### Blog :  https://bit.ly/3k0q0uK
+
+### DAY686 (2022.04.23)
+#### [BaekJoon] 수열 정렬 (Python)
+#### Blog :  https://bit.ly/38iEJ1a
