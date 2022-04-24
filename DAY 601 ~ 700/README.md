@@ -345,3 +345,7 @@
 ### DAY687 (2022.04.24)
 #### [BaekJoon] N번째 큰 수 (Python)
 #### Blog :  https://bit.ly/37CnBUk
+
+### DAY688 (2022.04.25)
+#### [BaekJoon] 감소하는 수 (Python)
+#### Blog :  https://bit.ly/3vCtOYw
