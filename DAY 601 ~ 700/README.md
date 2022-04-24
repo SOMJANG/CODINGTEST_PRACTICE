@@ -341,3 +341,7 @@
 ### DAY686 (2022.04.23)
 #### [BaekJoon] 수열 정렬 (Python)
 #### Blog :  https://bit.ly/38iEJ1a
+
+### DAY687 (2022.04.24)
+#### [BaekJoon] N번째 큰 수 (Python)
+#### Blog :  https://bit.ly/37CnBUk
