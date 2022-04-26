@@ -349,3 +349,7 @@
 ### DAY688 (2022.04.25)
 #### [BaekJoon] 감소하는 수 (Python)
 #### Blog :  https://bit.ly/3vCtOYw
+
+### DAY689 (2022.04.26)
+#### [BaekJoon] 홍익대학교 (Python)
+#### Blog :  https://bit.ly/3vfQPBm
