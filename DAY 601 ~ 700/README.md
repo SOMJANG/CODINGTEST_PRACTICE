@@ -353,3 +353,7 @@
 ### DAY689 (2022.04.26)
 #### [BaekJoon] 홍익대학교 (Python)
 #### Blog :  https://bit.ly/3vfQPBm
+
+### DAY690 (2022.04.27)
+#### [BaekJoon] TV 크기 (Python)
+#### Blog :  https://bit.ly/3LkQUJC
