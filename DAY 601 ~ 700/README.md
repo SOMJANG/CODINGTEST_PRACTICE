@@ -357,3 +357,7 @@
 ### DAY690 (2022.04.27)
 #### [BaekJoon] TV 크기 (Python)
 #### Blog :  https://bit.ly/3LkQUJC
+
+### DAY691 (2022.04.28)
+#### [BaekJoon] 특별한 날 (Python)
+#### Blog :  https://bit.ly/3vl1P0e
