@@ -361,3 +361,7 @@
 ### DAY691 (2022.04.28)
 #### [BaekJoon] 특별한 날 (Python)
 #### Blog :  https://bit.ly/3vl1P0e
+
+### DAY692 (2022.04.29)
+#### [BaekJoon] 지수연산 (Python)
+#### Blog :  https://bit.ly/3LpCyrF
