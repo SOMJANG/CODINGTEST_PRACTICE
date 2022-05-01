@@ -369,3 +369,7 @@
 ### DAY693 (2022.04.30)
 #### [BaekJoon] 큰 수 계산 (Python)
 #### Blog :  https://bit.ly/3F0VYk1
+
+### DAY694 (2022.05.01)
+#### [BaekJoon] 새싹 (Python)
+#### Blog :  https://bit.ly/3s1umpC
