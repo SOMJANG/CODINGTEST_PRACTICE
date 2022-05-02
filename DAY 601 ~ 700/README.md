@@ -373,3 +373,7 @@
 ### DAY694 (2022.05.01)
 #### [BaekJoon] 새싹 (Python)
 #### Blog :  https://bit.ly/3s1umpC
+
+### DAY695 (2022.05.02)
+#### [BaekJoon] 오늘은 OS 숙제 제출일 (Python)
+#### Blog :  https://bit.ly/37TP3Nu
