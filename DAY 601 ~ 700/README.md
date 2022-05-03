@@ -377,3 +377,7 @@
 ### DAY695 (2022.05.02)
 #### [BaekJoon] 오늘은 OS 숙제 제출일 (Python)
 #### Blog :  https://bit.ly/37TP3Nu
+
+### DAY696 (2022.05.03)
+#### [BaekJoon] 행렬 덧셈 (Python)
+#### Blog :  https://bit.ly/3s7NHFA
