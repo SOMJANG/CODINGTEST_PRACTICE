@@ -381,3 +381,7 @@
 ### DAY696 (2022.05.03)
 #### [BaekJoon] 행렬 덧셈 (Python)
 #### Blog :  https://bit.ly/3s7NHFA
+
+### DAY697 (2022.05.04)
+#### [BaekJoon] D-Day (Python)
+#### Blog :  https://bit.ly/3KN0eVO
