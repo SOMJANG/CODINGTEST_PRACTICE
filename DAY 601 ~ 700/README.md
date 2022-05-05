@@ -385,3 +385,7 @@
 ### DAY697 (2022.05.04)
 #### [BaekJoon] D-Day (Python)
 #### Blog :  https://bit.ly/3KN0eVO
+
+### DAY698 (2022.05.05)
+#### [BaekJoon] 나이 계산하기 (Python)
+#### Blog :  https://bit.ly/3FgtWBf
