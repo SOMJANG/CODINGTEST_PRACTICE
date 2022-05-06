@@ -389,3 +389,7 @@
 ### DAY698 (2022.05.05)
 #### [BaekJoon] 나이 계산하기 (Python)
 #### Blog :  https://bit.ly/3FgtWBf
+
+### DAY699 (2022.05.06)
+#### [BaekJoon] 더하기 (Python)
+#### Blog : https://bit.ly/3ykiKCi
