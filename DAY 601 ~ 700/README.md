@@ -393,3 +393,7 @@
 ### DAY699 (2022.05.06)
 #### [BaekJoon] 더하기 (Python)
 #### Blog : https://bit.ly/3ykiKCi
+
+### DAY700 (2022.05.07)
+#### [BaekJoon] 학생 번호 (Python)
+#### Blog : https://bit.ly/3P3zG5T
