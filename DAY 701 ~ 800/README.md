@@ -17,3 +17,7 @@
 ### DAY705 (2022.05.12)
 #### [BaekJoon] 이진수 덧셈 (Python)
 #### Blog : https://bit.ly/3NbSVrY
+
+### DAY706 (2022.05.13)
+#### [BaekJoon] NFC West vs North (Python)
+#### Blog : https://bit.ly/3Pbr650
