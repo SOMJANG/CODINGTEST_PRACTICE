@@ -23,5 +23,9 @@
 #### Blog : https://bit.ly/3Pbr650
 
 ### DAY707 (2022.05.14)
-#### [BaekJoon]  (Python)
+#### [BaekJoon] 킹, 퀸, 룩, 비숍, 나이트, 폰 (Python)
 #### Blog : https://bit.ly/3MfSGw4
+
+### DAY708 (2022.05.15)
+#### [BaekJoon] 팀 나누기 (Python)
+#### Blog : https://bit.ly/39kSdu0
