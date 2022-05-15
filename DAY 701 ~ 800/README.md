@@ -21,3 +21,7 @@
 ### DAY706 (2022.05.13)
 #### [BaekJoon] NFC West vs North (Python)
 #### Blog : https://bit.ly/3Pbr650
+
+### DAY707 (2022.05.14)
+#### [BaekJoon]  (Python)
+#### Blog : https://bit.ly/3MfSGw4
