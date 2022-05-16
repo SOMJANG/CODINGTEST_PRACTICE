@@ -29,3 +29,7 @@
 ### DAY708 (2022.05.15)
 #### [BaekJoon] 팀 나누기 (Python)
 #### Blog : https://bit.ly/39kSdu0
+
+### DAY709 (2022.05.16)
+#### [BaekJoon] 연세대학교 (Python)
+#### Blog : https://bit.ly/3sClszs
