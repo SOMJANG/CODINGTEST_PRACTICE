@@ -37,3 +37,7 @@
 ### DAY710 (2022.05.17)
 #### [BaekJoon] 페이지 세기 (Python)
 #### Blog : https://bit.ly/3Pqohxi
+
+### DAY711 (2022.05.18)
+#### [BaekJoon] 핸드폰 요금 (Python)
+#### Blog : https://bit.ly/3wubTnf
