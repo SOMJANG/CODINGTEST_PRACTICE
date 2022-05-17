@@ -33,3 +33,7 @@
 ### DAY709 (2022.05.16)
 #### [BaekJoon] 연세대학교 (Python)
 #### Blog : https://bit.ly/3sClszs
+
+### DAY710 (2022.05.17)
+#### [BaekJoon] 페이지 세기 (Python)
+#### Blog : https://bit.ly/3Pqohxi
