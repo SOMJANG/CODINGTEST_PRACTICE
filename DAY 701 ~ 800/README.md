@@ -41,3 +41,7 @@
 ### DAY711 (2022.05.18)
 #### [BaekJoon] 핸드폰 요금 (Python)
 #### Blog : https://bit.ly/3wubTnf
+
+### DAY712 (2022.05.19)
+#### [BaekJoon] The World Responds (Python)
+#### Blog : https://bit.ly/3PF9sae
