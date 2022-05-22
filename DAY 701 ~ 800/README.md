@@ -53,3 +53,7 @@
 ### DAY714 (2022.05.21)
 #### [BaekJoon] 계산기 프로그램 (Python)
 #### Blog : https://bit.ly/3yOmhJa
+
+### DAY715 (2022.05.22)
+#### [BaekJoon] Multiply (Python)
+#### Blog : https://bit.ly/3wxpU4z
