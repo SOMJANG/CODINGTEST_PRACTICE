@@ -57,3 +57,7 @@
 ### DAY715 (2022.05.22)
 #### [BaekJoon] Multiply (Python)
 #### Blog : https://bit.ly/3wxpU4z
+
+### DAY716 (2022.05.23)
+#### [BaekJoon] 헛간 청약 (Python)
+#### Blog : https://bit.ly/3G7wXnO
