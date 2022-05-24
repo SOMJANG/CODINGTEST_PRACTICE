@@ -65,3 +65,7 @@
 ### DAY717 (2022.05.24)
 #### [BaekJoon] 오각형, 오각형, 오각형... (Python)
 #### Blog : https://bit.ly/3wGVrA9
+
+### DAY718 (2022.05.25)
+#### [BaekJoon] Football Scoring (Python)
+#### Blog : https://bit.ly/3sVuYOe
