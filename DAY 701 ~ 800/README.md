@@ -61,3 +61,7 @@
 ### DAY716 (2022.05.23)
 #### [BaekJoon] 헛간 청약 (Python)
 #### Blog : https://bit.ly/3G7wXnO
+
+### DAY717 (2022.05.24)
+#### [BaekJoon] 오각형, 오각형, 오각형... (Python)
+#### Blog : https://bit.ly/3wGVrA9
