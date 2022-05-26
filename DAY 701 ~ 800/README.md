@@ -69,3 +69,7 @@
 ### DAY718 (2022.05.25)
 #### [BaekJoon] Football Scoring (Python)
 #### Blog : https://bit.ly/3sVuYOe
+
+### DAY719 (2022.05.26)
+#### [BaekJoon] Site Score (Python)
+#### Blog : https://bit.ly/3sTFvJQ
