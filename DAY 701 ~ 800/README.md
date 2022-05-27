@@ -73,3 +73,7 @@
 ### DAY719 (2022.05.26)
 #### [BaekJoon] Site Score (Python)
 #### Blog : https://bit.ly/3sTFvJQ
+
+### DAY720 (2022.05.27)
+#### [BaekJoon] Bottle Return (Python)
+#### Blog : https://bit.ly/3wStSUt
