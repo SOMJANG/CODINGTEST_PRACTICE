@@ -77,3 +77,7 @@
 ### DAY720 (2022.05.27)
 #### [BaekJoon] Bottle Return (Python)
 #### Blog : https://bit.ly/3wStSUt
+
+### DAY721 (2022.05.28)
+#### [BaekJoon] Cupcake Party (Python)
+#### Blog : https://bit.ly/3N3L1BG
