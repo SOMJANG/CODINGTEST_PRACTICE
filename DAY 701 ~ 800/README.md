@@ -89,3 +89,7 @@
 ### DAY723 (2022.05.30)
 #### [BaekJoon] 수 뒤집기 (Python)
 #### Blog : https://bit.ly/3wW6RRT
+
+### DAY724 (2022.05.31)
+#### [BaekJoon] 숫자 놀이 (Python)
+#### Blog : https://bit.ly/3N1supv
