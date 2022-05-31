@@ -93,3 +93,7 @@
 ### DAY724 (2022.05.31)
 #### [BaekJoon] 숫자 놀이 (Python)
 #### Blog : https://bit.ly/3N1supv
+
+### DAY725 (2022.06.01)
+#### [BaekJoon] 감정이입 (Python)
+#### Blog : https://bit.ly/3Ndg0LG
