@@ -97,3 +97,7 @@
 ### DAY725 (2022.06.01)
 #### [BaekJoon] 감정이입 (Python)
 #### Blog : https://bit.ly/3Ndg0LG
+
+### DAY726 (2022.06.02)
+#### [BaekJoon] Rats (Python)
+#### Blog : https://bit.ly/3x5Zg1M
