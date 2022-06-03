@@ -101,3 +101,7 @@
 ### DAY726 (2022.06.02)
 #### [BaekJoon] Rats (Python)
 #### Blog : https://bit.ly/3x5Zg1M
+
+### DAY727 (2022.06.03)
+#### [BaekJoon] 나는 행복합니다~ (Python)
+#### Blog : https://bit.ly/3NnrkF6
