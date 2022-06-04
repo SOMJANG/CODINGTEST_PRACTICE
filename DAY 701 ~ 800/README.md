@@ -105,3 +105,7 @@
 ### DAY727 (2022.06.03)
 #### [BaekJoon] 나는 행복합니다~ (Python)
 #### Blog : https://bit.ly/3NnrkF6
+
+### DAY728 (2022.06.04)
+#### [BaekJoon] 운동장 한 바퀴 (Python)
+#### Blog : https://bit.ly/3GMHmWu
