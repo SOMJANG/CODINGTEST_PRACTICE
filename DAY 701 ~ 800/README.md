@@ -109,3 +109,7 @@
 ### DAY728 (2022.06.04)
 #### [BaekJoon] 운동장 한 바퀴 (Python)
 #### Blog : https://bit.ly/3GMHmWu
+
+### DAY729 (2022.06.05)
+#### [BaekJoon] 5의 수난 (Python)
+#### Blog : https://bit.ly/3meBwDF
