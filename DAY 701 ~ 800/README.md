@@ -114,6 +114,10 @@
 #### [BaekJoon] 5의 수난 (Python)
 #### Blog : https://bit.ly/3meBwDF
 
-### DAY730 (2022.06.65)
+### DAY730 (2022.06.06)
 #### [BaekJoon] 개수 세기 (Python)
 #### Blog : https://bit.ly/3aurlIv
+
+### DAY731 (2022.06.07)
+#### [BaekJoon] 분수찾기 (Python)
+#### Blog : https://bit.ly/3atUWSC
