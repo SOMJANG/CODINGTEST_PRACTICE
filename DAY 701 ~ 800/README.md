@@ -121,3 +121,7 @@
 ### DAY731 (2022.06.07)
 #### [BaekJoon] 분수찾기 (Python)
 #### Blog : https://bit.ly/3atUWSC
+
+### DAY732 (2022.06.08)
+#### [BaekJoon] 비밀번호 발음하기 (Python)
+#### Blog : https://bit.ly/3aKDl8V
