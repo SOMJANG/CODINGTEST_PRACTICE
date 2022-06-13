@@ -133,3 +133,7 @@
 ### DAY734 (2022.06.12)
 #### [BaekJoon] 가희와 방어율 무시 (Python)
 #### Blog : https://bit.ly/3HhBcOg
+
+### DAY735 (2022.06.13)
+#### [BaekJoon] 거스름돈 (Python)
+#### Blog : https://bit.ly/3xizaIY
