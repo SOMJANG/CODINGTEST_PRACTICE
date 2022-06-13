@@ -137,3 +137,7 @@
 ### DAY735 (2022.06.13)
 #### [BaekJoon] 거스름돈 (Python)
 #### Blog : https://bit.ly/3xizaIY
+
+### DAY736 (2022.06.14)
+#### [BaekJoon] 쉽게 푸는 문제 (Python)
+#### Blog : https://bit.ly/3txAFlA
