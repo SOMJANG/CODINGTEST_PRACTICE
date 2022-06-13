@@ -129,3 +129,7 @@
 ### DAY733 (2022.06.11)
 #### [BaekJoon] 무알콜 칵테일 (Python)
 #### Blog : https://bit.ly/3aIJrGP
+
+### DAY734 (2022.06.12)
+#### [BaekJoon] 가희와 방어율 무시 (Python)
+#### Blog : https://bit.ly/3HhBcOg
