@@ -145,3 +145,7 @@
 ### DAY737 (2022.06.15)
 #### [BaekJoon] 피보나치 수 5 (Python)
 #### Blog : https://bit.ly/39s7pG9
+
+### DAY738 (2022.06.16)
+#### [BaekJoon] 네 번째 수 (Python)
+#### Blog : https://bit.ly/3xyXLJV
