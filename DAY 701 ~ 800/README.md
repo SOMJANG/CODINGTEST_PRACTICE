@@ -149,3 +149,7 @@
 ### DAY738 (2022.06.16)
 #### [BaekJoon] 네 번째 수 (Python)
 #### Blog : https://bit.ly/3xyXLJV
+
+### DAY739 (2022.06.17)
+#### [BaekJoon] 치킨 두 마리 (...) (Python)
+#### Blog : https://bit.ly/3O2Inwp
