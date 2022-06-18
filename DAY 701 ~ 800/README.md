@@ -153,3 +153,7 @@
 ### DAY739 (2022.06.17)
 #### [BaekJoon] 치킨 두 마리 (...) (Python)
 #### Blog : https://bit.ly/3O2Inwp
+
+### DAY740 (2022.06.18)
+#### [BaekJoon] 피보나치 수 4 (Python)
+#### Blog : https://bit.ly/3xD4OkB
