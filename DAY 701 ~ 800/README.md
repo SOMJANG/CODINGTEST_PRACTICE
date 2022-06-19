@@ -157,3 +157,7 @@
 ### DAY740 (2022.06.18)
 #### [BaekJoon] 피보나치 수 4 (Python)
 #### Blog : https://bit.ly/3xD4OkB
+
+### DAY741 (2022.06.19)
+#### [BaekJoon] 버그왕 (Python)
+#### Blog : https://bit.ly/3Qx3fxd
