@@ -161,3 +161,7 @@
 ### DAY741 (2022.06.19)
 #### [BaekJoon] 버그왕 (Python)
 #### Blog : https://bit.ly/3Qx3fxd
+
+### DAY742 (2022.06.20)
+#### [BaekJoon] 대표값 (Python)
+#### Blog : https://bit.ly/3N82Le2
