@@ -165,3 +165,7 @@
 ### DAY742 (2022.06.20)
 #### [BaekJoon] 대표값 (Python)
 #### Blog : https://bit.ly/3N82Le2
+
+### DAY743 (2022.06.21)
+#### [BaekJoon] 점수계산 (Python)
+#### Blog : https://bit.ly/3zM3MWb
