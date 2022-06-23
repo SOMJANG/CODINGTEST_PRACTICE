@@ -169,3 +169,7 @@
 ### DAY743 (2022.06.21)
 #### [BaekJoon] 점수계산 (Python)
 #### Blog : https://bit.ly/3zM3MWb
+
+### DAY744 (2022.06.23)
+#### [BaekJoon] Equality (Python)
+#### Blog : https://bit.ly/3ydkKeY
