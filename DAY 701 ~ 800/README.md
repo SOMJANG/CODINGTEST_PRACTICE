@@ -173,3 +173,7 @@
 ### DAY744 (2022.06.23)
 #### [BaekJoon] Equality (Python)
 #### Blog : https://bit.ly/3ydkKeY
+
+### DAY745 (2022.06.24)
+#### [BaekJoon] 배수 찾기 (Python)
+#### Blog : https://bit.ly/3A1Q2ab
