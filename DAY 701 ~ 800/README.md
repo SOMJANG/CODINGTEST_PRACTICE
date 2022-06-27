@@ -177,3 +177,7 @@
 ### DAY745 (2022.06.24)
 #### [BaekJoon] 배수 찾기 (Python)
 #### Blog : https://bit.ly/3A1Q2ab
+
+### DAY746 (2022.06.27)
+#### [BaekJoon] 약수 구하기 (Python)
+#### Blog : https://bit.ly/3QNDwAV
