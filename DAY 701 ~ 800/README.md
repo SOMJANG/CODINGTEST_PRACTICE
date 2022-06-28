@@ -181,3 +181,7 @@
 ### DAY746 (2022.06.27)
 #### [BaekJoon] 약수 구하기 (Python)
 #### Blog : https://bit.ly/3QNDwAV
+
+### DAY747 (2022.06.28)
+#### [BaekJoon] 다음수 (Python)
+#### Blog : https://bit.ly/3HWc28f
