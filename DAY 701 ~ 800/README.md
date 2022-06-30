@@ -189,3 +189,7 @@
 ### DAY748 (2022.06.30)
 #### [BaekJoon] 영수증 (Python)
 #### Blog : https://bit.ly/3I5tibd
+
+### DAY749 (2022.07.01)
+#### [BaekJoon] 자동완성 (Python)
+#### Blog : https://bit.ly/3NBITjM
