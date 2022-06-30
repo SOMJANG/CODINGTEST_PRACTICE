@@ -185,3 +185,7 @@
 ### DAY747 (2022.06.28)
 #### [BaekJoon] 다음수 (Python)
 #### Blog : https://bit.ly/3HWc28f
+
+### DAY748 (2022.06.30)
+#### [BaekJoon] 영수증 (Python)
+#### Blog : https://bit.ly/3I5tibd
