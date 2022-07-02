@@ -193,3 +193,7 @@
 ### DAY749 (2022.07.01)
 #### [BaekJoon] 자동완성 (Python)
 #### Blog : https://bit.ly/3NBITjM
+
+### DAY750 (2022.07.02)
+#### [BaekJoon] 최대공약수 (Python)
+#### Blog : https://bit.ly/3I8yM4R
