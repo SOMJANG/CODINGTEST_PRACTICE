@@ -201,3 +201,7 @@
 ### DAY751 (2022.07.03)
 #### [BaekJoon] 뉴비의 기준은 뭘까? (Python)
 #### Blog : https://bit.ly/3IaZ4U8
+
+### DAY752 (2022.07.04)
+#### [BaekJoon] 희주의 수학시험 (Python)
+#### Blog : https://bit.ly/3NF22Bq
