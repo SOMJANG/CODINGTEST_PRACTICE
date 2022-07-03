@@ -197,3 +197,7 @@
 ### DAY750 (2022.07.02)
 #### [BaekJoon] 최대공약수 (Python)
 #### Blog : https://bit.ly/3I8yM4R
+
+### DAY751 (2022.07.03)
+#### [BaekJoon] 뉴비의 기준은 뭘까? (Python)
+#### Blog : https://bit.ly/3IaZ4U8
