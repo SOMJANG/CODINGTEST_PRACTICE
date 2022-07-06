@@ -209,3 +209,7 @@
 ### DAY753 (2022.07.05)
 #### [BaekJoon] 이진수 덧셈 (Python)
 #### Blog : https://bit.ly/3adv7q0
+
+### DAY754 (2022.07.06)
+#### [BaekJoon] 펫 (Python)
+#### Blog : https://bit.ly/3yKmfBw
