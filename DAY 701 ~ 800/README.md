@@ -213,3 +213,7 @@
 ### DAY754 (2022.07.06)
 #### [BaekJoon] 펫 (Python)
 #### Blog : https://bit.ly/3yKmfBw
+
+### DAY755 (2022.07.07)
+#### [BaekJoon] 뜨거운 붕어빵 (Python)
+#### Blog : https://bit.ly/3yqk5pp
