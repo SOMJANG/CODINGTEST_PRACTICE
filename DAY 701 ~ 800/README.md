@@ -214,6 +214,10 @@
 #### [BaekJoon] 펫 (Python)
 #### Blog : https://bit.ly/3yKmfBw
 
-### DAY755 (2022.07.07)
+### DAY755 (2022.07.08)
 #### [BaekJoon] 뜨거운 붕어빵 (Python)
 #### Blog : https://bit.ly/3yqk5pp
+
+### DAY756 (2022.07.10)
+#### [BaekJoon] 코딩은 체육과목 입니다 (Python)
+#### Blog : https://bit.ly/3ItiGDl
