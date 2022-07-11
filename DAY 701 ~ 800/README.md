@@ -221,3 +221,7 @@
 ### DAY756 (2022.07.10)
 #### [BaekJoon] 코딩은 체육과목 입니다 (Python)
 #### Blog : https://bit.ly/3ItiGDl
+
+### DAY757 (2022.07.11)
+#### [BaekJoon] Winning Score (Python)
+#### Blog : https://bit.ly/3RowuD3
