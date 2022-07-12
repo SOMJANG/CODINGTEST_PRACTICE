@@ -225,3 +225,7 @@
 ### DAY757 (2022.07.11)
 #### [BaekJoon] Winning Score (Python)
 #### Blog : https://bit.ly/3RowuD3
+
+### DAY758 (2022.07.12)
+#### [BaekJoon] Gnome Sequencing (Python)
+#### Blog : https://bit.ly/3uzb1NZ
