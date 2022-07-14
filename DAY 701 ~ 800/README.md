@@ -229,3 +229,7 @@
 ### DAY758 (2022.07.12)
 #### [BaekJoon] Gnome Sequencing (Python)
 #### Blog : https://bit.ly/3uzb1NZ
+
+### DAY759 (2022.07.14)
+#### [BaekJoon] UCPC에서 가장 쉬운 문제 번호는? (Python)
+#### Blog : https://bit.ly/3z53Ob9
