@@ -233,3 +233,7 @@
 ### DAY759 (2022.07.14)
 #### [BaekJoon] UCPC에서 가장 쉬운 문제 번호는? (Python)
 #### Blog : https://bit.ly/3z53Ob9
+
+### DAY760 (2022.07.15)
+#### [BaekJoon] 동전 게임 (Python)
+#### Blog : https://bit.ly/3IE5Wd7
