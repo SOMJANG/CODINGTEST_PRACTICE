@@ -237,3 +237,11 @@
 ### DAY760 (2022.07.15)
 #### [BaekJoon] 동전 게임 (Python)
 #### Blog : https://bit.ly/3IE5Wd7
+
+### DAY761 (2022.07.16)
+#### [BaekJoon] 팬들에게 둘러싸인 홍준 (Python)
+#### Blog : https://bit.ly/3zcC7x1
+
+### DAY762 (2022.07.17)
+#### [BaekJoon] 짝수를 찾아라 (Python)
+#### Blog : https://bit.ly/3PfxB6y
