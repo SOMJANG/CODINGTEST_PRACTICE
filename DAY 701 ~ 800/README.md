@@ -245,3 +245,7 @@
 ### DAY762 (2022.07.17)
 #### [BaekJoon] 짝수를 찾아라 (Python)
 #### Blog : https://bit.ly/3PfxB6y
+
+### DAY763 (2022.07.18)
+#### [BaekJoon] 성택이의 은밀한 비밀번호 (Python)
+#### Blog : https://bit.ly/3aMpyPy
