@@ -246,6 +246,10 @@
 #### [BaekJoon] 짝수를 찾아라 (Python)
 #### Blog : https://bit.ly/3PfxB6y
 
-### DAY763 (2022.07.18)
+### DAY763 (2022.07.19)
 #### [BaekJoon] 성택이의 은밀한 비밀번호 (Python)
 #### Blog : https://bit.ly/3aMpyPy
+
+### DAY764 (2022.07.21)
+#### [BaekJoon] 수학은 체육과목 입니다 2 (Python)
+#### Blog : https://bit.ly/3zn2Vuy
