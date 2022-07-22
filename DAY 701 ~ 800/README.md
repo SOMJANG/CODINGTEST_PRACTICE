@@ -256,4 +256,4 @@
 
 ### DAY765 (2022.07.22)
 #### [BaekJoon] 대표값2 (Python)
-#### Blog : https://bit.ly/3IUas7b
+#### Blog : https://bit.ly/3IUas7b 
