@@ -253,3 +253,7 @@
 ### DAY764 (2022.07.21)
 #### [BaekJoon] 수학은 체육과목 입니다 2 (Python)
 #### Blog : https://bit.ly/3zn2Vuy
+
+### DAY765 (2022.07.22)
+#### [BaekJoon] 대표값2 (Python)
+#### Blog : https://bit.ly/3IUas7b
