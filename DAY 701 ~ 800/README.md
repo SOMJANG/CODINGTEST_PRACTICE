@@ -257,3 +257,7 @@
 ### DAY765 (2022.07.22)
 #### [BaekJoon] 대표값2 (Python)
 #### Blog : https://bit.ly/3IUas7b 
+
+### DAY766 (2022.07.23)
+#### [BaekJoon] 와글와글 숭고한 (Python)
+#### Blog : https://bit.ly/3ve3eW3
