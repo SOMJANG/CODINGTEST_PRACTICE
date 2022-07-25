@@ -261,3 +261,11 @@
 ### DAY766 (2022.07.23)
 #### [BaekJoon] 와글와글 숭고한 (Python)
 #### Blog : https://bit.ly/3ve3eW3
+
+### DAY767 (2022.07.24)
+#### [BaekJoon] 중간계 전쟁 (Python)
+#### Blog : https://bit.ly/3z5jZE1
+
+### DAY768 (2022.07.25)
+#### [BaekJoon] 일반 화학 실험 (Python)
+#### Blog : https://bit.ly/3z7PMEr
