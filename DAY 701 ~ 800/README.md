@@ -269,3 +269,7 @@
 ### DAY768 (2022.07.25)
 #### [BaekJoon] 일반 화학 실험 (Python)
 #### Blog : https://bit.ly/3z7PMEr
+
+### DAY769 (2022.07.26)
+#### [BaekJoon] 욱 제 (Python)
+#### Blog : https://bit.ly/3b1obwy
