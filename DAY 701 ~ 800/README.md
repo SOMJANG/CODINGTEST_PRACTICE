@@ -273,3 +273,7 @@
 ### DAY769 (2022.07.26)
 #### [BaekJoon] 욱 제 (Python)
 #### Blog : https://bit.ly/3b1obwy
+
+### DAY770 (2022.07.28)
+#### [BaekJoon] 사장님 도박은 재미로 하셔야 합니다 (Python)
+#### Blog : https://bit.ly/3zdPyLX
