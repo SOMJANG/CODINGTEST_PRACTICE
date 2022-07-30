@@ -281,3 +281,7 @@
 ### DAY771 (2022.07.29)
 #### [BaekJoon] 한글 2 (Python)
 #### Blog : https://bit.ly/3PLKbKZ
+
+### DAY772 (2022.07.30)
+#### [BaekJoon] 한글 (Python)
+#### Blog : https://bit.ly/3bf1PaW
