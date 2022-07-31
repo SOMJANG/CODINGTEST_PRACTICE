@@ -289,3 +289,7 @@
 ### DAY773 (2022.07.31)
 #### [BaekJoon] 치킨 쿠폰 (Python)
 #### Blog : https://bit.ly/3bmFGaY
+
+### DAY774 (2022.08.01)
+#### [BaekJoon] 도비의 영어 공부 (Python)
+#### Blog : https://bit.ly/3OL04zV
