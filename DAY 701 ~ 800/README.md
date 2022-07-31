@@ -285,3 +285,7 @@
 ### DAY772 (2022.07.30)
 #### [BaekJoon] 한글 (Python)
 #### Blog : https://bit.ly/3bf1PaW
+
+### DAY773 (2022.07.31)
+#### [BaekJoon] 치킨 쿠폰 (Python)
+#### Blog : https://bit.ly/3bmFGaY
