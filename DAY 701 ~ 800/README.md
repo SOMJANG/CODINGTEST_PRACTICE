@@ -293,3 +293,7 @@
 ### DAY774 (2022.08.01)
 #### [BaekJoon] 도비의 영어 공부 (Python)
 #### Blog : https://bit.ly/3OL04zV
+
+### DAY775 (2022.08.02)
+#### [BaekJoon] 팰린드로미터 (Python)
+#### Blog : https://bit.ly/3bmsd2K
