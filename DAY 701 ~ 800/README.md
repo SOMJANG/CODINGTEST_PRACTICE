@@ -305,3 +305,7 @@
 ### DAY777 (2022.08.07)
 #### [BaekJoon] 입실 관리 (Python)
 #### Blog : https://bit.ly/3JBkeLW
+
+### DAY778 (2022.08.08)
+#### [BaekJoon] 치킨댄스를 추는 곰곰이를 본 임스 (Python)
+#### Blog : https://bit.ly/3p1ed1v
