@@ -301,3 +301,7 @@
 ### DAY776 (2022.08.05)
 #### [BaekJoon] 모든 약수의 합 (Python)
 #### Blog : https://bit.ly/3Q17vVa
+
+### DAY777 (2022.08.07)
+#### [BaekJoon] 입실 관리 (Python)
+#### Blog : https://bit.ly/3JBkeLW
