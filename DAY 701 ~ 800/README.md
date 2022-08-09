@@ -313,3 +313,7 @@
 ### DAY779 (2022.08.09)
 #### [BaekJoon] Can you add this? (Python)
 #### Blog : https://bit.ly/3p6keKC
+
+### DAY780 (2022.08.10)
+#### [BaekJoon] 자기복제수 (Python)
+#### Blog : https://bit.ly/3SNUD6O
