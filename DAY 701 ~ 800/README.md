@@ -317,3 +317,7 @@
 ### DAY780 (2022.08.10)
 #### [BaekJoon] 자기복제수 (Python)
 #### Blog : https://bit.ly/3SNUD6O
+
+### DAY781 (2022.08.11)
+#### [BaekJoon] 미국 스타일 (Python)
+#### Blog : https://bit.ly/3doJPf9
