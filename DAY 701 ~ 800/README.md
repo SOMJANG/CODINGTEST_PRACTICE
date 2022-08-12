@@ -321,3 +321,7 @@
 ### DAY781 (2022.08.11)
 #### [BaekJoon] 미국 스타일 (Python)
 #### Blog : https://bit.ly/3doJPf9
+
+### DAY782 (2022.08.12)
+#### [BaekJoon] 2의 제곱인가? (Python)
+#### Blog : https://bit.ly/3Arueoh
