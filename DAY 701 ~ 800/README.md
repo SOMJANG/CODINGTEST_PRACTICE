@@ -325,3 +325,7 @@
 ### DAY782 (2022.08.12)
 #### [BaekJoon] 2의 제곱인가? (Python)
 #### Blog : https://bit.ly/3Arueoh
+
+### DAY783 (2022.08.13)
+#### [BaekJoon] 홀수일까 짝수일까 (Python)
+#### Blog : https://bit.ly/3JRfPEX
