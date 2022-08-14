@@ -333,3 +333,7 @@
 ### DAY784 (2022.08.14)
 #### [BaekJoon] 팰린드롬 (Python)
 #### Blog : https://bit.ly/3SORyDr
+
+### DAY785 (2022.08.15)
+#### [BaekJoon] 럭비 클럽 (Python)
+#### Blog : https://bit.ly/3QNbbtP
