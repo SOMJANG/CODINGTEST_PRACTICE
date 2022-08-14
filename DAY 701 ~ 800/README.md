@@ -329,3 +329,7 @@
 ### DAY783 (2022.08.13)
 #### [BaekJoon] 홀수일까 짝수일까 (Python)
 #### Blog : https://bit.ly/3JRfPEX
+
+### DAY784 (2022.08.14)
+#### [BaekJoon] 팰린드롬 (Python)
+#### Blog : https://bit.ly/3SORyDr
