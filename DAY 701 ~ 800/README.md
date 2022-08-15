@@ -337,3 +337,7 @@
 ### DAY785 (2022.08.15)
 #### [BaekJoon] 럭비 클럽 (Python)
 #### Blog : https://bit.ly/3QNbbtP
+
+### DAY786 (2022.08.16)
+#### [BaekJoon] 알고리즘 수업 - 피보나치 수 1 (Python)
+#### Blog : https://bit.ly/3w4WYjL
