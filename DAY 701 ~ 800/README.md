@@ -341,3 +341,7 @@
 ### DAY786 (2022.08.16)
 #### [BaekJoon] 알고리즘 수업 - 피보나치 수 1 (Python)
 #### Blog : https://bit.ly/3w4WYjL
+
+### DAY787 (2022.08.18)
+#### [BaekJoon] St. Ives (Python)
+#### Blog : https://bit.ly/3A9DP1D
