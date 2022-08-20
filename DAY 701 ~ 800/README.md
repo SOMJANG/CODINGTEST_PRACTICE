@@ -345,3 +345,7 @@
 ### DAY787 (2022.08.18)
 #### [BaekJoon] St. Ives (Python)
 #### Blog : https://bit.ly/3A9DP1D
+
+### DAY788 (2022.08.20)
+#### [BaekJoon] 핸드폰 번호 궁합 (Python)
+#### Blog : https://bit.ly/3dMB7aN
