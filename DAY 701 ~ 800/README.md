@@ -349,3 +349,7 @@
 ### DAY788 (2022.08.20)
 #### [BaekJoon] 핸드폰 번호 궁합 (Python)
 #### Blog : https://bit.ly/3dMB7aN
+
+### DAY789 (2022.08.21)
+#### [BaekJoon] A/B - 2 (Python)
+#### Blog : https://bit.ly/3KcWdva
