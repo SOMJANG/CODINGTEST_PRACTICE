@@ -353,3 +353,7 @@
 ### DAY789 (2022.08.21)
 #### [BaekJoon] A/B - 2 (Python)
 #### Blog : https://bit.ly/3KcWdva
+
+### DAY790 (2022.08.22)
+#### [BaekJoon] Hex Code (Python)
+#### Blog : https://bit.ly/3T6dJFq
