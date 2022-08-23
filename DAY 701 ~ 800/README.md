@@ -357,3 +357,7 @@
 ### DAY790 (2022.08.22)
 #### [BaekJoon] Hex Code (Python)
 #### Blog : https://bit.ly/3T6dJFq
+
+### DAY791 (2022.08.23)
+#### [BaekJoon] Which Alien? (Python)
+#### Blog : https://bit.ly/3dOoKLo
