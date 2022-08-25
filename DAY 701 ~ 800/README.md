@@ -361,3 +361,11 @@
 ### DAY791 (2022.08.23)
 #### [BaekJoon] Which Alien? (Python)
 #### Blog : https://bit.ly/3dOoKLo
+
+### DAY792 (2022.08.24)
+#### [BaekJoon] Lunacy (Python)
+#### Blog : https://bit.ly/3dJvqdv
+
+### DAY793 (2022.08.25)
+#### [BaekJoon] 비밀 이메일 (Python)
+#### Blog : https://bit.ly/3R4s4jE
