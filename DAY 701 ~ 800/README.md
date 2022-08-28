@@ -373,3 +373,7 @@
 ### DAY794 (2022.08.28)
 #### [BaekJoon] SASA 모형을 만들어보자 (Python)
 #### Blog : https://bit.ly/3e4D4iH
+
+### DAY795 (2022.08.29)
+#### [BaekJoon] 암호제작 (Python)
+#### Blog : https://bit.ly/3cp5OlS
