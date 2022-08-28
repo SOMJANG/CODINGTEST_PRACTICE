@@ -369,3 +369,7 @@
 ### DAY793 (2022.08.25)
 #### [BaekJoon] 비밀 이메일 (Python)
 #### Blog : https://bit.ly/3R4s4jE
+
+### DAY794 (2022.08.28)
+#### [BaekJoon] SASA 모형을 만들어보자 (Python)
+#### Blog : https://bit.ly/3e4D4iH
