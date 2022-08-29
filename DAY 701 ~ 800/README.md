@@ -377,3 +377,7 @@
 ### DAY795 (2022.08.29)
 #### [BaekJoon] 암호제작 (Python)
 #### Blog : https://bit.ly/3cp5OlS
+
+### DAY796 (2022.08.30)
+#### [Programmers] 2022 KAKAO TECH INTERNSHIP - 성격 유형 검사하기 (Python)
+#### Blog : https://bit.ly/3pTdfEZ
