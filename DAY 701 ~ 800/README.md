@@ -385,3 +385,7 @@
 ### DAY797 (2022.08.31)
 #### [BaekJoon] 암호 (Python)
 #### Blog : https://bit.ly/3wFkNz0
+
+### DAY798 (2022.09.01)
+#### [BaekJoon] 전투 드로이드 가격 (Python)
+#### Blog : https://bit.ly/3Q4dEz6
