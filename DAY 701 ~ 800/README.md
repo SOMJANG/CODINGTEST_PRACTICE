@@ -393,3 +393,7 @@
 ### DAY799 (2022.09.03)
 #### [BaekJoon] Shares (Python)
 #### Blog : https://bit.ly/3q60ya7
+
+### DAY800 (2022.09.04)
+#### [BaekJoon] 알고리즘 수업 - 알고리즘의 수행 시간 1 (Python)
+#### Blog : https://bit.ly/3ei6dHv
