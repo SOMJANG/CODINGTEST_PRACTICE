@@ -9,3 +9,7 @@
 ### DAY803 (2022.09.06)
 #### [BaekJoon] Sounds fishy! (Python)
 #### Blog : https://bit.ly/3qcHhnr
+
+### DAY804 (2022.09.07)
+#### [BaekJoon] 거울, 오! 거울 (Python)
+#### Blog : https://bit.ly/3x5AT5o
