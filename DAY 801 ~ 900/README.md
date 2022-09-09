@@ -17,3 +17,7 @@
 ### DAY805 (2022.09.08)
 #### [BaekJoon] ABC (Python)
 #### Blog : https://bit.ly/3BhPQUn
+
+### DAY806 (2022.09.09)
+#### [BaekJoon] 팰린드롬 숫자 (Python)
+#### Blog : https://bit.ly/3L21vKo
