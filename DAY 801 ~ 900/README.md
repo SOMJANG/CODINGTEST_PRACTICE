@@ -22,6 +22,10 @@
 #### [BaekJoon] 팰린드롬 숫자 (Python)
 #### Blog : https://bit.ly/3L21vKo
 
-### DAY807 (2022.09.10)
+### DAY807 (2022.09.11)
 #### [BaekJoon] Adding Reversed Number (Python)
 #### Blog : https://bit.ly/3Ry84qg
+
+### DAY808 (2022.09.12)
+#### [BaekJoon] Even Sum More Than Odd Sum (Python)
+#### Blog : https://bit.ly/3U3efnO
