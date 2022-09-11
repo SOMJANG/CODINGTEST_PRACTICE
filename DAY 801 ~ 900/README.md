@@ -21,3 +21,7 @@
 ### DAY806 (2022.09.09)
 #### [BaekJoon] 팰린드롬 숫자 (Python)
 #### Blog : https://bit.ly/3L21vKo
+
+### DAY807 (2022.09.10)
+#### [BaekJoon] Adding Reversed Number (Python)
+#### Blog : https://bit.ly/3Ry84qg
