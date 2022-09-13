@@ -29,3 +29,7 @@
 ### DAY808 (2022.09.12)
 #### [BaekJoon] Even Sum More Than Odd Sum (Python)
 #### Blog : https://bit.ly/3U3efnO
+
+### DAY809 (2022.09.13)
+#### [BaekJoon] Darius님 한타 안 함? (Python)
+#### Blog : https://bit.ly/3BaI11o
