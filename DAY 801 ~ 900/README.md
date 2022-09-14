@@ -37,3 +37,7 @@
 ### DAY810 (2022.09.14)
 #### [BaekJoon] 너의 평점은 (Python)
 #### Blog : https://bit.ly/3eMoVqZ
+
+### DAY811 (2022.09.15)
+#### [BaekJoon] 학생 인기도 측정 (Python)
+#### Blog : https://bit.ly/3RKphwG
