@@ -33,3 +33,7 @@
 ### DAY809 (2022.09.13)
 #### [BaekJoon] Darius님 한타 안 함? (Python)
 #### Blog : https://bit.ly/3BaI11o
+
+### DAY810 (2022.09.14)
+#### [BaekJoon] 너의 평점은 (Python)
+#### Blog : https://bit.ly/3eMoVqZ
