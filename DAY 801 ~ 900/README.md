@@ -41,3 +41,7 @@
 ### DAY811 (2022.09.15)
 #### [BaekJoon] 학생 인기도 측정 (Python)
 #### Blog : https://bit.ly/3RKphwG
+
+### DAY812 (2022.09.16)
+#### [BaekJoon] 중간고사 채점 (Python)
+#### Blog : https://bit.ly/3xO3WLd
