@@ -45,3 +45,7 @@
 ### DAY812 (2022.09.16)
 #### [BaekJoon] 중간고사 채점 (Python)
 #### Blog : https://bit.ly/3xO3WLd
+
+### DAY813 (2022.09.17)
+#### [BaekJoon] 고고학자 예린 (Python)
+#### Blog : https://bit.ly/3Sdz3ris
