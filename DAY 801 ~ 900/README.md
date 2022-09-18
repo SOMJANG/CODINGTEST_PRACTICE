@@ -49,3 +49,7 @@
 ### DAY813 (2022.09.17)
 #### [BaekJoon] 고고학자 예린 (Python)
 #### Blog : https://bit.ly/3Sdz3ris
+
+### DAY814 (2022.09.18)
+#### [BaekJoon] 선린인터넷고등학교 교가 (Python)
+#### Blog : https://bit.ly/3LmcIW0
