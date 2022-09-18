@@ -53,3 +53,7 @@
 ### DAY814 (2022.09.18)
 #### [BaekJoon] 선린인터넷고등학교 교가 (Python)
 #### Blog : https://bit.ly/3LmcIW0
+
+### DAY815 (2022.09.19)
+#### [BaekJoon] 추첨을 통해 커피를 받자 (Python)
+#### Blog : https://bit.ly/3Bq1riX
