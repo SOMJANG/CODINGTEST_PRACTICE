@@ -57,3 +57,7 @@
 ### DAY815 (2022.09.19)
 #### [BaekJoon] 추첨을 통해 커피를 받자 (Python)
 #### Blog : https://bit.ly/3Bq1riX
+
+### DAY816 (2022.09.20)
+#### [BaekJoon] 효정과 새 모니터 (Python)
+#### Blog : https://bit.ly/3BsJbFB
