@@ -61,3 +61,7 @@
 ### DAY816 (2022.09.20)
 #### [BaekJoon] 효정과 새 모니터 (Python)
 #### Blog : https://bit.ly/3BsJbFB
+
+### DAY817 (2022.09.21)
+#### [BaekJoon] 커트라인 (Python)
+#### Blog : https://bit.ly/3xAavAP
