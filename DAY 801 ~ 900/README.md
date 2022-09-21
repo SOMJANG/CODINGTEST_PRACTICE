@@ -65,3 +65,7 @@
 ### DAY817 (2022.09.21)
 #### [BaekJoon] 커트라인 (Python)
 #### Blog : https://bit.ly/3xAavAP
+
+### DAY818 (2022.09.22)
+#### [BaekJoon] 시그마 (Python)
+#### Blog : https://bit.ly/3S11CIt
