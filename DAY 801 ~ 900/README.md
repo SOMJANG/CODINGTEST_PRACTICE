@@ -69,3 +69,7 @@
 ### DAY818 (2022.09.22)
 #### [BaekJoon] 시그마 (Python)
 #### Blog : https://bit.ly/3S11CIt
+
+### DAY819 (2022.09.23)
+#### [BaekJoon] 푸앙이와 종윤이 (Python)
+#### Blog : https://bit.ly/3S6dBoo
