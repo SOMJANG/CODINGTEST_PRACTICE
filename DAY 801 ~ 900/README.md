@@ -73,3 +73,7 @@
 ### DAY819 (2022.09.23)
 #### [BaekJoon] 푸앙이와 종윤이 (Python)
 #### Blog : https://bit.ly/3S6dBoo
+
+### DAY820 (2022.09.25)
+#### [BaekJoon] 카우버거 (Python)
+#### Blog : https://bit.ly/3Rb2OYL
