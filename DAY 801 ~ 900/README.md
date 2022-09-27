@@ -77,3 +77,7 @@
 ### DAY820 (2022.09.25)
 #### [BaekJoon] 카우버거 (Python)
 #### Blog : https://bit.ly/3Rb2OYL
+
+### DAY821 (2022.09.26)
+#### [BaekJoon] 파일 완전 삭제 (Python)
+#### Blog : https://bit.ly/3BHV6j2
