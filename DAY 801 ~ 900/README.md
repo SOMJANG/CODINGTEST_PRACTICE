@@ -81,3 +81,7 @@
 ### DAY821 (2022.09.26)
 #### [BaekJoon] 파일 완전 삭제 (Python)
 #### Blog : https://bit.ly/3BHV6j2
+
+### DAY822 (2022.09.27)
+#### [BaekJoon] 배고픈 아리의 샌드위치 구매하기 (Python)
+#### Blog : https://bit.ly/3foBjxu
