@@ -89,3 +89,7 @@
 ### DAY823 (2022.09.28)
 #### [BaekJoon] N M 찍기 (Python)
 #### Blog : https://bit.ly/3BRqnQD
+
+### DAY824 (2022.09.29)
+#### [BaekJoon] 최소공배수 (Python)
+#### Blog : https://bit.ly/3xYWpsM
