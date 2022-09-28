@@ -85,3 +85,7 @@
 ### DAY822 (2022.09.27)
 #### [BaekJoon] 배고픈 아리의 샌드위치 구매하기 (Python)
 #### Blog : https://bit.ly/3foBjxu
+
+### DAY823 (2022.09.28)
+#### [BaekJoon] N M 찍기 (Python)
+#### Blog : https://bit.ly/3BRqnQD
