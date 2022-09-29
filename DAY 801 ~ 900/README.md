@@ -93,3 +93,7 @@
 ### DAY824 (2022.09.29)
 #### [BaekJoon] 최소공배수 (Python)
 #### Blog : https://bit.ly/3xYWpsM
+
+### DAY825 (2022.09.30)
+#### [BaekJoon] Hello Judge (Python)
+#### Blog : https://bit.ly/3dVcBEL
