@@ -98,6 +98,10 @@
 #### [BaekJoon] Hello Judge (Python)
 #### Blog : https://bit.ly/3dVcBEL
 
-### DAY826 (2022.09.31)
+### DAY826 (2022.10.01)
 #### [BaekJoon] MBTI (Python)
 #### Blog : https://bit.ly/3LSMgDO
+
+### DAY827 (2022.10.02)
+#### [BaekJoon] 햄버거 만들기 (Python)
+#### Blog : https://bit.ly/3SvsqkB
