@@ -105,3 +105,7 @@
 ### DAY827 (2022.10.02)
 #### [BaekJoon] 햄버거 만들기 (Python)
 #### Blog : https://bit.ly/3SvsqkB
+
+### DAY828 (2022.10.03)
+#### [BaekJoon] 출석 이벤트 (Python)
+#### Blog : https://bit.ly/3RuRsyX
