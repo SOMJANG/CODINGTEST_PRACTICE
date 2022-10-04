@@ -109,3 +109,7 @@
 ### DAY828 (2022.10.03)
 #### [BaekJoon] 출석 이벤트 (Python)
 #### Blog : https://bit.ly/3RuRsyX
+
+### DAY829 (2022.10.04)
+#### [BaekJoon] 카카오뷰 큐레이팅 효용성 (Python)
+#### Blog : https://bit.ly/3e3h8Ff
