@@ -113,3 +113,7 @@
 ### DAY829 (2022.10.04)
 #### [BaekJoon] 카카오뷰 큐레이팅 효용성 (Python)
 #### Blog : https://bit.ly/3e3h8Ff
+
+### DAY830 (2022.10.05)
+#### [BaekJoon] 포인터 공부 (Python)
+#### Blog : https://bit.ly/3ygsIDE
