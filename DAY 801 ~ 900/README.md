@@ -117,3 +117,7 @@
 ### DAY830 (2022.10.05)
 #### [BaekJoon] 포인터 공부 (Python)
 #### Blog : https://bit.ly/3ygsIDE
+
+### DAY831 (2022.10.06)
+#### [BaekJoon] 余り (Remainder) (Python)
+#### Blog : https://bit.ly/3T0aiim
