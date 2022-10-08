@@ -125,3 +125,7 @@
 ### DAY832 (2022.10.07)
 #### [BaekJoon] 身長 (Height) (Python)
 #### Blog : https://bit.ly/3RGf7wq
+
+### DAY833 (2022.10.08)
+#### [BaekJoon] 立方体 (Cube) (Python)
+#### Blog : https://bit.ly/3SLpAIj
