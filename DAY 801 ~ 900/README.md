@@ -129,3 +129,7 @@
 ### DAY833 (2022.10.08)
 #### [BaekJoon] 立方体 (Cube) (Python)
 #### Blog : https://bit.ly/3SLpAIj
+
+### DAY834 (2022.10.09)
+#### [BaekJoon] Zadanie próbne (Python)
+#### Blog : https://bit.ly/3CJUOtI
