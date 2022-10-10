@@ -133,3 +133,7 @@
 ### DAY834 (2022.10.09)
 #### [BaekJoon] Zadanie próbne (Python)
 #### Blog : https://bit.ly/3CJUOtI
+
+### DAY835 (2022.10.10)
+#### [BaekJoon] Julka (Python)
+#### Blog : https://bit.ly/3T66gVW
