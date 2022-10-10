@@ -137,3 +137,7 @@
 ### DAY835 (2022.10.10)
 #### [BaekJoon] Julka (Python)
 #### Blog : https://bit.ly/3T66gVW
+
+### DAY836 (2022.10.11)
+#### [BaekJoon] РАВЕНСТВО (Python)
+#### Blog : https://bit.ly/3TaKmkl
