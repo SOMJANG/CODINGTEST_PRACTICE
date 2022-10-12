@@ -141,3 +141,7 @@
 ### DAY836 (2022.10.11)
 #### [BaekJoon] РАВЕНСТВО (Python)
 #### Blog : https://bit.ly/3TaKmkl
+
+### DAY837 (2022.10.12)
+#### [BaekJoon] Zadanie próbne 2 (Python)
+#### Blog : https://bit.ly/3eiQLuW
