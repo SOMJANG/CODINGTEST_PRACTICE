@@ -145,3 +145,7 @@
 ### DAY837 (2022.10.12)
 #### [BaekJoon] Zadanie próbne 2 (Python)
 #### Blog : https://bit.ly/3eiQLuW
+
+### DAY838 (2022.10.13)
+#### [BaekJoon] 파일 옮기기 (Python)
+#### Blog : https://bit.ly/3ROaaBT
