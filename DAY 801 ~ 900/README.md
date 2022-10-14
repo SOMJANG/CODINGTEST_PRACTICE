@@ -149,3 +149,7 @@
 ### DAY838 (2022.10.13)
 #### [BaekJoon] 파일 옮기기 (Python)
 #### Blog : https://bit.ly/3ROaaBT
+
+### DAY839 (2022.10.14)
+#### [BaekJoon] Easy-to-Solve Expressions (Python)
+#### Blog : https://bit.ly/3rRAWPh
