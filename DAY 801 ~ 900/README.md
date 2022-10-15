@@ -153,3 +153,7 @@
 ### DAY839 (2022.10.14)
 #### [BaekJoon] Easy-to-Solve Expressions (Python)
 #### Blog : https://bit.ly/3rRAWPh
+
+### DAY840 (2022.10.15)
+#### [BaekJoon] Triathlon (Python)
+#### Blog : https://bit.ly/3eyMrIc
