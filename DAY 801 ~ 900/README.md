@@ -161,3 +161,7 @@
 ### DAY841 (2022.10.16)
 #### [BaekJoon] 집 주소 (Python)
 #### Blog : https://bit.ly/3eBhgMn
+
+### DAY842 (2022.10.17)
+#### [BaekJoon] SciComLove (Python)
+#### Blog : 
