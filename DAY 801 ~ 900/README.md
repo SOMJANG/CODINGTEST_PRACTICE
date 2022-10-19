@@ -164,4 +164,4 @@
 
 ### DAY842 (2022.10.17)
 #### [BaekJoon] SciComLove (Python)
-#### Blog : 
+#### Blog : https://bit.ly/3TvR2d5
