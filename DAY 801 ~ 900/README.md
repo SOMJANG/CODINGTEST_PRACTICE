@@ -173,3 +173,7 @@
 ### DAY844 (2022.10.20)
 #### [BaekJoon] Pizza Deal (Python)
 #### Blog : https://bit.ly/3CIpNoR
+
+### DAY845 (2022.10.21)
+#### [BaekJoon] 상근이의 친구들 (Python)
+#### Blog : https://bit.ly/3yYairC
