@@ -169,3 +169,7 @@
 ### DAY843 (2022.10.18)
 #### [Programmers] 삼총사 (Python)
 #### Blog : https://bit.ly/3eGfGJk
+
+### DAY844 (2022.10.21)
+#### [BaekJoon] Pizza Deal (Python)
+#### Blog : https://bit.ly/3CIpNoR
