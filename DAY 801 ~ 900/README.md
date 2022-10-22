@@ -177,3 +177,7 @@
 ### DAY845 (2022.10.21)
 #### [BaekJoon] 상근이의 친구들 (Python)
 #### Blog : https://bit.ly/3yYairC
+
+### DAY846 (2022.10.22)
+#### [BaekJoon] 두라무리 휴지 (Python)
+#### Blog : https://bit.ly/3DifYQ2
