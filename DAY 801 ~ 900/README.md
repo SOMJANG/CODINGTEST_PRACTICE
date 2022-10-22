@@ -181,3 +181,7 @@
 ### DAY846 (2022.10.22)
 #### [BaekJoon] 두라무리 휴지 (Python)
 #### Blog : https://bit.ly/3DifYQ2
+
+### DAY847 (2022.10.23)
+#### [BaekJoon] 스트릿 코딩 파이터 (Python)
+#### Blog : https://bit.ly/3TOYsbD
