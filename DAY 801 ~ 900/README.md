@@ -193,3 +193,7 @@
 ### DAY849 (2022.10.25)
 #### [Programmers] 가장 큰 수 찾기 (Python)
 #### Blog : https://bit.ly/3VYjq9D
+
+### DAY850 (2022.10.26)
+#### [Programmers] 숫자 짝궁 (Python)
+#### Blog : https://bit.ly/3gIlnHe
