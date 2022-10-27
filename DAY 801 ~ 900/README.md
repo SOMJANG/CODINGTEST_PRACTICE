@@ -201,3 +201,7 @@
 ### DAY851 (2022.10.27)
 #### [BaekJoon] ISBN (Python)
 #### Blog : https://bit.ly/3TVgAjW
+
+### DAY852 (2022.10.28)
+#### [BaekJoon] Divide the Cash (Python)
+#### Blog : https://bit.ly/3zleD8L
