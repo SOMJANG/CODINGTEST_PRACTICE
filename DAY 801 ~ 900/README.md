@@ -205,3 +205,7 @@
 ### DAY852 (2022.10.28)
 #### [BaekJoon] Divide the Cash (Python)
 #### Blog : https://bit.ly/3zleD8L
+
+### DAY853 (2022.10.29)
+#### [BaekJoon] Majestic 10 (Python)
+#### Blog : https://bit.ly/3TOVMea
