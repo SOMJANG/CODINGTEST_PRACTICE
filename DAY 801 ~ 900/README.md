@@ -209,3 +209,7 @@
 ### DAY853 (2022.10.29)
 #### [BaekJoon] Majestic 10 (Python)
 #### Blog : https://bit.ly/3TOVMea
+
+### DAY854 (2022.10.30)
+#### [BaekJoon] Morse Code Palindromes (Python)
+#### Blog : https://bit.ly/3gRI2Rp
