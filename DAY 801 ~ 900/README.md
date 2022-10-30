@@ -213,3 +213,7 @@
 ### DAY854 (2022.10.30)
 #### [BaekJoon] Morse Code Palindromes (Python)
 #### Blog : https://bit.ly/3gRI2Rp
+
+### DAY855 (2022.10.31)
+#### [BaekJoon] Reverse Text (Python)
+#### Blog : https://bit.ly/3U960pH
