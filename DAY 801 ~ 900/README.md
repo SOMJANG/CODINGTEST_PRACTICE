@@ -221,3 +221,7 @@
 ### DAY856 (2022.11.01)
 #### [BaekJoon] 母音を数える (Counting Vowels) (Python)
 #### Blog : https://bit.ly/3DpAjS8
+
+### DAY857 (2022.11.02)
+#### [BaekJoon] 試験 (Exam) (Python)
+#### Blog : https://bit.ly/3DP9yb9
