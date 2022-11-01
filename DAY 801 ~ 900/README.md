@@ -217,3 +217,7 @@
 ### DAY855 (2022.10.31)
 #### [BaekJoon] Reverse Text (Python)
 #### Blog : https://bit.ly/3U960pH
+
+### DAY856 (2022.11.01)
+#### [BaekJoon] 母音を数える (Counting Vowels) (Python)
+#### Blog : https://bit.ly/3DpAjS8
