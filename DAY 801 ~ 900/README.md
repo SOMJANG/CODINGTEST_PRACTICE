@@ -225,3 +225,7 @@
 ### DAY857 (2022.11.02)
 #### [BaekJoon] 試験 (Exam) (Python)
 #### Blog : https://bit.ly/3DP9yb9
+
+### DAY858 (2022.11.03)
+#### [BaekJoon] 알고리즘 수업 - 알고리즘의 수행 시간 2 (Python)
+#### Blog : https://bit.ly/3SWCzpZ
