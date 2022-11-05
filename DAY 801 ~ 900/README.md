@@ -233,3 +233,7 @@
 ### DAY859 (2022.11.04)
 #### [BaekJoon] Every Second Counts (Python)
 #### Blog : https://bit.ly/3frWpvm
+
+### DAY860 (2022.11.05)
+#### [BaekJoon] The Fastest Sorting Algorithm In The World (Python)
+#### Blog : https://bit.ly/3fz5QJw
