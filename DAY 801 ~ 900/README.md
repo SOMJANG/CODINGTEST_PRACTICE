@@ -237,3 +237,7 @@
 ### DAY860 (2022.11.05)
 #### [BaekJoon] The Fastest Sorting Algorithm In The World (Python)
 #### Blog : https://bit.ly/3fz5QJw
+
+### DAY861 (2022.11.06)
+#### [BaekJoon] 줄 세우기 (Python)
+#### Blog : https://bit.ly/3DBqIaZ
