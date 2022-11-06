@@ -241,3 +241,7 @@
 ### DAY861 (2022.11.06)
 #### [BaekJoon] 줄 세우기 (Python)
 #### Blog : https://bit.ly/3DBqIaZ
+
+### DAY862 (2022.11.07)
+#### [BaekJoon] Cat's Age (Python)
+#### Blog : https://bit.ly/3T3D0ih
