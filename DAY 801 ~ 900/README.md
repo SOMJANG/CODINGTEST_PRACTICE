@@ -245,3 +245,7 @@
 ### DAY862 (2022.11.07)
 #### [BaekJoon] Cat's Age (Python)
 #### Blog : https://bit.ly/3T3D0ih
+
+### DAY863 (2022.11.08)
+#### [BaekJoon] Polling (Python)
+#### Blog : https://bit.ly/3EeB3LP
