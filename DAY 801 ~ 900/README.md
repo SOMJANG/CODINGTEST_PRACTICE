@@ -249,3 +249,7 @@
 ### DAY863 (2022.11.08)
 #### [BaekJoon] Polling (Python)
 #### Blog : https://bit.ly/3EeB3LP
+
+### DAY864 (2022.11.09)
+#### [BaekJoon] Eye of Sauron (Python)
+#### Blog : https://bit.ly/3Emb317
