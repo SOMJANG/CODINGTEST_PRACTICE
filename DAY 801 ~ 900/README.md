@@ -257,3 +257,7 @@
 ### DAY865 (2022.11.10)
 #### [BaekJoon] 준석이의 수학 숙제 (Python)
 #### Blog : https://bit.ly/3NMaHns
+
+### DAY866 (2022.11.11)
+#### [BaekJoon] 남욱이의 닭장 (Python)
+#### Blog : https://bit.ly/3fZ2HTr
