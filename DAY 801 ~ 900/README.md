@@ -253,3 +253,7 @@
 ### DAY864 (2022.11.09)
 #### [BaekJoon] Eye of Sauron (Python)
 #### Blog : https://bit.ly/3Emb317
+
+### DAY865 (2022.11.10)
+#### [BaekJoon] 준석이의 수학 숙제 (Python)
+#### Blog : https://bit.ly/3NMaHns
