@@ -261,3 +261,7 @@
 ### DAY866 (2022.11.11)
 #### [BaekJoon] 남욱이의 닭장 (Python)
 #### Blog : https://bit.ly/3fZ2HTr
+
+### DAY867 (2022.11.12)
+#### [BaekJoon] 수열의 변화 (Python)
+#### Blog : https://bit.ly/3WUVkgv
