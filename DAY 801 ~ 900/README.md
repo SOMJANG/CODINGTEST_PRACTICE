@@ -265,3 +265,7 @@
 ### DAY867 (2022.11.12)
 #### [BaekJoon] 수열의 변화 (Python)
 #### Blog : https://bit.ly/3WUVkgv
+
+### DAY868 (2022.11.13)
+#### [BaekJoon] Larger Sport Facility (Python)
+#### Blog : https://bit.ly/3trPt4V
