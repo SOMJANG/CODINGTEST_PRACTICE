@@ -273,3 +273,7 @@
 ### DAY869 (2022.11.14)
 #### [BaekJoon] Contest Timing (Python)
 #### Blog : https://bit.ly/3EsmG6r
+
+### DAY870 (2022.11.15)
+#### [BaekJoon] Boiling Water (Python)
+#### Blog : https://bit.ly/3E7xFRx
