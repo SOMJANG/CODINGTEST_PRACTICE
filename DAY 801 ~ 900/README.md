@@ -269,3 +269,7 @@
 ### DAY868 (2022.11.13)
 #### [BaekJoon] Larger Sport Facility (Python)
 #### Blog : https://bit.ly/3trPt4V
+
+### DAY869 (2022.11.14)
+#### [BaekJoon] Contest Timing (Python)
+#### Blog : https://bit.ly/3EsmG6r
