@@ -277,3 +277,7 @@
 ### DAY870 (2022.11.15)
 #### [BaekJoon] Boiling Water (Python)
 #### Blog : https://bit.ly/3E7xFRx
+
+### DAY871 (2022.11.16)
+#### [BaekJoon] Speed fines are not fine! (Python)
+#### Blog : https://bit.ly/3UQ99uI
