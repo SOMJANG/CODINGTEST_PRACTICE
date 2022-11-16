@@ -281,3 +281,7 @@
 ### DAY871 (2022.11.16)
 #### [BaekJoon] Speed fines are not fine! (Python)
 #### Blog : https://bit.ly/3UQ99uI
+
+### DAY872 (2022.11.17)
+#### [BaekJoon] Have you had your birthday yet? (Python)
+#### Blog : https://bit.ly/3XajXpK
