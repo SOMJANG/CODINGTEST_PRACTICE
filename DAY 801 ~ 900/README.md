@@ -285,3 +285,7 @@
 ### DAY872 (2022.11.17)
 #### [BaekJoon] Have you had your birthday yet? (Python)
 #### Blog : https://bit.ly/3XajXpK
+
+### DAY873 (2022.11.18)
+#### [BaekJoon] 숫자의 개수 2 (Python)
+#### Blog : https://bit.ly/3hVmKD1
