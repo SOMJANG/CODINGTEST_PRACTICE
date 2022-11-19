@@ -293,3 +293,7 @@
 ### DAY874 (2022.11.19)
 #### [BaekJoon] 특정 대문자를 소문자로 바꾸기 (Python)
 #### Blog : https://bit.ly/3hJygBd
+
+### DAY875 (2022.11.20)
+#### [BaekJoon] URLs (Python)
+#### Blog : https://bit.ly/3On1WjK
