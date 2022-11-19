@@ -289,3 +289,7 @@
 ### DAY873 (2022.11.18)
 #### [BaekJoon] 숫자의 개수 2 (Python)
 #### Blog : https://bit.ly/3hVmKD1
+
+### DAY874 (2022.11.19)
+#### [BaekJoon] 특정 대문자를 소문자로 바꾸기 (Python)
+#### Blog : https://bit.ly/3hJygBd
