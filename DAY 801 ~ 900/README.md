@@ -297,3 +297,7 @@
 ### DAY875 (2022.11.20)
 #### [BaekJoon] URLs (Python)
 #### Blog : https://bit.ly/3On1WjK
+
+### DAY876 (2022.11.21)
+#### [BaekJoon] Easy-to-Pronounce Words (Python)
+#### Blog : https://bit.ly/3Ememnt
