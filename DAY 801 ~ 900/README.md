@@ -309,3 +309,7 @@
 ### DAY878 (2022.11.23)
 #### [BaekJoon] Number Maximization (Python)
 #### Blog : https://bit.ly/3UiFnhT
+
+### DAY879 (2022.11.24)
+#### [BaekJoon] Average Character (Python)
+#### Blog : https://bit.ly/3Ox74lL
