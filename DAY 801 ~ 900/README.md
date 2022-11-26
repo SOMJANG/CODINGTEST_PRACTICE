@@ -306,10 +306,14 @@
 #### [BaekJoon] Sort by Frequency (Python)
 #### Blog : https://bit.ly/3OqTj83
 
-### DAY878 (2022.11.23)
+### DAY878 (2022.11.24)
 #### [BaekJoon] Number Maximization (Python)
 #### Blog : https://bit.ly/3UiFnhT
 
-### DAY879 (2022.11.24)
+### DAY879 (2022.11.25)
 #### [BaekJoon] Average Character (Python)
 #### Blog : https://bit.ly/3Ox74lL
+
+### DAY880 (2022.11.26)
+#### [BaekJoon] 2의 보수 (Python)
+#### Blog : https://bit.ly/3OGv9GS
