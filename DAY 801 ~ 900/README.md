@@ -317,3 +317,7 @@
 ### DAY880 (2022.11.26)
 #### [BaekJoon] 2의 보수 (Python)
 #### Blog : https://bit.ly/3OGv9GS
+
+### DAY881 (2022.11.27)
+#### [BaekJoon] APC는 쉬운 난이도 순일까, 아닐까? (Python)
+#### Blog : https://bit.ly/3VcIbOO
