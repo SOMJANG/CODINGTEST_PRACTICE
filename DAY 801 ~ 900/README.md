@@ -321,3 +321,11 @@
 ### DAY881 (2022.11.27)
 #### [BaekJoon] APC는 쉬운 난이도 순일까, 아닐까? (Python)
 #### Blog : https://bit.ly/3VcIbOO
+
+### DAY882 (2022.11.28)
+#### [BaekJoon] HOMWRK (Python)
+#### Blog : https://bit.ly/3UdZC03
+
+### DAY883 (2022.11.29)
+#### [BaekJoon] 연도 진행바 (Python)
+#### Blog : https://bit.ly/3GQTU0T
