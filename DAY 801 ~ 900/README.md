@@ -329,3 +329,7 @@
 ### DAY883 (2022.11.29)
 #### [BaekJoon] 연도 진행바 (Python)
 #### Blog : https://bit.ly/3GQTU0T
+
+### DAY884 (2022.11.30)
+#### [BaekJoon] 3 つの整数 (Three Integers) (Python)
+#### Blog : https://bit.ly/3iiQ4U8
