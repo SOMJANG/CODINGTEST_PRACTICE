@@ -337,3 +337,7 @@
 ### DAY885 (2022.12.01)
 #### [BaekJoon] 피보나치 비스무리한 수열 (Python)
 #### Blog : https://bit.ly/3Vlx6L6
+
+### DAY886 (2022.12.02)
+#### [BaekJoon] WARBOY (Python)
+#### Blog : https://bit.ly/3VrHn8S
