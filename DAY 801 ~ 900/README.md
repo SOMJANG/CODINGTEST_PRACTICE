@@ -333,3 +333,7 @@
 ### DAY884 (2022.11.30)
 #### [BaekJoon] 3 つの整数 (Three Integers) (Python)
 #### Blog : https://bit.ly/3iiQ4U8
+
+### DAY885 (2022.12.01)
+#### [BaekJoon] 피보나치 비스무리한 수열 (Python)
+#### Blog : https://bit.ly/3Vlx6L6
