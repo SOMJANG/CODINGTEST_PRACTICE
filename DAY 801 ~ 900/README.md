@@ -345,3 +345,7 @@
 ### DAY887 (2022.12.03)
 #### [BaekJoon] 방어율 무시 계산하기 (Python)
 #### Blog : https://bit.ly/3EZ2Pe8
+
+### DAY888 (2022.12.04)
+#### [BaekJoon] 골뱅이 찍기 - 정사각형 (Python)
+#### Blog : https://bit.ly/3uiwtpY
