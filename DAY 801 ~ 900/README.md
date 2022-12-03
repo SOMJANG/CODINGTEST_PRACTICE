@@ -341,3 +341,7 @@
 ### DAY886 (2022.12.02)
 #### [BaekJoon] WARBOY (Python)
 #### Blog : https://bit.ly/3VrHn8S
+
+### DAY887 (2022.12.03)
+#### [BaekJoon] 방어율 무시 계산하기 (Python)
+#### Blog : https://bit.ly/3EZ2Pe8
