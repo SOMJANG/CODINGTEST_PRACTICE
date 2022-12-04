@@ -349,3 +349,7 @@
 ### DAY888 (2022.12.04)
 #### [BaekJoon] 골뱅이 찍기 - 정사각형 (Python)
 #### Blog : https://bit.ly/3uiwtpY
+
+### DAY889 (2022.12.05)
+#### [BaekJoon] 골뱅이 찍기 - 뒤집힌 ㄱ (Python)
+#### Blog : https://bit.ly/3uq6VY4
