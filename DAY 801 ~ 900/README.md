@@ -361,3 +361,7 @@
 ### DAY891 (2022.12.07)
 #### [BaekJoon] 골뱅이 찍기 - ㄷ (Python)
 #### Blog : https://bit.ly/3PaECGr
+
+### DAY892 (2022.12.08)
+#### [BaekJoon] 골뱅이 찍기 - 돌아간 ㄹ (Python)
+#### Blog : https://bit.ly/3F9wSjl
