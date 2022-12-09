@@ -365,3 +365,7 @@
 ### DAY892 (2022.12.08)
 #### [BaekJoon] 골뱅이 찍기 - 돌아간 ㄹ (Python)
 #### Blog : https://bit.ly/3F9wSjl
+
+### DAY893 (2022.12.09)
+#### [BaekJoon] Heavy Numbers (Python)
+#### Blog : https://bit.ly/3hdvDHW
