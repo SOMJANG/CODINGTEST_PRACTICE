@@ -369,3 +369,7 @@
 ### DAY893 (2022.12.09)
 #### [BaekJoon] Heavy Numbers (Python)
 #### Blog : https://bit.ly/3hdvDHW
+
+### DAY894 (2022.12.10)
+#### [BaekJoon] HI-ARC (Python)
+#### Blog : https://bit.ly/3Y9sLwu
