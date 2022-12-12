@@ -381,3 +381,7 @@
 ### DAY896 (2022.12.12)
 #### [BaekJoon] SciComLove (2022) (Python)
 #### Blog : https://bit.ly/3PkmoTe
+
+### DAY897 (2022.12.13)
+#### [BaekJoon] Odd/Even Strings (2022) (Python)
+#### Blog : https://bit.ly/3HAjgkh
