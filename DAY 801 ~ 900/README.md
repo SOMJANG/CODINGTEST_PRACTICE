@@ -377,3 +377,7 @@
 ### DAY895 (2022.12.11)
 #### [Programmers] 가장 가까운 같은 글자 (Python)
 #### Blog : https://bit.ly/3V1OCmZ
+
+### DAY896 (2022.12.12)
+#### [BaekJoon] SciComLove (2022) (Python)
+#### Blog : https://bit.ly/3PkmoTe
