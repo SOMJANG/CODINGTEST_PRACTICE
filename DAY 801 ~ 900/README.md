@@ -383,5 +383,9 @@
 #### Blog : https://bit.ly/3PkmoTe
 
 ### DAY897 (2022.12.13)
-#### [BaekJoon] Odd/Even Strings (2022) (Python)
+#### [BaekJoon] Odd/Even Strings (Python)
 #### Blog : https://bit.ly/3HAjgkh
+
+### DAY898 (2022.12.14)
+#### [BaekJoon] 반올림 (Python)
+#### Blog : https://bit.ly/3VXsFX9
