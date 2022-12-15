@@ -393,3 +393,7 @@
 ### DAY899 (2022.12.15)
 #### [BaekJoon] Correct (Python)
 #### Blog : https://bit.ly/3Wf8x2E
+
+### DAY900 (2022.12.16)
+#### [BaekJoon] Who is in the middle? (Python)
+#### Blog : https://bit.ly/3FVmIVf
