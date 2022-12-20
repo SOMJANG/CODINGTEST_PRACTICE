@@ -5,3 +5,7 @@
 ### DAY902 (2022.12.20)
 #### [BaekJoon] Football Team (Python)
 #### Blog : https://bit.ly/3YEAoeq
+
+### DAY903 (2022.12.21)
+#### [BaekJoon] Mathematics (Python)
+#### Blog : https://bit.ly/3VcnwJJ
