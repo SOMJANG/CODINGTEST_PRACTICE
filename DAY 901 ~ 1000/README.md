@@ -9,3 +9,7 @@
 ### DAY903 (2022.12.21)
 #### [BaekJoon] Mathematics (Python)
 #### Blog : https://bit.ly/3VcnwJJ
+
+### DAY904 (2022.12.22)
+#### [BaekJoon] Hook (Python)
+#### Blog : https://bit.ly/3VgbVt1
