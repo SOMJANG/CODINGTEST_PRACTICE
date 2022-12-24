@@ -13,3 +13,7 @@
 ### DAY904 (2022.12.22)
 #### [BaekJoon] Hook (Python)
 #### Blog : https://bit.ly/3VgbVt1
+
+### DAY905 (2022.12.24)
+#### [BaekJoon] Reverse (Python)
+#### Blog : https://bit.ly/3hTAlLh
