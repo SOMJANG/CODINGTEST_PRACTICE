@@ -21,3 +21,7 @@
 ### DAY906 (2022.12.26)
 #### [BaekJoon] Dedupe (Python)
 #### Blog : https://bit.ly/3FOA58q
+
+### DAY907 (2022.12.27)
+#### [BaekJoon] Copier (Python)
+#### Blog : https://bit.ly/3jjeptp
