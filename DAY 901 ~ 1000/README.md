@@ -17,3 +17,7 @@
 ### DAY905 (2022.12.24)
 #### [BaekJoon] Reverse (Python)
 #### Blog : https://bit.ly/3hTAlLh
+
+### DAY906 (2022.12.26)
+#### [BaekJoon] Dedupe (Python)
+#### Blog : https://bit.ly/3FOA58q
