@@ -29,3 +29,7 @@
 ### DAY908 (2022.12.28)
 #### [BaekJoon] A+B (Python)
 #### Blog : https://bit.ly/3Gx2SA9
+
+### DAY909 (2022.12.29)
+#### [BaekJoon] Body Mass Index (Python)
+#### Blog : https://bit.ly/3I8WWy8
