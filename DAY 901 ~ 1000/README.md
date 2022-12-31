@@ -33,3 +33,7 @@
 ### DAY909 (2022.12.29)
 #### [BaekJoon] Body Mass Index (Python)
 #### Blog : https://bit.ly/3I8WWy8
+
+### DAY910 (2022.12.30)
+#### [BaekJoon] Yangjojang of The Year (Python)
+#### Blog : https://bit.ly/3G4uZ8f
