@@ -37,3 +37,7 @@
 ### DAY910 (2022.12.30)
 #### [BaekJoon] Yangjojang of The Year (Python)
 #### Blog : https://bit.ly/3G4uZ8f
+
+### DAY911 (2022.12.31)
+#### [BaekJoon] 평균 중앙값 문제 (Python)
+#### Blog : https://bit.ly/3GwKDuD
