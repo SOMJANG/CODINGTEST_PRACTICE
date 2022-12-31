@@ -41,3 +41,7 @@
 ### DAY911 (2022.12.31)
 #### [BaekJoon] 평균 중앙값 문제 (Python)
 #### Blog : https://bit.ly/3GwKDuD
+
+### DAY912 (2022.01.01)
+#### [BaekJoon] 나무 조각 (Python)
+#### Blog : https://bit.ly/3GvPNqv
