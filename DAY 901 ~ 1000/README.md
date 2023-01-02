@@ -45,3 +45,7 @@
 ### DAY912 (2022.01.01)
 #### [BaekJoon] 나무 조각 (Python)
 #### Blog : https://bit.ly/3GvPNqv
+
+### DAY913 (2022.01.02)
+#### [BaekJoon] 포켓몬 GO (Python)
+#### Blog : https://bit.ly/3vsGcur
