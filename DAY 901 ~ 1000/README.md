@@ -49,3 +49,7 @@
 ### DAY913 (2022.01.02)
 #### [BaekJoon] 포켓몬 GO (Python)
 #### Blog : https://bit.ly/3vsGcur
+
+### DAY914 (2022.01.03)
+#### [BaekJoon] H4x0r (Python)
+#### Blog : https://bit.ly/3Q67uAi
