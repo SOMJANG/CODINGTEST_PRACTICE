@@ -53,3 +53,7 @@
 ### DAY914 (2022.01.03)
 #### [BaekJoon] H4x0r (Python)
 #### Blog : https://bit.ly/3Q67uAi
+
+### DAY915 (2022.01.06)
+#### [BaekJoon] GCD (Python)
+#### Blog : https://bit.ly/3XfPNRb
