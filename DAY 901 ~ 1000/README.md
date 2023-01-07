@@ -57,3 +57,7 @@
 ### DAY915 (2022.01.06)
 #### [BaekJoon] GCD (Python)
 #### Blog : https://bit.ly/3XfPNRb
+
+### DAY916 (2022.01.07)
+#### [BaekJoon] Absolutely (Python)
+#### Blog : https://bit.ly/3imiZHf
