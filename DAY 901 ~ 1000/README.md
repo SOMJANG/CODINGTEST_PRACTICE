@@ -61,3 +61,7 @@
 ### DAY916 (2022.01.07)
 #### [BaekJoon] Absolutely (Python)
 #### Blog : https://bit.ly/3imiZHf
+
+### DAY917 (2022.01.08)
+#### [BaekJoon] Favorite Number (Python)
+#### Blog : https://bit.ly/3vRnkoQ
