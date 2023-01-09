@@ -65,3 +65,7 @@
 ### DAY917 (2022.01.08)
 #### [BaekJoon] Favorite Number (Python)
 #### Blog : https://bit.ly/3vRnkoQ
+
+### DAY918 (2022.01.09)
+#### [BaekJoon] Bovine Birthday (Python)
+#### Blog : https://bit.ly/3CxmmlL
