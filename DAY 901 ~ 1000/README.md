@@ -69,3 +69,7 @@
 ### DAY918 (2022.01.09)
 #### [BaekJoon] Bovine Birthday (Python)
 #### Blog : https://bit.ly/3CxmmlL
+
+### DAY919 (2022.01.10)
+#### [BaekJoon] Reverse (Python)
+#### Blog : https://bit.ly/3vMYExZ
