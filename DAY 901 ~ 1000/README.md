@@ -73,3 +73,7 @@
 ### DAY919 (2022.01.10)
 #### [BaekJoon] Reverse (Python)
 #### Blog : https://bit.ly/3vMYExZ
+
+### DAY920 (2022.01.12)
+#### [BaekJoon] 골뱅이 찍기 - ㅁ (Python)
+#### Blog : https://bit.ly/3X89zyq
