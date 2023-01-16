@@ -89,3 +89,7 @@
 ### DAY923 (2022.01.15)
 #### [BaekJoon] Fill the Rowboats! (Python)
 #### Blog : https://bit.ly/3IObrrC
+
+### DAY924 (2022.01.16)
+#### [BaekJoon] 특식 배부 (Python)
+#### Blog : https://bit.ly/3XAmt7W
