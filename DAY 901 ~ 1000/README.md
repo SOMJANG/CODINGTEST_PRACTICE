@@ -93,3 +93,7 @@
 ### DAY924 (2022.01.16)
 #### [BaekJoon] 특식 배부 (Python)
 #### Blog : https://bit.ly/3XAmt7W
+
+### DAY925 (2022.01.17)
+#### [BaekJoon] 다음 소수 (Python)
+#### Blog : https://bit.ly/3wciCT3
