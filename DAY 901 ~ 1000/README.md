@@ -97,3 +97,11 @@
 ### DAY925 (2022.01.17)
 #### [BaekJoon] 다음 소수 (Python)
 #### Blog : https://bit.ly/3wciCT3
+
+### DAY926 (2022.01.18)
+#### [BaekJoon] 숫자 (Python)
+#### Blog : https://bit.ly/3GLbzFG
+
+### DAY927 (2022.01.20)
+#### [BaekJoon] 골뱅이 찍기 - 돌아간 ㅍ (Python)
+#### Blog : https://bit.ly/3kul1ps
