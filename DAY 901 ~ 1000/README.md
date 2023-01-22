@@ -109,3 +109,7 @@
 ### DAY928 (2022.01.21)
 #### [BaekJoon] Words (Python)
 #### Blog : https://bit.ly/3WvoIZs
+
+### DAY929 (2022.01.22)
+#### [BaekJoon] 골쟁이 찍기 - ㅌ (Python)
+#### Blog : https://bit.ly/3HpnUkE
