@@ -105,3 +105,7 @@
 ### DAY927 (2022.01.20)
 #### [BaekJoon] 골뱅이 찍기 - 돌아간 ㅍ (Python)
 #### Blog : https://bit.ly/3kul1ps
+
+### DAY928 (2022.01.21)
+#### [BaekJoon] Words (Python)
+#### Blog : https://bit.ly/3WvoIZs
