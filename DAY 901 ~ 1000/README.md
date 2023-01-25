@@ -121,3 +121,7 @@
 ### DAY931 (2022.01.24)
 #### [BaekJoon] Population (Python)
 #### Blog : https://bit.ly/3iYlxeZ
+
+### DAY932 (2022.01.25)
+#### [BaekJoon] 골뱅이 찍기 - 돌아간 ㅈ (Python)
+#### Blog : https://bit.ly/3WzcleE
