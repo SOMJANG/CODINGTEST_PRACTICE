@@ -125,3 +125,7 @@
 ### DAY932 (2022.01.25)
 #### [BaekJoon] 골뱅이 찍기 - 돌아간 ㅈ (Python)
 #### Blog : https://bit.ly/3WzcleE
+
+### DAY933 (2022.01.26)
+#### [Programmers] 2023 KAKAO BLIND RECRUITMENT - 개인정보 수집 유효기간 (Python)
+#### Blog : https://bit.ly/3H9VgT0
