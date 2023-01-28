@@ -129,3 +129,7 @@
 ### DAY933 (2022.01.26)
 #### [Programmers] 2023 KAKAO BLIND RECRUITMENT - 개인정보 수집 유효기간 (Python)
 #### Blog : https://bit.ly/3H9VgT0
+
+### DAY934 (2022.01.28)
+#### [Programmers] 최빈값 구하기 (Python)
+#### Blog : https://bit.ly/3kKd9jL
