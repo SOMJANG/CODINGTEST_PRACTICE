@@ -137,3 +137,7 @@
 ### DAY935 (2022.01.30)
 #### [BaekJoon] 몇개고? (Python)
 #### Blog : https://bit.ly/3DpIyia
+
+### DAY936 (2022.01.31)
+#### [BaekJoon] 時間 (Hour) (Python)
+#### Blog : https://bit.ly/3wIsioq
