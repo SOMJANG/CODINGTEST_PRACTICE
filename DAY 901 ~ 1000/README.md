@@ -133,3 +133,7 @@
 ### DAY934 (2022.01.28)
 #### [Programmers] 최빈값 구하기 (Python)
 #### Blog : https://bit.ly/3kKd9jL
+
+### DAY935 (2022.01.30)
+#### [BaekJoon] 몇개고? (Python)
+#### Blog : https://bit.ly/3DpIyia
