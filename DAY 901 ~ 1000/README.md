@@ -141,3 +141,7 @@
 ### DAY936 (2022.01.31)
 #### [BaekJoon] 時間 (Hour) (Python)
 #### Blog : https://bit.ly/3wIsioq
+
+### DAY937 (2022.02.01)
+#### [BaekJoon] 長方形 (Rectangle) (Python)
+#### Blog : https://bit.ly/3jezCoY
