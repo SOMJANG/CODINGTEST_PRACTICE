@@ -145,3 +145,7 @@
 ### DAY937 (2022.02.01)
 #### [BaekJoon] 長方形 (Rectangle) (Python)
 #### Blog : https://bit.ly/3jezCoY
+
+### DAY938 (2022.02.02)
+#### [BaekJoon] 2 桁の整数 (Two-digit Integer) (Python)
+#### Blog : https://bit.ly/3YlekVc
