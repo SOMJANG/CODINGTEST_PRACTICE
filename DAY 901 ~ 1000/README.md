@@ -149,3 +149,7 @@
 ### DAY938 (2022.02.02)
 #### [BaekJoon] 2 桁の整数 (Two-digit Integer) (Python)
 #### Blog : https://bit.ly/3YlekVc
+
+### DAY939 (2022.02.03)
+#### [BaekJoon] ゾロ目 (Same Numbers) (Python)
+#### Blog : https://bit.ly/3Yjulv5
