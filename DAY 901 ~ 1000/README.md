@@ -153,3 +153,7 @@
 ### DAY939 (2022.02.03)
 #### [BaekJoon] ゾロ目 (Same Numbers) (Python)
 #### Blog : https://bit.ly/3Yjulv5
+
+### DAY940 (2022.02.04)
+#### [Programmers] 둘만의 암호 (Python)
+#### Blog : https://bit.ly/3RuGnj5
