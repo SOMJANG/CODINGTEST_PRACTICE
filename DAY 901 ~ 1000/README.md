@@ -157,3 +157,7 @@
 ### DAY940 (2022.02.04)
 #### [Programmers] 둘만의 암호 (Python)
 #### Blog : https://bit.ly/3RuGnj5
+
+### DAY941 (2022.02.05)
+#### [BaekJoon] Letter Frequency (Python)
+#### Blog : https://bit.ly/3l8Tr1w
