@@ -161,3 +161,7 @@
 ### DAY941 (2022.02.05)
 #### [BaekJoon] Letter Frequency (Python)
 #### Blog : https://bit.ly/3l8Tr1w
+
+### DAY942 (2022.02.06)
+#### [BaekJoon] 팩토리얼 2 (Python)
+#### Blog : https://bit.ly/3YodKGo
