@@ -169,3 +169,7 @@
 ### DAY943 (2022.02.09)
 #### [Programmers] 등수 매기기 (Python)
 #### Blog : https://bit.ly/3I8s9Af
+
+### DAY944 (2022.02.10)
+#### [BaekJoon] 단어 우월 효과 (캠브릿지 대학의 연구결과) (Python)
+#### Blog : https://bit.ly/3Xi1rub
