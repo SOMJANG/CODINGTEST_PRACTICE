@@ -174,6 +174,10 @@
 #### [BaekJoon] 단어 우월 효과 (캠브릿지 대학의 연구결과) (Python)
 #### Blog : https://bit.ly/3Xi1rub
 
-### DAY945(2022.02.11)
+### DAY945 (2022.02.11)
 #### [Programmers] 잘라서 배열로 저장하기 (Python)
 #### Blog : https://bit.ly/3E1ElkZ
+
+### DAY946 (2022.02.12)
+#### [Programmers] 배열 회전시키기 (Python)
+#### Blog : https://bit.ly/3IiR6dl
