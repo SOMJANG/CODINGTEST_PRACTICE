@@ -185,3 +185,7 @@
 ### DAY947 (2022.02.14)
 #### [Programmers] 로그인 성공? (Python)
 #### Blog : https://bit.ly/3E5Xcvh
+
+### DAY948 (2022.02.15)
+#### [Programmers] 연속된 수의 합 (Python)
+#### Blog : https://bit.ly/3Ip5gd9
