@@ -181,3 +181,7 @@
 ### DAY946 (2022.02.12)
 #### [Programmers] 배열 회전시키기 (Python)
 #### Blog : https://bit.ly/3IiR6dl
+
+### DAY947 (2022.02.14)
+#### [Programmers] 로그인 성공? (Python)
+#### Blog : https://bit.ly/3E5Xcvh
