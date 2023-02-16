@@ -189,3 +189,7 @@
 ### DAY948 (2022.02.15)
 #### [Programmers] 연속된 수의 합 (Python)
 #### Blog : https://bit.ly/3Ip5gd9
+
+### DAY949 (2022.02.16)
+#### [Programmers] OX퀴즈 (Python)
+#### Blog : https://bit.ly/3YSWfhN
