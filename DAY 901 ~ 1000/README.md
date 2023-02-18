@@ -193,3 +193,7 @@
 ### DAY949 (2022.02.16)
 #### [Programmers] OX퀴즈 (Python)
 #### Blog : https://bit.ly/3YSWfhN
+
+### DAY950 (2022.02.18)
+#### [Programmers] 컨트롤 제트 (Python)
+#### Blog : https://bit.ly/3IyMZtN
