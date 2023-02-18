@@ -197,3 +197,7 @@
 ### DAY950 (2022.02.18)
 #### [Programmers] 컨트롤 제트 (Python)
 #### Blog : https://bit.ly/3IyMZtN
+
+### DAY951 (2022.02.19)
+#### [Programmers] 카드 뭉치 (Python)
+#### Blog : https://bit.ly/3xyW1AQ
