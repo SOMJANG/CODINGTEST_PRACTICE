@@ -213,3 +213,7 @@
 ### DAY954 (2022.02.22)
 #### [Programmers] 명예의 전당 (1) (Python)
 #### Blog : https://bit.ly/3Z6nc1m
+
+### DAY955 (2022.02.23)
+#### [Programmers] 짝수 홀수 개수 (Python)
+#### Blog : https://bit.ly/3IQ5OZN
