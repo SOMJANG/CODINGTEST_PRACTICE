@@ -218,6 +218,10 @@
 #### [Programmers] 짝수 홀수 개수 (Python)
 #### Blog : https://bit.ly/3IQ5OZN
 
-### DAY956 (2022.02.24)
+### DAY956 (2022.02.25)
 #### [Programmers] 7의 개수 (Python)
 #### Blog : https://bit.ly/3ECbSm7
+
+### DAY957 (2022.02.26)
+#### [BaekJoon] HTML (Python)
+#### Blog : https://bit.ly/3Ez3hAz
