@@ -225,3 +225,7 @@
 ### DAY957 (2022.02.26)
 #### [BaekJoon] HTML (Python)
 #### Blog : https://bit.ly/3Ez3hAz
+
+### DAY958 (2022.02.28)
+#### [Programmers] 문자열 계산하기 (Python)
+#### Blog : https://bit.ly/3m8ACMq
