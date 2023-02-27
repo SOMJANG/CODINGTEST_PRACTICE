@@ -226,6 +226,10 @@
 #### [BaekJoon] HTML (Python)
 #### Blog : https://bit.ly/3Ez3hAz
 
-### DAY958 (2022.02.28)
+### DAY958 (2022.02.27)
 #### [Programmers] 문자열 계산하기 (Python)
 #### Blog : https://bit.ly/3m8ACMq
+
+### DAY959 (2022.02.28)
+#### [Programmers] 피자 나눠 먹기 (3) (Python)
+#### Blog : https://bit.ly/3m988SK
