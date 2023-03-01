@@ -233,3 +233,7 @@
 ### DAY959 (2022.02.28)
 #### [Programmers] 피자 나눠 먹기 (3) (Python)
 #### Blog : https://bit.ly/3m988SK
+
+### DAY960 (2022.03.01)
+#### [Programmers] 다항식 더하기 (Python)
+#### Blog : https://bit.ly/3mdPEk3
