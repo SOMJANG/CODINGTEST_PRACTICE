@@ -237,3 +237,7 @@
 ### DAY960 (2022.03.01)
 #### [Programmers] 다항식 더하기 (Python)
 #### Blog : https://bit.ly/3mdPEk3
+
+### DAY961 (2022.03.02)
+#### [Programmers] 숨어있는 숫자의 덧셈 (Python)
+#### Blog : https://bit.ly/3SKn4Ty
