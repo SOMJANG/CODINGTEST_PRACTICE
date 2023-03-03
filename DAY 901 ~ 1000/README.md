@@ -241,3 +241,7 @@
 ### DAY961 (2022.03.02)
 #### [Programmers] 숨어있는 숫자의 덧셈 (Python)
 #### Blog : https://bit.ly/3SKn4Ty
+
+### DAY962 (2022.03.03)
+#### [Programmers] 순서쌍의 개수 (Python)
+#### Blog : https://bit.ly/3J8B6Lp
