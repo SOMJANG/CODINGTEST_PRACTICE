@@ -253,3 +253,7 @@
 ### DAY964 (2022.03.05)
 #### [Programmers] 가위 바위 보 (Python)
 #### Blog : https://bit.ly/3monkvo
+
+### DAY965 (2022.03.06)
+#### [Programmers] 바탕화면 정리 (Python)
+#### Blog : https://bit.ly/3ZGl54H
