@@ -257,3 +257,7 @@
 ### DAY965 (2022.03.06)
 #### [Programmers] 바탕화면 정리 (Python)
 #### Blog : https://bit.ly/3ZGl54H
+
+### DAY966 (2022.03.07)
+#### [BaekJoon] 빅데이터? 정보보호! (Python)
+#### Blog : https://bit.ly/3ZpzSRw
