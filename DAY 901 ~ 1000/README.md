@@ -261,3 +261,7 @@
 ### DAY966 (2022.03.07)
 #### [BaekJoon] 빅데이터? 정보보호! (Python)
 #### Blog : https://bit.ly/3ZpzSRw
+
+### DAY967 (2022.03.08)
+#### [BaekJoon] I Speak TXTMSG (Python)
+#### Blog : https://bit.ly/3YtqPh8
