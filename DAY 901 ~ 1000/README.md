@@ -265,3 +265,7 @@
 ### DAY967 (2022.03.08)
 #### [BaekJoon] I Speak TXTMSG (Python)
 #### Blog : https://bit.ly/3YtqPh8
+
+### DAY968 (2022.03.09)
+#### [BaekJoon] 문자와 문자열 (Python)
+#### Blog : https://bit.ly/3ZRsmPp
