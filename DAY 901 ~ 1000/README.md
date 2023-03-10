@@ -269,3 +269,7 @@
 ### DAY968 (2022.03.09)
 #### [BaekJoon] 문자와 문자열 (Python)
 #### Blog : https://bit.ly/3ZRsmPp
+
+### DAY969 (2022.03.10)
+#### [BaekJoon] 카트라이더: 드리프트 (Python)
+#### Blog : https://bit.ly/3mM863a
