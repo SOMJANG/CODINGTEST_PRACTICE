@@ -281,3 +281,7 @@
 ### DAY971 (2022.03.12)
 #### [BaekJoon] LCM (Python)
 #### Blog : https://bit.ly/3FimWoR
+
+### DAY972 (2022.03.13)
+#### [Programmers] 배열의 유사도 (Python)
+#### Blog : https://bit.ly/3JyJQdP
