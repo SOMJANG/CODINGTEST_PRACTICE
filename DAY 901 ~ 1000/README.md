@@ -273,3 +273,11 @@
 ### DAY969 (2022.03.10)
 #### [BaekJoon] 카트라이더: 드리프트 (Python)
 #### Blog : https://bit.ly/3mM863a
+
+### DAY970 (2022.03.11)
+#### [Programmers] 이진수 더하기 (Python)
+#### Blog : https://bit.ly/3myjmQH
+
+### DAY971 (2022.03.12)
+#### [BaekJoon] LCM (Python)
+#### Blog : https://bit.ly/3FimWoR
