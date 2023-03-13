@@ -285,3 +285,7 @@
 ### DAY972 (2022.03.13)
 #### [Programmers] 배열의 유사도 (Python)
 #### Blog : https://bit.ly/3JyJQdP
+
+### DAY973 (2022.03.14)
+#### [BaekJoon] Pyramids (Python)
+#### Blog : https://bit.ly/3JAtSzZ
