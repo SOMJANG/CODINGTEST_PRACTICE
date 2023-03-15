@@ -289,3 +289,7 @@
 ### DAY973 (2022.03.14)
 #### [BaekJoon] Pyramids (Python)
 #### Blog : https://bit.ly/3JAtSzZ
+
+### DAY974 (2022.03.15)
+#### [BaekJoon] 받아올림 (Python)
+#### Blog : https://bit.ly/3mIGUm1
