@@ -297,3 +297,7 @@
 ### DAY975 (2022.03.16)
 #### [BaekJoon] 부호 (Python)
 #### Blog : https://bit.ly/3ZQhrpm
+
+### DAY976 (2022.03.17)
+#### [BaekJoon] Oddities (Python)
+#### Blog : https://bit.ly/3yHVXiN
