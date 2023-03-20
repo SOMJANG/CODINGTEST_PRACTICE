@@ -305,3 +305,7 @@
 ### DAY977 (2022.03.20)
 #### [BaekJoon] Missing Numbers (Python)
 #### Blog : https://bit.ly/40hFfCu
+
+### DAY978 (2022.03.21)
+#### [leetCode] Minimum Absolute Difference (Python)
+#### Blog : https://bit.ly/3YZjlmA
