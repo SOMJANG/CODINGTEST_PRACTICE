@@ -301,3 +301,7 @@
 ### DAY976 (2022.03.17)
 #### [BaekJoon] Oddities (Python)
 #### Blog : https://bit.ly/3yHVXiN
+
+### DAY977 (2022.03.20)
+#### [BaekJoon] Missing Numbers (Python)
+#### Blog : https://bit.ly/40hFfCu
