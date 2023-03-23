@@ -309,3 +309,11 @@
 ### DAY978 (2022.03.21)
 #### [leetCode] Minimum Absolute Difference (Python)
 #### Blog : https://bit.ly/3YZjlmA
+
+### DAY979 (2022.03.22)
+#### [leetCode] Adding Two Negabinary Numbers (Python)
+#### Blog : https://bit.ly/3nbQ0I8
+
+### DAY980 (2022.03.23)
+#### [leetCode] Number of Zero-Filled Subarrays (Python)
+#### Blog : https://bit.ly/3TEUJym
