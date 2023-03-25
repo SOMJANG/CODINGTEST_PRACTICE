@@ -317,3 +317,11 @@
 ### DAY980 (2022.03.23)
 #### [leetCode] Number of Zero-Filled Subarrays (Python)
 #### Blog : https://bit.ly/3TEUJym
+
+### DAY981 (2022.03.25)
+#### [leetCode] Check if Every Row and Column Contains All Numbers (Python)
+#### Blog : https://bit.ly/3JJUbmf
+
+### DAY982 (2022.03.26)
+#### [leetCode] Find the Difference of Two Arrays (Python)
+#### Blog : https://bit.ly/3ZluYUW
