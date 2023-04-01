@@ -337,3 +337,7 @@
 ### DAY985 (2022.03.29)
 #### [BaekJoon] 피보나치 인버스 (Python)
 #### Blog : https://bit.ly/40SkVI9
+
+### DAY986 (2022.04.01)
+#### [BaekJoon] IPv6 (Python)
+#### Blog : https://bit.ly/3KriQh7
