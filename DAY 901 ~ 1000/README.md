@@ -341,3 +341,7 @@
 ### DAY986 (2022.04.01)
 #### [BaekJoon] IPv6 (Python)
 #### Blog : https://bit.ly/3KriQh7
+
+### DAY987 (2022.04.02)
+#### [Programmers] 2차원으로 만들기 (Python)
+#### Blog : https://bit.ly/3zvwnh2
