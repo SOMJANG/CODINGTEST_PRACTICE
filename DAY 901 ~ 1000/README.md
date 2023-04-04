@@ -345,3 +345,7 @@
 ### DAY987 (2022.04.02)
 #### [Programmers] 2차원으로 만들기 (Python)
 #### Blog : https://bit.ly/3zvwnh2
+
+### DAY988 (2022.04.04)
+#### [BaekJoon] 특별한 학교 이름 (Python)
+#### Blog : https://bit.ly/3U9EZDM
