@@ -349,3 +349,7 @@
 ### DAY988 (2022.04.04)
 #### [BaekJoon] 특별한 학교 이름 (Python)
 #### Blog : https://bit.ly/3U9EZDM
+
+### DAY989 (2022.04.05)
+#### [Programmers] 제곱수 판별하기 (Python)
+#### Blog : https://bit.ly/3nN5fru
