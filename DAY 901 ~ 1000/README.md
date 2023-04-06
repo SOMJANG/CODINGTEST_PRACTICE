@@ -353,3 +353,11 @@
 ### DAY989 (2022.04.05)
 #### [Programmers] 제곱수 판별하기 (Python)
 #### Blog : https://bit.ly/3nN5fru
+
+### DAY990 (2022.04.06)
+#### [Programmers] 다음에 올 숫자 (Python)
+#### Blog : https://bit.ly/415o6wn
+
+### DAY991 (2022.04.07)
+#### [Programmers] 369 게임 (Python)
+#### Blog : https://bit.ly/3nSf0ET
