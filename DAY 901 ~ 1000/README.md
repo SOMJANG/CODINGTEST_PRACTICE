@@ -361,3 +361,7 @@
 ### DAY991 (2022.04.07)
 #### [Programmers] 369 게임 (Python)
 #### Blog : https://bit.ly/3nSf0ET
+
+### DAY992 (2022.04.08)
+#### [Programmers] 약수 구하기 (Python)
+#### Blog : https://bit.ly/416Nku0
