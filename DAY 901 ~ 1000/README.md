@@ -369,3 +369,7 @@
 ### DAY993 (2022.04.09)
 #### [Programmers] 팩토리얼 (Python)
 #### Blog : https://bit.ly/3mmXfx1
+
+### DAY994 (2022.04.10)
+#### [Programmers] 진료 순서 정하기 (Python)
+#### Blog : https://bit.ly/4023y76
