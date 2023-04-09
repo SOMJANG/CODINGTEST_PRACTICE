@@ -365,3 +365,7 @@
 ### DAY992 (2022.04.08)
 #### [Programmers] 약수 구하기 (Python)
 #### Blog : https://bit.ly/416Nku0
+
+### DAY993 (2022.04.09)
+#### [Programmers] 팩토리얼 (Python)
+#### Blog : https://bit.ly/3mmXfx1
