@@ -373,3 +373,11 @@
 ### DAY994 (2022.04.10)
 #### [Programmers] 진료 순서 정하기 (Python)
 #### Blog : https://bit.ly/4023y76
+
+### DAY995 (2022.04.11)
+#### [Programmers] 외계행성의 나이 (Python)
+#### Blog : https://bit.ly/3zP2gRX
+
+### DAY996 (2022.04.12)
+#### [Programmers] 개미 군단 (Python)
+#### Blog : https://bit.ly/3GyViob
