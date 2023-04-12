@@ -381,3 +381,7 @@
 ### DAY996 (2022.04.12)
 #### [Programmers] 개미 군단 (Python)
 #### Blog : https://bit.ly/3GyViob
+
+### DAY997 (2022.04.13)
+#### [Programmers] 구슬을 나누는 경우 (Python)
+#### Blog : https://bit.ly/3Gzelib
