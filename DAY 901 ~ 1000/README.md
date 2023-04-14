@@ -385,3 +385,7 @@
 ### DAY997 (2022.04.13)
 #### [Programmers] 구슬을 나누는 경우 (Python)
 #### Blog : https://bit.ly/3Gzelib
+
+### DAY998 (2022.04.14)
+#### [Programmers] 공 던지기 (Python)
+#### Blog : https://bit.ly/3oiUuNC
