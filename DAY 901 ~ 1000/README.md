@@ -389,3 +389,7 @@
 ### DAY998 (2022.04.14)
 #### [Programmers] 공 던지기 (Python)
 #### Blog : https://bit.ly/3oiUuNC
+
+### DAY999 (2022.04.15)
+#### [BaekJoon] 가위 바위 보 999 (Python)
+#### Blog : https://bit.ly/3A2mUhA
