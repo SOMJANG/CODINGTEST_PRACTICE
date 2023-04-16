@@ -393,3 +393,7 @@
 ### DAY999 (2022.04.15)
 #### [BaekJoon] 가위 바위 보 999 (Python)
 #### Blog : https://bit.ly/3A2mUhA
+
+### DAY1000 (2022.04.16)
+#### [BaekJoon] Java vs C++ (Python)
+#### Blog : https://bit.ly/40hEjO2
