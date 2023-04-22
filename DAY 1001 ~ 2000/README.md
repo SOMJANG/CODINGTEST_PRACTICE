@@ -5,3 +5,7 @@
 ### DAY1002 (2023.04.21)
 #### [Programmers] 숨어있는 숫자의 덧셈 (1) (Python)
 #### Blog : https://bit.ly/3mYNO75
+
+### DAY1003 (2023.04.22)
+#### [Programmers] 추억 점수 (Python)
+#### Blog : https://bit.ly/3LmPfWA
