@@ -13,3 +13,7 @@
 ### DAY1004 (2023.04.23)
 #### [Programmers] 달리기 경주 (Python)
 #### Blog : https://bit.ly/3LmeKXM
+
+### DAY1005 (2023.04.29)
+#### [BaekJoon] 초코바 (Python)
+#### Blog : https://bit.ly/428NWzX
